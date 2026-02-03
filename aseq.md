@@ -1,6 +1,6 @@
 # Aseq
 
-![Aseq Movie Cover](E:/Notes/reviews/Movie-Reviews/utils/covers/aseq.png)
+![Aseq Movie Cover](utils/covers/aseq.png)
 
 
 | |                             |

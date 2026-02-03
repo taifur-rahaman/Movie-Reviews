@@ -1,6 +1,6 @@
 # Pechi
 
-![Pechi Movie Cover](E:/Notes/reviews/Movie-Reviews/utils/covers/pechi.png)
+![Pechi Movie Cover](utils/covers/pechi.png)
 
 
 | |                             |
