@@ -39,7 +39,7 @@
 
 | 🏷️ **Genre** | 🎬 **Film** | ⏳ **Runtime** | ⚡ **Status** | 📺 **Platform** |
 | :--- | :--- | :---: | :---: | :---: |
-| 👻 Horror | [Aseq](aseq.md) | 1h 47m | 📺 Watching | Home |
+| 👻 Horror | [Aseq](titles/aseq.md) | 1h 47m | 📺 Watching | Home |
 
 ---
 
@@ -124,9 +124,9 @@
 
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Aseq](aseq.md) | 2023 | TBD | 1h 47m | Watching | Home |
-| [Pechi](pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
-| [The House Next Door](the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Watched | Home |
+| [Aseq](titles/aseq.md) | 2023 | TBD | 1h 47m | Watching | Home |
+| [Pechi](titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
+| [The House Next Door](titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Watched | Home |
 
 ---
 
