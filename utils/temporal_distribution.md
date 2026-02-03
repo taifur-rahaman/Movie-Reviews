@@ -24,9 +24,9 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Year** | **Movies Watched** | **Total Runtime** | **Films** |
 |:---:|:---:|:---:|:---|
-| 2017 | 1 | 2h 17m | The House Next Door |
-| 2023 | 1 (watching) | 1h 47m | Aseq |
-| 2024 | 1 | 2h 3m | Pechi |
+| 2017 | 1 | 2h 17m | [The House Next Door](../the_house_next_door.md) |
+| 2023 | 1 (watching) | 1h 47m | [Aseq](../aseq.md) |
+| 2024 | 1 | 2h 3m | [Pechi](../pechi.md) |
 
 ---
 
@@ -60,8 +60,8 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Rank** | **Film** | **Year** | **Rating** | **Genre** |
 |:---:|:---|:---:|:---:|:---|
-| 1 | Pechi | 2024 | ★★★★☆ | Horror |
-| 2 | The House Next Door | 2017 | ★★⯪☆☆ | Horror |
+| 1 | [Pechi](../pechi.md) | 2024 | ★★★★☆ | Horror |
+| 2 | [The House Next Door](../the_house_next_door.md) | 2017 | ★★⯪☆☆ | Horror |
 
 ---
 

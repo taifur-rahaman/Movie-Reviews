@@ -1,41 +1,15 @@
 <div align="center">
 
 # 🎬 𝕿𝖍𝖊 𝕮𝖎𝖓𝖊𝖒𝖆𝖙𝖎𝖈 𝕬𝖗𝖈𝖍𝖎𝖛𝖊𝖘 🎬
-## *Chronicles of the Silver Screen Keeper*
 
-<pre>
-╔══════════════════════════════════════════════════════════════════════╗
-║  "In the beginning, there was the screen, and the screen was with   ║
-║   the Viewer, and the Viewer was eternal. Through countless hours    ║
-║   in darkened rooms, through stories that moved the soul, legends    ║
-║   were witnessed and memories were forged..."                        ║
-╚══════════════════════════════════════════════════════════════════════╝
-</pre>
-
-<p><em>Hail, fellow cinephile! By fate or fortune, thou hast discovered the <strong>Cinematic Archives of the Eternal Keeper</strong>—a sacred sanctuary where the echoes of countless stories resonate through celluloid and pixels. Within these hallowed halls, illuminated by the glow of screens both large and small, lie the chronicles of worlds experienced through the magic of cinema, emotions stirred by masterful storytelling, and legends witnessed in the comfort of home theaters and streaming platforms.</em></p>
-
-<p><em>Draw near to the hearth, brave wanderer. Warm thy hands upon the fires of cinematic nostalgia, rest thy movie-weary spirit, and partake in the epic saga of one soul's odyssey across the infinite multiverse of film. Each scroll herein bears witness to laughter and tears, to hours spent in pursuit of the ultimate quest: <strong>The Perfect Movie</strong>.</em></p>
-
-<pre>
-═══════════════════════════════════════════════════════════════════════
-⚜️  THE KEEPER'S SEAL  ⚜️
-═══════════════════════════════════════════════════════════════════════
-</pre>
-
+<p><em>A personal collection of movie reviews and viewing experiences.</em></p>
 
 ## 📑 Table of Contents
-### *Navigate the Archives with Ease*
-
-<pre>
-╔══════════════════════════════════════════════════════════════════════╗
-║                        🗺️  QUICK NAVIGATION  🗺️                     ║
-╚══════════════════════════════════════════════════════════════════════╝
-</pre>
 
 | 🔖 **Section** | 📝 **Description** |
 |:---|:---|
-| [📜 The Keeper's Sacred Registry](#-the-keepers-sacred-registry) | View total movies, hours watched, and active viewings |
-| [🗺️ The Gallery of Stories](#️-the-gallery-of-stories) | Browse all movie reviews by genre |
+| [📜 Statistics](#-statistics) | View total movies, hours watched, and active viewings |
+| [🗺️ Movie Reviews by Genre](#️-movie-reviews-by-genre) | Browse all movie reviews by genre |
 | └─ [🎬 Action & Adventure](#-action--adventure) | Explosive action and thrilling adventures |
 | └─ [🎭 Drama](#-drama) | Powerful dramatic narratives |
 | └─ [😂 Comedy](#-comedy) | Laughter and lighthearted fun |
@@ -44,51 +18,32 @@
 | └─ [❤️ Romance](#️-romance) | Love stories that touch the heart |
 | └─ [👻 Horror](#-horror) | Chills and supernatural scares |
 | └─ [🕵️ Mystery & Crime](#️-mystery--crime) | Whodunits and criminal masterminds |
-| [🗺️ What to Watch Next](#️-what-to-watch-next) | Year-wise movie recommendations |
-| [🌟 The Star Chart of Judgment](#-the-star-chart-of-judgment) | Rating system explained |
-| [📚 The Keeper's Wisdom](#-the-keepers-wisdom) | Cinema philosophy & quotes |
 
-<pre>
-═══════════════════════════════════════════════════════════════════════
-</pre>
+---
 
-## 📜 The Keeper's Sacred Registry
-### *Wherein the Cumulative Feats of the Eternal Viewer Are Inscribed*
+## 📜 Statistics
 
-<p><em>These mystical metrics are etched upon enchanted parchment, updated by arcane ritual as each new chapter of the journey unfolds. Behold the magnitude of the cinematic quest!</em></p>
-
-| **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
+| **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Scrolls Inscribed** | **3 Films** | *Stories Documented* |
-| **⏳ Hours Watched** | **4h 20m** | *Lifetimes Witnessed* |
-| **🎬 Films Completed** | **2 Masterpieces** | *Journeys Finished* |
+| **📜 Films Logged** | **3 Films** | *Stories Documented* |
+| **⏳ Hours Watched** | **4h 20m** | *Total Watch Time* |
+| **🎬 Films Completed** | **2 Films** | *Journeys Finished* |
 | **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
-<pre>
-═══════════════════════════════════════════════════════════════════════
-</pre>
+---
 
 [⏳ View Detailed Temporal Distribution](utils/temporal_distribution.md)
 
-<pre>
-═══════════════════════════════════════════════════════════════════════
-</pre>
 
-## 🎥 The Keeper's Active Viewings
-### *Current Stories Where the Eternal Viewer Stands Captivated*
-
-<p><em>The Keeper stands at the threshold of new stories, experiencing tales that unfold frame by frame. These are the films currently captivating attention, their narratives still unfolding...</em></p>
+## 🎥 Currently Watching
 
 | 🏷️ **Genre** | 🎬 **Film** | ⏳ **Runtime** | ⚡ **Status** | 📺 **Platform** |
 | :--- | :--- | :---: | :---: | :---: |
 | 👻 Horror | [Aseq](aseq.md) | 1h 47m | 📺 Watching | Home |
 
-<pre>
-╔══════════════════════════════════════════════════════════════════════╗
-║                    🗺️  THE GALLERY OF STORIES  🗺️                   ║
-║          A Curated Collection of Cinematic Experiences               ║
-╚══════════════════════════════════════════════════════════════════════╝
-</pre>
+---
+
+## 🗺️ Movie Reviews by Genre
 
 ### 🎬 Action & Adventure
 *Legends of Heroes, Explosions & Epic Quests*
@@ -187,101 +142,7 @@
 
 ---
 
-<pre>
-═══════════════════════════════════════════════════════════════════════
-</pre>
-
-## 🗺️ What to Watch Next
-### *The Keeper's Curated Recommendations by Era*
-
-<p><em>Not all stories lie in the past, brave keeper. The multiverse of cinema spans decades, and many legendary films await thy viewing. Consult these sacred scrolls—recommendations forged from thy proven preferences and the wisdom of film history.</em></p>
-
-<pre>
-╔══════════════════════════════════════════════════════════════════════╗
-║           📚 YEAR-WISE RECOMMENDATIONS & WATCHLIST 📚               ║
-║     Curated specifically for the Eternal Keeper's tastes             ║
-╚══════════════════════════════════════════════════════════════════════╝
-</pre>
-
-**Legend:** ✅ = Watched | 📺 = Currently Watching | • = Not Started
-
-| 📅 **Year** | 🎬 **Must-Watch Films** | 📊 **Progress** | 🔗 **Guide** |
-|:---:|:---|:---:|:---:|
-
-*Recommendations will be added as your viewing journey progresses...*
-
-<pre>
-═══════════════════════════════════════════════════════════════════════
-</pre>
-
-## 🌟 The Star Chart of Judgment
-### *The Sacred Scale by Which All Films Are Measured*
-
-<p><em>Every story, every performance, every cinematic odyssey must be weighed upon the cosmic scales of judgment. The Keeper employs this ancient star chart—forged in the fires of countless viewing sessions and tempered by the wisdom of experience—to measure the worth of each film. Let these celestial markers guide thee in thy own journeys.</em></p>
-
-<pre>
-╔══════════════════════════════════════════════════════════════════════╗
-║                    ⭐ THE CELESTIAL RANKINGS ⭐                     ║
-╚══════════════════════════════════════════════════════════════════════╝
-</pre>
-
-| ⭐ **Rating** | 🏆 **Classification** | 📖 **Decree** |
-|:---:|:---|:---|
-| **★★★★★★** | **💎 TRANSCENDENT MASTERPIECE** | *Beyond perfection—a once-in-a-generation film that redefines cinema* |
-| **★★★★★** | **⚜️ LEGENDARY CLASSIC** | *A flawless masterpiece that will echo through film history eternal* |
-| **★★★★⯪** | **🔱 EXCEPTIONAL FILM** | *Excellent in nearly every regard—a treasure worth seeking* |
-| **★★★★☆** | **⚔️ GREAT FILM** | *Great experience with memorable moments—worthy of any collection* |
-| **★★★⯪☆** | **🛡️ GOOD FILM** | *Good with notable strengths—a solid watch for the discerning* |
-| **★★★☆☆** | **🗝️ DECENT FILM** | *Decent but unremarkable—serviceable for a casual viewing* |
-| **★★⯪☆☆** | **⚙️ BELOW AVERAGE** | *Below average—shows promise but falls short* |
-| **★★☆☆☆** | **🪨 MEDIOCRE** | *Mediocre—only for the desperate or curious* |
-| **★☆☆☆☆** | **💀 AVOID** | *Avoid at all costs—a waste of precious viewing hours* |
-
-<pre>
-═══════════════════════════════════════════════════════════════════════
-</pre>
-
-## 📚 The Keeper's Wisdom
-
-<p><em>"The cinema is truth 24 frames per second."</em><br>
-— <strong>Jean-Luc Godard</strong></p>
-
-<p><em>"Movies can and do have tremendous influence in shaping young lives in the realm of entertainment towards the ideals and objectives of normal adulthood."</em><br>
-— <strong>Walt Disney</strong></p>
-
-<pre>
-╔══════════════════════════════════════════════════════════════════════╗
-║    May your popcorn be endless and your streaming buffer-free.       ║
-║      May you find the films that speak to your soul, and may your    ║
-║       watchlist never grow too overwhelming. Until we meet again     ║
-║         in another story, another world, another cinematic           ║
-║                          adventure...                                ║
-║                                                                      ║
-║                       🎬  LIGHTS, CAMERA, ACTION  🎬                ║
-╚══════════════════════════════════════════════════════════════════════╝
-</pre>
-
-<pre>
-═══════════════════════════════════════════════════════════════════════
-</pre>
-
----
-
-*The Cinematic Archives are maintained by the Eternal Keeper*  
-*A Devoted Lover of the Silver Screen*  
-*Last Updated: 31st January 2026*  
-*Version: 1.2.0 - Second Film Completed*
-
-<pre>
-┌────────────────────────────────────────────────────────────┐
-│      Current Platform: Streaming & Home Theater            │
-│  Future Aspirations: IMAX & Theatrical Experiences         │
-└────────────────────────────────────────────────────────────┘
-</pre>
-
-**🎬 "We are all stories in the end. Just make it a good one." 🎬**
-
-*"May your films be captivating, your snacks plentiful,*  
-*and your watchlist ever-growing."*
+*The Cinematic Archives*  
+*Last Updated: 3rd February 2026*
 
 </div>
