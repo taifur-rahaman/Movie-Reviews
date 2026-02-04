@@ -11,7 +11,7 @@
 | Status             | Completed                   |
 | Watch Date         | 31st January 2026           |
 | Runtime            | 2h 17m                      |
-| Rating             | ★★⯪☆☆                      |
+| Rating             | ★★⯪☆☆ (4.8/10)             |
 | Platform           | Home                        |
 | Language           | Tamil / Hindi / Telugu      |
 | Country            | India                       |
@@ -73,6 +73,21 @@ The film tries to bridge Western possession horror conventions with Indian cultu
 **Final Thought:** A decent setup and nice production values can't save a horror film that isn't scary and ends with a whimper instead of a bang. Skip it.
 
 **Rating: ★★⯪☆☆ (2.5/5)** - Wasted potential. Good setup and production values undermined by lack of scares and a rushed, poorly executed ending.
+
+---
+
+### Rating Breakdown
+
+| Category | Score | Notes |
+|---|---|---|
+| **Cinematography** | **7.0** | Solid production values, beautiful Himalayan locations. |
+| **Plot** | **6.0** | Decent setup with possession and house history. |
+| **Story** | **4.5** | Promising start, rushed and poorly executed ending. |
+| **Character Development** | **5.5** | Competent performances, but characters aren't memorable. |
+| **Scares/Horror** | **2.0** | Not scary at all. Lame, predictable jump scares. |
+| **Enjoyment** | **4.0** | Frustrating. Good setup wasted by poor execution. |
+| **Overall** | **4.8** | **Below Average** (wasted potential) |
+| **Pace** | **Uneven** | Slow build-up, then rushed ending |
 
 ---
 

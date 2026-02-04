@@ -27,8 +27,8 @@
 | :--- | :---: | :--- |
 | **📜 Films Logged** | **3 Films** | *Stories Documented* |
 | **⏳ Hours Watched** | **4h 20m** | *Total Watch Time* |
-| **🎬 Films Completed** | **2 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
+| **🎬 Films Completed** | **3 Films** | *Journeys Finished* |
+| **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
 
 ---
 
@@ -37,9 +37,7 @@
 
 ## 🎥 Currently Watching
 
-| 🏷️ **Genre** | 🎬 **Film** | ⏳ **Runtime** | ⚡ **Status** | 📺 **Platform** |
-| :--- | :--- | :---: | :---: | :---: |
-| 👻 Horror | [Aseq](titles/aseq.md) | 1h 47m | 📺 Watching | Home |
+*No films currently in progress. Time to start a new adventure!*
 
 ---
 
@@ -124,7 +122,7 @@
 
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Aseq](titles/aseq.md) | 2023 | TBD | 1h 47m | Watching | Home |
+| [Aseq](titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Watched | Home |
 | [Pechi](titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
 | [The House Next Door](titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Watched | Home |
 

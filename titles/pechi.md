@@ -11,7 +11,7 @@
 | Status             | Watched                     |
 | Watch Date         | 27th January 2026           |
 | Runtime            | 2h 3m                       |
-| Rating             | ★★★★☆                      |
+| Rating             | ★★★★☆ (8.0/10)             |
 | Platform           | Home                        |
 | Language           | Tamil / Hindi               |
 | Country            | India                       |
@@ -71,6 +71,21 @@ Bottom line: If you like atmospheric horror that builds dread instead of just th
 **Final Thought:** Some spirits don't haunt because they're evil—they haunt because they were wronged and nobody listened. Pechi makes you listen.
 
 **Rating: ★★★★☆ (Great Film)** - Atmospheric Tamil horror that earns its scares through tension and cultural authenticity instead of cheap tricks. Genuinely unsettling.
+
+---
+
+### Rating Breakdown
+
+| Category | Score | Notes |
+|---|---|---|
+| **Cinematography** | **8.5** | Beautiful and terrifying. Natural lighting, real locations. |
+| **Plot** | **7.5** | Solid folklore-based horror with social commentary. |
+| **Story** | **8.0** | Emotionally engaging with cultural authenticity. |
+| **Character Development** | **7.8** | Friends feel real, pechi has tragic depth. |
+| **Scares/Horror** | **8.2** | Atmospheric dread over jump scares. Genuinely unsettling. |
+| **Enjoyment** | **8.0** | Engaging throughout despite middle section drag. |
+| **Overall** | **8.0** | **Great Film** (minor pacing issues) |
+| **Pace** | **Mostly Good** | Slow-burn tension, middle drags slightly |
 
 ---
 
