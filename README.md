@@ -25,10 +25,10 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Films Logged** | **3 Films** | *Stories Documented* |
+| **📜 Films Logged** | **4 Films** | *Stories Documented* |
 | **⏳ Hours Watched** | **4h 20m** | *Total Watch Time* |
 | **🎬 Films Completed** | **3 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
 ---
 
@@ -37,7 +37,9 @@
 
 ## 🎥 Currently Watching
 
-*No films currently in progress. Time to start a new adventure!*
+| 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [Virupaksha](titles/virupaksha.md) | 2023 | 2h 26m | Horror / Thriller / Mystery | Home | 11th Feb 2026 |
 
 ---
 
@@ -141,6 +143,6 @@
 ---
 
 *The Cinematic Archives*  
-*Last Updated: 3rd February 2026*
+*Last Updated: 11th February 2026*
 
 </div>

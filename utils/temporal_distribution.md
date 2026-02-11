@@ -1,6 +1,6 @@
 # Temporal Distribution - Movies
 
-> **Last Updated:** 4th February 2026
+> **Last Updated:** 11th February 2026
 
 This document tracks the temporal distribution of movies watched, organized by year of release and viewing time.
 
@@ -10,9 +10,9 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Movies Logged** | 3 |
+| **Total Movies Logged** | 4 |
 | **Movies Completed** | 3 |
-| **Currently Watching** | 0 |
+| **Currently Watching** | 1 |
 | **Total Watch Time** | 4h 20m |
 | **Average Movie Length** | 2h 10m |
 | **Most Watched Year** | 2017, 2024 (tied) |
@@ -25,7 +25,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Year** | **Movies Watched** | **Total Runtime** | **Films** |
 |:---:|:---:|:---:|:---|
 | 2017 | 1 | 2h 17m | [The House Next Door](../titles/the_house_next_door.md) |
-| 2023 | 1 | 1h 47m | [Aseq](../titles/aseq.md) |
+| 2023 | 2 | 4h 13m | [Aseq](../titles/aseq.md), [Virupaksha](../titles/virupaksha.md) (watching) |
 | 2024 | 1 | 2h 3m | [Pechi](../titles/pechi.md) |
 
 ---
@@ -40,7 +40,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
 | Romance | 0 | 0h 0m | N/A |
-| Horror | 3 | 6h 7m | ★★⯪☆☆ (avg) |
+| Horror | 4 | 8h 33m | ★★⯪☆☆ (avg) |
 | Mystery & Crime | 0 | 0h 0m | N/A |
 
 ---
