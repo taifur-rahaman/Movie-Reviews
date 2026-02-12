@@ -1,6 +1,6 @@
 # Temporal Distribution - Movies
 
-> **Last Updated:** 11th February 2026
+> **Last Updated:** 12th February 2026
 
 This document tracks the temporal distribution of movies watched, organized by year of release and viewing time.
 
@@ -10,11 +10,11 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Movies Logged** | 4 |
-| **Movies Completed** | 3 |
+| **Total Movies Logged** | 5 |
+| **Movies Completed** | 4 |
 | **Currently Watching** | 1 |
-| **Total Watch Time** | 4h 20m |
-| **Average Movie Length** | 2h 10m |
+| **Total Watch Time** | 6h 46m |
+| **Average Movie Length** | 2h 3m |
 | **Most Watched Year** | 2017, 2024 (tied) |
 | **Most Watched Genre** | Horror |
 
@@ -25,8 +25,9 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Year** | **Movies Watched** | **Total Runtime** | **Films** |
 |:---:|:---:|:---:|:---|
 | 2017 | 1 | 2h 17m | [The House Next Door](../titles/the_house_next_door.md) |
-| 2023 | 2 | 4h 13m | [Aseq](../titles/aseq.md), [Virupaksha](../titles/virupaksha.md) (watching) |
+| 2023 | 2 | 4h 13m | [Aseq](../titles/aseq.md), [Virupaksha](../titles/virupaksha.md) |
 | 2024 | 1 | 2h 3m | [Pechi](../titles/pechi.md) |
+| 2025 | 1 | 1h 52m | [Vadakkan](../titles/vadakkan.md) (watching) |
 
 ---
 
@@ -40,7 +41,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
 | Romance | 0 | 0h 0m | N/A |
-| Horror | 4 | 8h 33m | ★★⯪☆☆ (avg) |
+| Horror | 5 | 10h 25m | ★★★☆☆ (avg) |
 | Mystery & Crime | 0 | 0h 0m | N/A |
 
 ---
@@ -52,7 +53,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Month** | **Movies Watched** | **Total Runtime** |
 |:---|:---:|:---:|
 | January 2026 | 2 | 4h 20m |
-| February 2026 | 1 | 1h 47m |
+| February 2026 | 2 | 4h 13m |
 
 ---
 
@@ -61,8 +62,9 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Rank** | **Film** | **Year** | **Rating** | **Genre** |
 |:---:|:---|:---:|:---:|:---|
 | 1 | [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ | Horror |
-| 2 | [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | Horror |
-| 3 | [Aseq](../titles/aseq.md) | 2023 | ★⯪☆☆☆ | Horror |
+| 2 | [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ | Horror |
+| 3 | [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | Horror |
+| 4 | [Aseq](../titles/aseq.md) | 2023 | ★⯪☆☆☆ | Horror |
 
 ---
 

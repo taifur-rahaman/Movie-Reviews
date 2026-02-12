@@ -25,9 +25,9 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Films Logged** | **4 Films** | *Stories Documented* |
-| **⏳ Hours Watched** | **4h 20m** | *Total Watch Time* |
-| **🎬 Films Completed** | **3 Films** | *Journeys Finished* |
+| **📜 Films Logged** | **5 Films** | *Stories Documented* |
+| **⏳ Hours Watched** | **6h 46m** | *Total Watch Time* |
+| **🎬 Films Completed** | **4 Films** | *Journeys Finished* |
 | **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
 ---
@@ -39,7 +39,7 @@
 
 | 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Virupaksha](titles/virupaksha.md) | 2023 | 2h 26m | Horror / Thriller / Mystery | Home | 11th Feb 2026 |
+| [Vadakkan](titles/vadakkan.md) | 2025 | 1h 52m | Horror / Thriller / Supernatural | Home | 12th Feb 2026 |
 
 ---
 
@@ -127,6 +127,7 @@
 | [Aseq](titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Watched | Home |
 | [Pechi](titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
 | [The House Next Door](titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Watched | Home |
+| [Virupaksha](titles/virupaksha.md) | 2023 | ★★★⯪☆ | 2h 26m | Watched | Home |
 
 ---
 
@@ -143,6 +144,6 @@
 ---
 
 *The Cinematic Archives*  
-*Last Updated: 11th February 2026*
+*Last Updated: 12th February 2026*
 
 </div>
