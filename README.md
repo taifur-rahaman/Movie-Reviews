@@ -17,8 +17,7 @@
 | └─ [🌌 Sci-Fi & Fantasy](#-sci-fi--fantasy) | Otherworldly adventures |
 | └─ [❤️ Romance](#️-romance) | Love stories that touch the heart |
 | └─ [👻 Horror](#-horror) | Chills and supernatural scares |
-| [🕵️ Mystery & Crime](#️-mystery--crime) | Whodunits and criminal masterminds |
-| [🗺️ By Country & Industry](utils/temporal_distribution.md) | View distribution by region and industry |
+| └─ [🕵️ Mystery & Crime](#️-mystery--crime) | Whodunits and criminal masterminds |
 
 ---
 
@@ -128,6 +127,7 @@
 | [Aseq](titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Watched | Home |
 | [Pechi](titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
 | [The House Next Door](titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Watched | Home |
+| [Vadakkan](titles/vadakkan.md) | 2025 | TBD | 1h 52m | Watching | Home |
 | [Virupaksha](titles/virupaksha.md) | 2023 | ★★★⯪☆ | 2h 26m | Watched | Home |
 
 ---
@@ -144,7 +144,6 @@
 
 ---
 
----
 
 *The Cinematic Archives*  
 *Last Updated: 14th February 2026*
