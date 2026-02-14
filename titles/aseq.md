@@ -15,6 +15,7 @@
 | Platform           | Home                        |
 | Language           | Hindi                       |
 | Country            | India                       |
+| Industry           | Bollywood                   |
 
 
 

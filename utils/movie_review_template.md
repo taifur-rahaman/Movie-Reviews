@@ -15,6 +15,7 @@
 | Platform           | [Platform]                  |
 | Language           | [Language]                  |
 | Country            | [Country]                   |
+| Industry           | [Industry]                  |
 
 
 

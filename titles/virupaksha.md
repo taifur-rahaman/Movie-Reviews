@@ -16,6 +16,7 @@
 | Platform           | Home                        |
 | Language           | Hindi (Dubbed from Telugu)  |
 | Country            | India                       |
+| Industry           | Tollywood                   |
 
 
 

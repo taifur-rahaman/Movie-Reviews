@@ -15,6 +15,7 @@
 | Platform           | Home                        |
 | Language           | Tamil / Hindi / Telugu      |
 | Country            | India                       |
+| Industry           | Kollywood / Bollywood       |
 
 
 

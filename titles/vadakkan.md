@@ -15,6 +15,7 @@
 | Platform           | Home                        |
 | Language           | Malayalam                   |
 | Country            | India                       |
+| Industry           | Mollywood                   |
 
 
 

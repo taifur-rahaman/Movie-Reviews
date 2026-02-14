@@ -68,7 +68,43 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 ---
 
-## 📝 Notes
+## 🗺️ Movie Reviews by Country
+
+### 🇮🇳 India
+
+#### 🎬 Bollywood
+*Hindi Cinema*
+
+| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [Aseq](../titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Watched | Home |
+| [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Watched | Home |
+
+#### 🎬 Kollywood
+*Tamil Cinema*
+
+| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
+| [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Watched | Home |
+
+#### 🎬 Mollywood
+*Malayalam Cinema*
+
+| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [Vadakkan](../titles/vadakkan.md) | 2025 | TBD | 1h 52m | Watching | Home |
+
+#### 🎬 Tollywood
+*Telugu Cinema*
+
+| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ | 2h 26m | Watched | Home |
+
+---
+
+## �📝 Notes
 
 - This document is automatically updated as new movies are logged
 - Runtime includes only the actual movie length, not including credits (unless noted)

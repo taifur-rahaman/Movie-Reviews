@@ -17,7 +17,8 @@
 | └─ [🌌 Sci-Fi & Fantasy](#-sci-fi--fantasy) | Otherworldly adventures |
 | └─ [❤️ Romance](#️-romance) | Love stories that touch the heart |
 | └─ [👻 Horror](#-horror) | Chills and supernatural scares |
-| └─ [🕵️ Mystery & Crime](#️-mystery--crime) | Whodunits and criminal masterminds |
+| [🕵️ Mystery & Crime](#️-mystery--crime) | Whodunits and criminal masterminds |
+| [🗺️ By Country & Industry](utils/temporal_distribution.md) | View distribution by region and industry |
 
 ---
 
@@ -143,7 +144,9 @@
 
 ---
 
+---
+
 *The Cinematic Archives*  
-*Last Updated: 12th February 2026*
+*Last Updated: 14th February 2026*
 
 </div>
