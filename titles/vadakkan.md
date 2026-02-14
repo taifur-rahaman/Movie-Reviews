@@ -13,7 +13,7 @@
 | Runtime            | 1h 52m                      |
 | Rating             | TBD                         |
 | Platform           | Home                        |
-| Language           | Malayalam                   |
+| Language           | English (Dubbed from Malayalam) |
 | Country            | India                       |
 | Industry           | Mollywood                   |
 
@@ -58,7 +58,7 @@ Vadakkan is a Malayalam supernatural thriller that explores paranormal themes ro
 
 ## Personal Notes & Observations
 
-- Watching in Malayalam (original language)
+- Watching in English (Dubbed from Malayalam)
 - Started watching: 12th February 2026
 
 ### Viewing Progress
