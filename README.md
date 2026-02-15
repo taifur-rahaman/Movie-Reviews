@@ -27,9 +27,9 @@
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
 | **📜 Films Logged** | **6 Films** | *Stories Documented* |
-| **⏳ Hours Watched** | **10h 25m** | *Total Watch Time* |
-| **🎬 Films Completed** | **5 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
+| **⏳ Hours Watched** | **12h 30m** | *Total Watch Time* |
+| **🎬 Films Completed** | **6 Films** | *Journeys Finished* |
+| **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
 
 ---
 
@@ -41,7 +41,7 @@
 | 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 
-| [Kishkindhapuri](titles/kishkindhapuri.md) | 2025 | 2h 5m | Horror / Thriller | Home | 15th Feb 2026 |
+*No films logged yet. Add your first currently watching film!*
 
 ---
 
@@ -124,13 +124,12 @@
 
 <p><em>The genre that tests our limits. Horror films tap into primal fears, whether through jump scares, psychological dread, or supernatural terror. The best horror doesn't just scare—it lingers, making you think twice before turning off the lights.</em></p>
 
-| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| [Aseq](titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Watched | Home |
-| [Pechi](titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
-| [The House Next Door](titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Watched | Home |
-| [Vadakkan](titles/vadakkan.md) | 2025 | ★★⯪☆☆ | 1h 52m | Watched | Home |
-| [Virupaksha](titles/virupaksha.md) | 2023 | ★★★⯪☆ | 2h 26m | Watched | Home |
+*  **[Aseq](titles/aseq.md)** (2023) - *Runtime: 1h 47m | Language: English (Dubbed from Tamil) | Country: India*
+*  **[Kishkindhapuri](titles/kishkindhapuri.md)** (2025) - *Runtime: 2h 5m | Language: Telugu | Country: India*
+*  **[Pechi](titles/pechi.md)** (2024) - *Runtime: 2h 3m | Language: English (Dubbed from Tamil) | Country: India*
+*  **[The House Next Door](titles/the_house_next_door.md)** (2017) - *Runtime: 2h 17m | Language: Tamil | Country: India*
+*  **[Vadakkan](titles/vadakkan.md)** (2025) - *Runtime: 1h 52m | Language: English (Dubbed from Malayalam) | Country: India*
+*  **[Virupaksha](titles/virupaksha.md)** (2023) - *Runtime: 2h 26m | Language: Hindi (Dubbed from Telugu) | Country: India*
 
 ---
 
