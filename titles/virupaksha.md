@@ -126,6 +126,38 @@ This is one of those stories where I gladly side with the so-called villains. So
 
 ---
 
+## Folklore & Mythology: The Black Magic Curse
+
+### The Central Folklore: The Village Curse
+
+**The Origin (1979):**
+
+In 1979, Venkata Chalapathy and his wife were **lynched by villagers** who believed their eerie rituals caused multiple deaths in the village. As she died, Chalapathy's wife **cursed the village with destruction in twelve years**. Their young son, Bhairava, was sent to an orphanage by the village head to protect him from the villagers' wrath.
+
+**Pushkaram and the 12-Year Cycle:**
+
+The curse was tied to **Pushkaram**, a sacred Hindu festival that occurs every 12 years when Jupiter enters a new zodiac sign. The villagers believed the curse would manifest during the next Pushkaram cycle in **1991** (12 years after 1979), bringing the promised destruction.
+
+### Ashta Digbandhanam - The Protective Ritual
+
+When mysterious deaths began haunting the village in 1991, the villagers implemented **Ashta Digbandhanam**, an ancient protective ritual. The term roughly means "eight-directional binding"—all movement into and out of the village is **restricted** until certain rituals are completed. This eight-directional barrier was meant to contain the curse and protect the village from malevolent forces.
+
+### The Deity: Modamamba
+
+The village's annual carnival honors **Modamamba**, a Hindu deity. The film weaves this worship into its supernatural framework, with rituals and temple ceremonies playing crucial roles in the unfolding mystery and the village's attempts to combat the curse.
+
+### Meaning of "Virupaksha"
+
+The word **'Virupaksha'** is a combination of the Sanskrit words "virup" (formless/deformed) and "aksha" (eyes), meaning **"eyes without a form"**, often used to refer to Lord Shiva.
+
+According to Hindu mythology, Lord Shiva possesses a special **third eye** representing cosmic power and enlightenment. In the film, this title refers to the protagonist's ability to **perceive formless evil** and see beyond surface appearances—to understand the supernatural forces at work that others cannot see.
+
+### Real-Life Inspiration
+
+The director's concept originated from a disturbing true event in 2016-17 when he read about a **Gujarati woman accused of practicing black magic and stoned to death by villagers**. The director imagined a scenario where the accused actually possessed magical powers, leading to the question: *What if the person killed for witchcraft could actually curse the village?* This became the foundation for Virupaksha's narrative.
+
+---
+
 ## Additional Context
 
 This film stands out in the Indian horror genre by grounding its supernatural elements in a deeply human story of injustice and revenge. The "beast cult" and tantric practices are used not just for shock value, but as narrative tools that reflect the characters' transformation from victims to avengers. The tragic irony—that the villagers' fear and violence created the very threat they sought to prevent—gives the film more depth than typical horror fare.

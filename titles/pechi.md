@@ -130,11 +130,34 @@ Bottom line: If you like atmospheric horror that builds dread instead of just th
 
 ---
 
-## Additional Context: Plot & Mythology
+## Additional Context: The Pechi Witch Folklore
 
-The film draws heavily from the folklore of **Pechi**, often associated with fierce guardian deities in rural Tamil Nadu. In the context of this film, the mythology centers on a woman who faced severe injustice and violence at the hands of her own community. Denied justice in life, her spirit remains bound to the forest, acting as a vengeful entity against those who trespass or embody the sins of the past.
+### Origin Story
 
-The plot follows the classic trope of violating a sacred boundary. The friends enter a restricted forest area—a domain that belongs to Pechi. This physical transgression mirrors the moral transgression of the villagers who silenced her story. The "Pechi" isn't a mindless demon but a manifestation of suppressed rage and the refusal to be forgotten. The horror stems not just from the supernatural, but from the realization that the village's peace was built on a foundation of cruelty.
+The film centers around the legend of **Pechi**, a witch from ancient times with roots in dark magic practices. According to the movie's backstory, Pechi was a woman from a prestigious family who learned black magic in Kerala and returned to the forest, where she performed satanic rituals and human sacrifices to appease her demonic gods.
+
+She became increasingly powerful by serving demonic goddesses, performing strange and dark rituals deep in the forest with her family. Her practices were rooted in ancient occult traditions that demanded blood and suffering.
+
+### Quest for Immortality
+
+Pechi's ultimate goal was to achieve **immortality through human sacrifice**. She would target villagers and demand they sacrifice themselves to her dark gods, threatening to kill them with her black magic if they refused. This reign of terror made her both feared and hated by the local communities.
+
+### Defeat and Containment
+
+The villagers eventually discovered a critical weakness: **they had to avoid looking directly into her eyes** to defeat her, as eye contact would allow her to use her magic destructively. A saint informed them that Pechi had already achieved a form of immortality and couldn't be destroyed through conventional means—only trapped through invocation and ritual.
+
+With the saint's guidance, the villagers:
+1. **Killed her physical body** in a coordinated attack while avoiding eye contact
+2. **Trapped her soul** in a wooden witchcraft poppet (voodoo doll)
+3. **Nailed the poppet to a tree** deep in the forest, binding her spirit to that location
+
+As long as the tree stood and the poppet remained intact, Pechi's spirit would remain imprisoned.
+
+### The Movie's Plot
+
+The film follows a group of trekkers who accidentally release Pechi's spirit when they unknowingly **cut down the tree** containing her trapped soul. Once freed, the witch begins hunting them relentlessly, seeking to complete her quota of human sacrifices to achieve full immortality.
+
+The horror unfolds as the group realizes they've unleashed an ancient evil that was deliberately imprisoned for centuries, and they must find a way to survive or stop her before she completes her dark ritual.
 
 ---
 

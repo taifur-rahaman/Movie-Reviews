@@ -118,6 +118,36 @@ The film tries to bridge Western possession horror conventions with Indian cultu
 
 ---
 
+---
+
+## Folklore & Mythology: The Lu Wei Black Magic Legend
+
+The film draws on **Chinese folklore and black magic traditions** set in **1934**, exploring the dark consequences of patriarchal obsession and occult practices.
+
+### The Dark Ritual
+
+**Lu Wei** was a practitioner of dark Chinese black magic who became obsessed with having a male heir. He attempted to perform a **human sacrifice ritual** to ensure that his next offspring would be a boy—reflecting traditional patriarchal beliefs about male heirs being more valuable than daughters.
+
+### The Tragic Events
+
+When Lu Wei attempted to kidnap a village girl for the sacrifice, his pregnant wife intervened and helped the child escape, disrupting his ritual. Unable to complete the sacrifice with his intended victim and consumed by rage, **Lu Wei heartlessly lured his own daughter and sacrificed her instead**.
+
+### The Mother's Revenge
+
+Lu Wei's distraught wife witnessed the brutal murder of their daughter. In an act of desperate vengeance and anguish, she **stabbed herself in the stomach, killing both herself and her unborn child**—thereby ruining Lu Wei's plans for a male heir forever.
+
+### Lu Wei's Death
+
+Enraged by the destruction of everything he sought, **Lu Wei committed suicide by drowning himself in the well**.
+
+### The Haunting
+
+The spirits of the murdered mother and daughter remained **trapped in the house for over 80 years** (from 1934 to 2016). When new residents move into the house in the present day, the spirits begin to manifest, with the daughter's spirit possessing a teenage girl named Jenny.
+
+**Lu Wei's evil spirit continues to seek a male heir through possession**, targeting the neighboring family during a **solar eclipse**—a time traditionally associated with supernatural power in many Asian folklores. The film explores how ancient evil and unresolved trauma can persist across generations, waiting for the right conditions to strike again.
+
+---
+
 ## Additional Context: Background & Production
 
 "The House Next Door" was released simultaneously in three languages—Tamil (as "Aval"), Hindi (as "The House Next Door"), and Telugu (as "Gruham")—showing the filmmakers' ambition to reach audiences across India. 
