@@ -17,6 +17,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Bhaagamathie](https://www.imdb.com/title/tt5848348/)** (2018) - *Gripping revenge-horror.*
 *   **[The Conjuring](https://www.imdb.com/title/tt1457767/)** (2013) - *Modern benchmark for possession horror.*
 *   **[Stree](https://www.imdb.com/title/tt8108192/)** (2018) - *Horror-comedy with social commentary.*
+*   **[Krishna Cottage](https://www.imdb.com/title/tt0422090/)** (2004) - *Cursed book and vengeful spirits.*
 
 ### 🔪 Thriller & Crime
 *High-tension narratives, mysteries, and psychological games.*
@@ -52,6 +53,9 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 ### 2013
 *   **[The Conjuring](https://www.imdb.com/title/tt1457767/)** (English)
 
+### 2004
+*   **[Krishna Cottage](https://www.imdb.com/title/tt0422090/)** (Hindi)
+
 ---
 
 ## 🏭 By Industry
@@ -60,6 +64,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Tumbbad](https://www.imdb.com/title/tt8239946/)** (2018) - *Atmospheric Masterpiece*
 *   **[Bulbbul](https://www.imdb.com/title/tt12451520/)** (2020) - *Gothic Folklore*
 *   **[Stree](https://www.imdb.com/title/tt8108192/)** (2018) - *Horror Comedy*
+*   **[Krishna Cottage](https://www.imdb.com/title/tt0422090/)** (2004) - *Cult Classic Supernatural*
 
 ### 🇮🇳 Kollywood (Tamil Cinema)
 *   **[Ratsasan](https://www.imdb.com/title/tt7060344/)** (2018) - *Psychological Thriller*
