@@ -1,6 +1,6 @@
 # The House Next Door (Aval)
 
-![The House Next Door Movie Cover](utils/covers/the_house_next_door.png)
+![The House Next Door Movie Cover](../utils/covers/the_house_next_door.png)
 
 
 | |                             |

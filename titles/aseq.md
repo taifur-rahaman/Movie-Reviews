@@ -1,6 +1,6 @@
 # Aseq
 
-![Aseq Movie Cover](utils/covers/aseq.png)
+![Aseq Movie Cover](../utils/covers/aseq.png)
 
 
 | |                             |
