@@ -1,6 +1,6 @@
 # Kishkindhapuri
 
-![Kishkindhapuri Movie Cover](../utils/covers/kishkindhapuri.png)
+![Kishkindhapuri Movie Cover](../utils/covers/kishkindhapuri.jpg)
 
 
 | |                             |
