@@ -10,12 +10,12 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Movies Logged** | 5 |
+| **Total Movies Logged** | 6 |
 | **Movies Completed** | 5 |
-| **Currently Watching** | 0 |
+| **Currently Watching** | 1 |
 | **Total Watch Time** | 10h 25m |
 | **Average Movie Length** | 2h 5m |
-| **Most Watched Year** | 2017, 2024, 2025 (tied) |
+| **Most Watched Year** | 2023, 2025 (tied) |
 | **Most Watched Genre** | Horror |
 
 ---
@@ -27,7 +27,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | 2017 | 1 | 2h 17m | [The House Next Door](../titles/the_house_next_door.md) |
 | 2023 | 2 | 4h 13m | [Aseq](../titles/aseq.md), [Virupaksha](../titles/virupaksha.md) |
 | 2024 | 1 | 2h 3m | [Pechi](../titles/pechi.md) |
-| 2025 | 1 | 1h 52m | [Vadakkan](../titles/vadakkan.md) |
+| 2025 | 2 | 1h 52m | [Vadakkan](../titles/vadakkan.md), [Kishkindhapuri](../titles/kishkindhapuri.md) (watching) |
 
 ---
 
@@ -53,7 +53,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Month** | **Movies Watched** | **Total Runtime** |
 |:---|:---:|:---:|
 | January 2026 | 2 | 4h 20m |
-| February 2026 | 3 | 6h 5m |
+| February 2026 | 4 | 6h 5m |
 
 ---
 
@@ -101,6 +101,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
+| [Kishkindhapuri](../titles/kishkindhapuri.md) | 2025 | TBD | 2h 5m | Watching | Home |
 | [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ | 2h 26m | Watched | Home |
 
 ---

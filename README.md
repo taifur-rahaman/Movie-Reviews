@@ -26,10 +26,10 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Films Logged** | **5 Films** | *Stories Documented* |
+| **📜 Films Logged** | **6 Films** | *Stories Documented* |
 | **⏳ Hours Watched** | **10h 25m** | *Total Watch Time* |
 | **🎬 Films Completed** | **5 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
 ---
 
@@ -41,7 +41,7 @@
 | 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 
-*No active viewings.*
+| [Kishkindhapuri](titles/kishkindhapuri.md) | 2025 | 2h 5m | Horror / Thriller | Home | 15th Feb 2026 |
 
 ---
 
