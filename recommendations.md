@@ -12,24 +12,30 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *Films focused on fear, atmosphere, and the paranormal.*
 
 #### Standalone Films
-*   **[Tumbbad](https://www.imdb.com/title/tt8239946/)** (2018) - *The gold standard of Indian folk horror.*
-*   **[The Wailing](https://www.imdb.com/title/tt5215952/)** (2016) - *Unforgettable atmospheric dread.*
-*   **[Bulbbul](https://www.imdb.com/title/tt12451520/)** (2020) - *Gothic horror with feminist undertones.*
-*   **[Bhaagamathie](https://www.imdb.com/title/tt5848348/)** (2018) - *Gripping revenge-horror.*
-*   **[Krishna Cottage](https://www.imdb.com/title/tt0422090/)** (2004) - *Cursed book and vengeful spirits.*
-*   **[Pari](https://www.imdb.com/title/tt5927164/)** (2018) - *Dark supernatural horror from Anushka Sharma.*
-*   **[Pizza](https://www.imdb.com/title/tt2347569/)** (2012) - *Tamil psychological horror cult classic.*
 *   **[6-5=2](https://www.imdb.com/title/tt2820666/)** (2013) - *Kannada supernatural mystery.*
-*   **[Talk To Me](https://www.imdb.com/title/tt10638522/)** (2023) - *A24's highest-grossing horror.*
+*   ✓ **[Aseq](titles/aseq.md)** (2023) - *Tamil Ashiq Jinn obsession horror.* **WATCHED**
+*   **[Bhaagamathie](https://www.imdb.com/title/tt5848348/)** (2018) - *Gripping revenge-horror.*
+*   **[Bulbbul](https://www.imdb.com/title/tt12451520/)** (2020) - *Gothic horror with feminist undertones.*
+*   ✓ **[Kishkindhapuri](titles/kishkindhapuri.md)** (2025) - *Cursed radio station spirit.* **WATCHED**
 *   **[Khanzab](https://www.imdb.com/title/tt23049232/)** (2023) - *Indonesian prayer disturbance horror.*
+*   **[Krishna Cottage](https://www.imdb.com/title/tt0422090/)** (2004) - *Cursed book and vengeful spirits.*
+*   **[Lembayung](https://www.imdb.com/title/tt29362934/)** (2024) - *Indonesian dusk horror.*
+*   **[Munkar](https://www.imdb.com/title/tt29362932/)** (2024) - *Grave interrogation terror.*
+*   **[Pari](https://www.imdb.com/title/tt5927164/)** (2018) - *Dark supernatural horror from Anushka Sharma.*
+*   ✓ **[Pechi](titles/pechi.md)** (2024) - *Tamil witch immortality quest.* **WATCHED**
+*   **[Pizza](https://www.imdb.com/title/tt2347569/)** (2012) - *Tamil psychological horror cult classic.*
 *   **[Qodrat](https://www.imdb.com/title/tt23049214/)** (2022) - *Indonesian supernatural chiller.*
+*   **[Sakaratul Maut](https://www.imdb.com/title/tt29362930/)** (2024) - *Death throes horror.*
 *   **[Sewu Dino](https://www.imdb.com/title/tt22488830/)** (2023) - *Indonesian folk curse.*
 *   **[Siksa Kubur](https://www.imdb.com/title/tt29362936/)** (2024) - *Grave torture horror.*
 *   **[Siksa Neraka](https://www.imdb.com/title/tt22488820/)** (2023) - *Hellish Indonesian nightmare.*
+*   **[Talk To Me](https://www.imdb.com/title/tt10638522/)** (2023) - *A24's highest-grossing horror.*
+*   ✓ **[The House Next Door](titles/the_house_next_door.md)** (2017) - *Chinese black magic curse.* **WATCHED**
+*   **[The Wailing](https://www.imdb.com/title/tt5215952/)** (2016) - *Unforgettable atmospheric dread.*
+*   **[Tumbbad](https://www.imdb.com/title/tt8239946/)** (2018) - *The gold standard of Indian folk horror.*
+*   ✓ **[Vadakkan](titles/vadakkan.md)** (2025) - *Theyyam folklore possession.* **WATCHED**
+*   ✓ **[Virupaksha](titles/virupaksha.md)** (2023) - *Telugu Pushkaram curse.* **WATCHED**
 *   **[Waktu Maghrib](https://www.imdb.com/title/tt22488824/)** (2023) - *Prayer time terror.*
-*   **[Sakaratul Maut](https://www.imdb.com/title/tt29362930/)** (2024) - *Death throes horror.*
-*   **[Munkar](https://www.imdb.com/title/tt29362932/)** (2024) - *Grave interrogation terror.*
-*   **[Lembayung](https://www.imdb.com/title/tt29362934/)** (2024) - *Indonesian dusk horror.*
 
 #### Film Series
 
@@ -99,6 +105,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 ### 2017
 *   **[Annabelle: Creation](https://www.imdb.com/title/tt5140878/)** (English)
 *   **[Satan's Slave](https://www.imdb.com/title/tt6204906/)** (Indonesian)
+*   ✓ **[The House Next Door](titles/the_house_next_door.md)** (Tamil) **WATCHED**
 
 ### 2018
 *   **[Tumbbad](https://www.imdb.com/title/tt8239946/)** (Hindi)
@@ -131,6 +138,8 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Sewu Dino](https://www.imdb.com/title/tt22488830/)** (Indonesian)
 *   **[Siksa Neraka](https://www.imdb.com/title/tt22488820/)** (Indonesian)
 *   **[Waktu Maghrib](https://www.imdb.com/title/tt22488824/)** (Indonesian)
+*   ✓ **[Aseq](titles/aseq.md)** (Tamil) **WATCHED**
+*   ✓ **[Virupaksha](titles/virupaksha.md)** (Telugu) **WATCHED**
 
 ### 2024
 *   **[Stree 2](https://www.imdb.com/title/tt27512982/)** (Hindi)
@@ -139,9 +148,12 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Munkar](https://www.imdb.com/title/tt29362932/)** (Indonesian)
 *   **[Sakaratul Maut](https://www.imdb.com/title/tt29362930/)** (Indonesian)
 *   **[Siksa Kubur](https://www.imdb.com/title/tt29362936/)** (Indonesian)
+*   ✓ **[Pechi](titles/pechi.md)** (Tamil) **WATCHED**
 
 ### 2025
 *   **[Chhorii 2](https://www.imdb.com/title/tt23049228/)** (Hindi)
+*   ✓ **[Kishkindhapuri](titles/kishkindhapuri.md)** (Telugu) **WATCHED**
+*   ✓ **[Vadakkan](titles/vadakkan.md)** (Malayalam) **WATCHED**
 
 ---
 
@@ -162,16 +174,24 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 ### 🇮🇳 Kollywood (Tamil Cinema)
 *   **[Ratsasan](https://www.imdb.com/title/tt7060344/)** (2018) - *Psychological Thriller*
 *   **[Pizza](https://www.imdb.com/title/tt2347569/)** (2012) - *Cult Horror Classic*
+*   ✓ **[Aseq](titles/aseq.md)** (2023) - *Ashiq Jinn Horror* **WATCHED**
+*   ✓ **[Pechi](titles/pechi.md)** (2024) - *Witch Folklore* **WATCHED**
+*   ✓ **[The House Next Door](titles/the_house_next_door.md)** (2017) - *Black Magic Curse* **WATCHED**
 *   **Demonte Colony Series:**
     *   [Demonte Colony](https://www.imdb.com/title/tt4429372/) (2015) - *Haunted Horror*
     *   [Demonte Colony 2](https://www.imdb.com/title/tt28538878/) (2024) - *Sequel/Prequel*
 
 ### 🇮🇳 Tollywood (Telugu Cinema)
 *   **[Bhaagamathie](https://www.imdb.com/title/tt5848348/)** (2018) - *Supernatural Thriller*
+*   ✓ **[Kishkindhapuri](titles/kishkindhapuri.md)** (2025) - *Radio Station Spirit* **WATCHED**
+*   ✓ **[Virupaksha](titles/virupaksha.md)** (2023) - *Pushkaram Curse* **WATCHED**
 
 ### 🇮🇳 Sandalwood (Kannada Cinema)
 *   **[Kantara](https://www.imdb.com/title/tt15327088/)** (2022) - *Folklore Action*
 *   **[6-5=2](https://www.imdb.com/title/tt2820666/)** (2013) - *Supernatural Mystery*
+
+### 🇮🇳 Mollywood (Malayalam Cinema)
+*   ✓ **[Vadakkan](titles/vadakkan.md)** (2025) - *Theyyam Possession* **WATCHED**
 
 ### 🇮🇩 Indonesian Horror
 *   **Satan's Slave Series:**
