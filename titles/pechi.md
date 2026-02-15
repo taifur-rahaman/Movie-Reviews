@@ -124,7 +124,7 @@ Bottom line: If you like atmospheric horror that builds dread instead of just th
 **Best watched:** In theater with a crowd, or at home with the lights off and good sound system
 
 **Similar films:** 
-- Aval (Tamil horror with folklore elements)
+- [Aval](the_house_next_door.md) (Tamil horror with folklore elements)
 - Tumbbad (Hindi horror with mythology)
 - The Wailing (Korean horror with similar atmospheric dread)
 

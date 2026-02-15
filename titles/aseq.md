@@ -115,8 +115,8 @@ Finished it. Wish I hadn't.
 
 **If you want better horror:**
 - Watch literally any other horror film
-- The House Next Door (at least that one tried to be scary)
-- Pechi (way better execution)
+- [The House Next Door](the_house_next_door.md) (at least that one tried to be scary)
+- [Pechi](pechi.md) (way better execution)
 
 ---
 

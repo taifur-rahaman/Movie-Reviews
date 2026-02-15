@@ -9,6 +9,7 @@
 | 🔖 **Section** | 📝 **Description** |
 |:---|:---|
 | [📜 Statistics](#-statistics) | View total movies, hours watched, and active viewings |
+| [🎬 Recommendations](recommendations.md) | View curated list of Must-Watch films |
 | [🗺️ Movie Reviews by Genre](#️-movie-reviews-by-genre) | Browse all movie reviews by genre |
 | └─ [🎬 Action & Adventure](#-action--adventure) | Explosive action and thrilling adventures |
 | └─ [🎭 Drama](#-drama) | Powerful dramatic narratives |
@@ -26,20 +27,21 @@
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
 | **📜 Films Logged** | **5 Films** | *Stories Documented* |
-| **⏳ Hours Watched** | **6h 46m** | *Total Watch Time* |
-| **🎬 Films Completed** | **4 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
+| **⏳ Hours Watched** | **10h 25m** | *Total Watch Time* |
+| **🎬 Films Completed** | **5 Films** | *Journeys Finished* |
+| **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
 
 ---
 
-[⏳ View Detailed Temporal Distribution](utils/temporal_distribution.md)
+[⏳ View Detailed Temporal Distribution](utils/temporal_distribution.md) • [🎬 View Movie Recommendations](recommendations.md)
 
 
 ## 🎥 Currently Watching
 
 | 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Vadakkan](titles/vadakkan.md) | 2025 | 1h 52m | Horror / Thriller / Supernatural | Home | 12th Feb 2026 |
+
+*No active viewings.*
 
 ---
 
@@ -127,7 +129,7 @@
 | [Aseq](titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Watched | Home |
 | [Pechi](titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
 | [The House Next Door](titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Watched | Home |
-| [Vadakkan](titles/vadakkan.md) | 2025 | TBD | 1h 52m | Watching | Home |
+| [Vadakkan](titles/vadakkan.md) | 2025 | ★★⯪☆☆ | 1h 52m | Watched | Home |
 | [Virupaksha](titles/virupaksha.md) | 2023 | ★★★⯪☆ | 2h 26m | Watched | Home |
 
 ---

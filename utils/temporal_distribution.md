@@ -11,11 +11,11 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Movies Logged** | 5 |
-| **Movies Completed** | 4 |
-| **Currently Watching** | 1 |
-| **Total Watch Time** | 6h 46m |
-| **Average Movie Length** | 2h 3m |
-| **Most Watched Year** | 2017, 2024 (tied) |
+| **Movies Completed** | 5 |
+| **Currently Watching** | 0 |
+| **Total Watch Time** | 10h 25m |
+| **Average Movie Length** | 2h 5m |
+| **Most Watched Year** | 2017, 2024, 2025 (tied) |
 | **Most Watched Genre** | Horror |
 
 ---
@@ -27,7 +27,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | 2017 | 1 | 2h 17m | [The House Next Door](../titles/the_house_next_door.md) |
 | 2023 | 2 | 4h 13m | [Aseq](../titles/aseq.md), [Virupaksha](../titles/virupaksha.md) |
 | 2024 | 1 | 2h 3m | [Pechi](../titles/pechi.md) |
-| 2025 | 1 | 1h 52m | [Vadakkan](../titles/vadakkan.md) (watching) |
+| 2025 | 1 | 1h 52m | [Vadakkan](../titles/vadakkan.md) |
 
 ---
 
@@ -53,7 +53,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Month** | **Movies Watched** | **Total Runtime** |
 |:---|:---:|:---:|
 | January 2026 | 2 | 4h 20m |
-| February 2026 | 2 | 4h 13m |
+| February 2026 | 3 | 6h 5m |
 
 ---
 
@@ -64,7 +64,8 @@ This document tracks the temporal distribution of movies watched, organized by y
 | 1 | [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ | Horror |
 | 2 | [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ | Horror |
 | 3 | [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | Horror |
-| 4 | [Aseq](../titles/aseq.md) | 2023 | ★⯪☆☆☆ | Horror |
+| 4 | [Vadakkan](../titles/vadakkan.md) | 2025 | ★★⯪☆☆ | Horror |
+| 5 | [Aseq](../titles/aseq.md) | 2023 | ★⯪☆☆☆ | Horror |
 
 ---
 
@@ -93,7 +94,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Vadakkan](../titles/vadakkan.md) | 2025 | TBD | 1h 52m | Watching | Home |
+| [Vadakkan](../titles/vadakkan.md) | 2025 | ★★⯪☆☆ | 1h 52m | Watched | Home |
 
 #### 🎬 Tollywood
 *Telugu Cinema*

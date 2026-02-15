@@ -111,7 +111,7 @@ The film tries to bridge Western possession horror conventions with Indian cultu
 **Best watched:** If you must watch it, at home is fine. But honestly, not worth the time.
 
 **Similar films:** 
-- Pechi (Tamil horror with supernatural elements)
+- [Pechi](pechi.md) (Tamil horror with supernatural elements)
 - The Conjuring (Western possession horror)
 - Tumbbad (Indian horror with historical elements)
 - Stree (Indian horror-comedy with folklore)
