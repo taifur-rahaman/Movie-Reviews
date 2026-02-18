@@ -26,10 +26,10 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Films Logged** | **6 Films** | *Stories Documented* |
+| **📜 Films Logged** | **7 Films** | *Stories Documented* |
 | **⏳ Hours Watched** | **12h 30m** | *Total Watch Time* |
 | **🎬 Films Completed** | **6 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
 ---
 
@@ -40,8 +40,7 @@
 
 | 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-
-*No films logged yet. Add your first currently watching film!*
+| [Bhaagamathie](titles/bhaagamathie.md) | 2018 | 2h 15m | Horror / Thriller | Home | 19th Feb 2026 |
 
 ---
 
@@ -125,6 +124,7 @@
 <p><em>The genre that tests our limits. Horror films tap into primal fears, whether through jump scares, psychological dread, or supernatural terror. The best horror doesn't just scare—it lingers, making you think twice before turning off the lights.</em></p>
 
 *  **[Aseq](titles/aseq.md)** (2023) - *Runtime: 1h 47m | Language: English (Dubbed from Tamil) | Country: India*
+*  **[Bhaagamathie](titles/bhaagamathie.md)** (2018) - *Runtime: 2h 15m | Language: Telugu | Country: India* 📺 *Currently Watching*
 *  **[Kishkindhapuri](titles/kishkindhapuri.md)** (2025) - *Runtime: 2h 5m | Language: Telugu | Country: India*
 *  **[Pechi](titles/pechi.md)** (2024) - *Runtime: 2h 3m | Language: English (Dubbed from Tamil) | Country: India*
 *  **[The House Next Door](titles/the_house_next_door.md)** (2017) - *Runtime: 2h 17m | Language: Tamil | Country: India*
@@ -147,6 +147,6 @@
 
 
 *The Cinematic Archives*  
-*Last Updated: 14th February 2026*
+*Last Updated: 19th February 2026*
 
 </div>
