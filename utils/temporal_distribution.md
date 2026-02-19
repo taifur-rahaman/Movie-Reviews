@@ -10,11 +10,11 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Movies Logged** | 7 |
-| **Movies Completed** | 7 |
+| **Total Movies Logged** | 8 |
+| **Movies Completed** | 8 |
 | **Currently Watching** | 0 |
-| **Total Watch Time** | 14h 45m |
-| **Average Movie Length** | 2h 6m |
+| **Total Watch Time** | 17h 11m |
+| **Average Movie Length** | 2h 9m |
 | **Most Watched Year** | 2023, 2025 (Tie) |
 | **Most Watched Genre** | Horror |
 
@@ -24,6 +24,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Year** | **Movies Watched** | **Total Runtime** | **Films** |
 |:---:|:---:|:---:|:---|
+| 2009 | 1 | 2h 26m | [13B: Fear Has a New Address](../titles/13b.md) |
 | 2017 | 1 | 2h 17m | [The House Next Door](../titles/the_house_next_door.md) |
 | 2018 | 1 | 2h 15m | [Bhaagamathie](../titles/bhaagamathie.md) |
 | 2023 | 2 | 4h 13m | [Aseq](../titles/aseq.md), [Virupaksha](../titles/virupaksha.md) |
@@ -42,7 +43,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
 | Romance | 0 | 0h 0m | N/A |
-| Horror | 7 | 14h 45m | ★★⯪☆☆ (avg) |
+| Horror | 8 | 17h 11m | ★★⯪☆☆ (avg) |
 | Mystery & Crime | 0 | 0h 0m | N/A |
 
 ---
@@ -54,7 +55,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Month** | **Movies Watched** | **Total Runtime** |
 |:---|:---:|:---:|
 | January 2026 | 2 | 4h 20m |
-| February 2026 | 6 | 10h 25m |
+| February 2026 | 7 | 12h 51m |
 
 ---
 
@@ -63,12 +64,13 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Rank** | **Film** | **Year** | **Rating** | **Genre** |
 |:---:|:---|:---:|:---:|:---|
 | 1 | [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ | Horror |
-| 2 | [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ | Horror |
-| 3 | [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | Horror |
-| 4 | [Vadakkan](../titles/vadakkan.md) | 2025 | ★★⯪☆☆ | Horror |
-| 5 | [Kishkindhapuri](../titles/kishkindhapuri.md) | 2025 | ★★☆☆☆ | Horror |
-| 6 | [Bhaagamathie](../titles/bhaagamathie.md) | 2018 | ★★☆☆☆ | Horror |
-| 7 | [Aseq](../titles/aseq.md) | 2023 | ★⯪☆☆☆ | Horror |
+| 2 | [13B: Fear Has a New Address](../titles/13b.md) | 2009 | ★★★⯪☆ | Horror |
+| 3 | [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ | Horror |
+| 4 | [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | Horror |
+| 5 | [Vadakkan](../titles/vadakkan.md) | 2025 | ★★⯪☆☆ | Horror |
+| 6 | [Kishkindhapuri](../titles/kishkindhapuri.md) | 2025 | ★★☆☆☆ | Horror |
+| 7 | [Bhaagamathie](../titles/bhaagamathie.md) | 2018 | ★★☆☆☆ | Horror |
+| 8 | [Aseq](../titles/aseq.md) | 2023 | ★⯪☆☆☆ | Horror |
 
 ---
 
@@ -81,6 +83,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
+| [13B: Fear Has a New Address](../titles/13b.md) | 2009 | ★★★⯪☆ | 2h 26m | Watched | Home |
 | [Aseq](../titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Watched | Home |
 
 #### 🎬 Kollywood

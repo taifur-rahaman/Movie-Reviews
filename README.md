@@ -26,9 +26,9 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Films Logged** | **7 Films** | *Stories Documented* |
-| **⏳ Hours Watched** | **12h 30m** | *Total Watch Time* |
-| **🎬 Films Completed** | **7 Films** | *Journeys Finished* |
+| **📜 Films Logged** | **8 Films** | *Stories Documented* |
+| **⏳ Hours Watched** | **17h 11m** | *Total Watch Time* |
+| **🎬 Films Completed** | **8 Films** | *Journeys Finished* |
 | **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
 
 ---
@@ -124,7 +124,9 @@
 <p><em>The genre that tests our limits. Horror films tap into primal fears, whether through jump scares, psychological dread, or supernatural terror. The best horror doesn't just scare—it lingers, making you think twice before turning off the lights.</em></p>
 
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
+| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
+| [13B: Fear Has a New Address](titles/13b.md) | 2009 | ★★★⯪☆ | 2h 26m | Watched | Home |
 | [Aseq](titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Watched | Home |
 | [Bhaagamathie](titles/bhaagamathie.md) | 2018 | ★★☆☆☆ | 2h 15m | Watched | Home |
 | [Kishkindhapuri](titles/kishkindhapuri.md) | 2025 | ★★☆☆☆ | 2h 5m | Watched | Home |

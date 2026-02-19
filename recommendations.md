@@ -12,7 +12,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *Films focused on fear, atmosphere, and the paranormal.*
 
 #### Standalone Films
-*   **[13B: Fear Has a New Address](https://www.imdb.com/title/tt1385824/)** (2009) - *Cult classic chills via TV set.*
+*   ✓ **[13B: Fear Has a New Address](titles/13b.md)** (2009) - *Cult classic chills via TV set.* **WATCHED**
 *   **[6-5=2](https://www.imdb.com/title/tt2820666/)** (2013) - *Kannada supernatural mystery.*
 *   **[Asvins](https://www.imdb.com/title/tt27914099/)** (2023) - *Psychological horror with dual realities.*
 *   ✓ **[Aseq](titles/aseq.md)** (2023) - *Tamil Ashiq Jinn obsession horror.* **WATCHED**
@@ -142,7 +142,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Noroi: The Curse](https://www.imdb.com/title/tt0930083/)** (Japanese)
 
 ### 2009
-*   **[13B: Fear Has a New Address](https://www.imdb.com/title/tt1385824/)** (Hindi)
+*   ✓ **[13B: Fear Has a New Address](titles/13b.md)** (Hindi) **WATCHED**
 
 ### 2010
 *   **[I Saw the Devil](https://www.imdb.com/title/tt1588170/)** (Korean)
@@ -249,7 +249,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 ## 🏭 By Industry
 
 ### 🇮🇳 Bollywood (Hindi Cinema)
-*   **[13B](https://www.imdb.com/title/tt1385824/)** (2009) - *Tech Horror*
+*   ✓ **[13B](titles/13b.md)** (2009) - *Tech Horror* **WATCHED**
 *   **[Tumbbad](https://www.imdb.com/title/tt8239946/)** (2018) - *Atmospheric Masterpiece*
 *   **[Andhadhun](https://www.imdb.com/title/tt8108198/)** (2018) - *Thriller Masterpiece*
 *   **[Bulbbul](https://www.imdb.com/title/tt12451520/)** (2020) - *Gothic Folklore*
