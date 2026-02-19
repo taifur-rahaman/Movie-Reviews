@@ -12,24 +12,39 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *Films focused on fear, atmosphere, and the paranormal.*
 
 #### Standalone Films
+*   **[13B: Fear Has a New Address](https://www.imdb.com/title/tt1385824/)** (2009) - *Cult classic chills via TV set.*
 *   **[6-5=2](https://www.imdb.com/title/tt2820666/)** (2013) - *Kannada supernatural mystery.*
+*   **[Asvins](https://www.imdb.com/title/tt27914099/)** (2023) - *Psychological horror with dual realities.*
 *   ✓ **[Aseq](titles/aseq.md)** (2023) - *Tamil Ashiq Jinn obsession horror.* **WATCHED**
-*   ✓ **[Bhaagamathie](titles/bhaagamathie.md)** (2018) - *Gripping revenge-horror.* **WATCHED**
+*   **[Bhaagamathie](titles/bhaagamathie.md)** (2018) - *Gripping revenge-horror.* **WATCHED**
+*   **[Bhoothakalam](https://www.imdb.com/title/tt16744312/)** (2022) - *Masterpiece of psychological horror.*
+*   **[Bramayugam](https://www.imdb.com/title/tt28659553/)** (2024) - *Black & white folk horror masterpiece.*
 *   **[Bulbbul](https://www.imdb.com/title/tt12451520/)** (2020) - *Gothic horror with feminist undertones.*
+*   **[Exhuma](https://www.imdb.com/title/tt27503758/)** (2024) - *Korean shamanistic occult thriller.*
+*   **[Hereditary](https://www.imdb.com/title/tt7784604/)** (2018) - *Modern classic of family trauma horror.*
 *   ✓ **[Kishkindhapuri](titles/kishkindhapuri.md)** (2025) - *Cursed radio station spirit.* **WATCHED**
+*   **[Impetigore](https://www.imdb.com/title/tt10340986/)** (2019) - *Skin-crawling Indonesian folk horror.*
+*   **[Incantation](https://www.imdb.com/title/tt18968540/)** (2022) - *Taiwanese found footage curse.*
 *   **[Khanzab](https://www.imdb.com/title/tt23049232/)** (2023) - *Indonesian prayer disturbance horror.*
+*   **[Late Night with the Devil](https://www.imdb.com/title/tt14966898/)** (2023) - *Live TV possession horror.*
 *   **[Krishna Cottage](https://www.imdb.com/title/tt0422090/)** (2004) - *Cursed book and vengeful spirits.*
 *   **[Lembayung](https://www.imdb.com/title/tt29362934/)** (2024) - *Indonesian dusk horror.*
 *   **[Munkar](https://www.imdb.com/title/tt29362932/)** (2024) - *Grave interrogation terror.*
 *   **[Pari](https://www.imdb.com/title/tt5927164/)** (2018) - *Dark supernatural horror from Anushka Sharma.*
 *   ✓ **[Pechi](titles/pechi.md)** (2024) - *Tamil witch immortality quest.* **WATCHED**
 *   **[Pizza](https://www.imdb.com/title/tt2347569/)** (2012) - *Tamil psychological horror cult classic.*
+*   **[Pishachini](https://www.imdb.com/title/tt14589028/)** (N/A) - *Recommended for swift narrative.*
 *   **[Qodrat](https://www.imdb.com/title/tt23049214/)** (2022) - *Indonesian supernatural chiller.*
+*   **[Romancham](https://www.imdb.com/title/tt22339384/)** (2023) - *Horror-comedy based on true events.*
 *   **[Sakaratul Maut](https://www.imdb.com/title/tt29362930/)** (2024) - *Death throes horror.*
 *   **[Sewu Dino](https://www.imdb.com/title/tt22488830/)** (2023) - *Indonesian folk curse.*
 *   **[Siksa Kubur](https://www.imdb.com/title/tt29362936/)** (2024) - *Grave torture horror.*
+*   **[Smile](https://www.imdb.com/title/tt15474916/)** (2022) - *Psychological entity horror.*
+*   **[Smile 2](https://www.imdb.com/title/tt29623480/)** (2024) - *Pop star psychological horror.*
 *   **[Siksa Neraka](https://www.imdb.com/title/tt22488820/)** (2023) - *Hellish Indonesian nightmare.*
 *   **[Talk To Me](https://www.imdb.com/title/tt10638522/)** (2023) - *A24's highest-grossing horror.*
+*   **[The Medium](https://www.imdb.com/title/tt13435076/)** (2021) - *Thai shamanistic mockumentary.*
+*   **[The Queen of Black Magic](https://www.imdb.com/title/tt10729792/)** (2019) - *Visceral body horror and revenge.*
 *   ✓ **[The House Next Door](titles/the_house_next_door.md)** (2017) - *Chinese black magic curse.* **WATCHED**
 *   **[The Wailing](https://www.imdb.com/title/tt5215952/)** (2016) - *Unforgettable atmospheric dread.*
 *   **[Tumbbad](https://www.imdb.com/title/tt8239946/)** (2018) - *The gold standard of Indian folk horror.*
@@ -69,21 +84,43 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 ### 🔪 Thriller & Crime
 *High-tension narratives, mysteries, and psychological games.*
 
-*   **[Ratsasan](https://www.imdb.com/title/tt7060344/)** (2018) - *Relentless psycho-thriller.*
+*   **[Andhadhun](https://www.imdb.com/title/tt8108198/)** (2018) - *Dark comedy thriller masterpiece.*
+*   **[Drishyam](https://www.imdb.com/title/tt3105742/)** (2013) - *The ultimate family protection thriller (Malayalam).*
+*   **[Drishyam 2](https://www.imdb.com/title/tt13054174/)** (2021) - *Sequel that defies expectations.*
+*   **[I Saw the Devil](https://www.imdb.com/title/tt1588170/)** (2010) - *Brutal Korean revenge thriller.*
 *   **[Kantara](https://www.imdb.com/title/tt15327088/)** (2022) - *Action-thriller deeply rooted in folklore.*
+*   **[Kill](https://www.imdb.com/title/tt28259207/)** (2023) - *Relentless train action thriller.*
+*   **[Maharaja](https://www.imdb.com/title/tt26540248/)** (2024) - *Gritty revenge thriller with non-linear storytelling.*
+*   **[Manjummel Boys](https://www.imdb.com/title/tt26057062/)** (2024) - *Gripping survival thriller based on true events.*
+*   **[Memories](https://www.imdb.com/title/tt2991052/)** (2013) - *Atmospheric serial killer mystery.*
+*   **[Oldboy](https://www.imdb.com/title/tt0364569/)** (2003) - *Korean classic of vengeance.*
+*   **[Parasite](https://www.imdb.com/title/tt6751668/)** (2019) - *Oscar-winning social thriller.*
+*   **[Por Thozhil](https://www.imdb.com/title/tt27546709/)** (2023) - *Tight police procedural thriller.*
+*   **[Ratsasan](https://www.imdb.com/title/tt7060344/)** (2018) - *Relentless psycho-thriller.*
 *   **[The Wailing](https://www.imdb.com/title/tt5215952/)** (2016) - *Also functions as a masterful mystery-thriller.*
+*   **[Vikram Vedha](https://www.imdb.com/title/tt6148156/)** (2017) - *Neo-noir action thriller.*
 
 ### 🤣 Comedy
 *Lighthearted or satirical takes.*
 
 *   **Stree Series** - *See Horror & Supernatural section for full series*
+*   **[Romancham](https://www.imdb.com/title/tt22339384/)** (2023) - *Laugh-out-loud horror comedy.*
+*   **[Go Goa Gone](https://www.imdb.com/title/tt2222197/)** (2013) - *Zombie comedy cult classic.*
 
 ---
 
 ## 📅 By Year
+### 2003
+*   **[Oldboy](https://www.imdb.com/title/tt0364569/)** (Korean)
 
 ### 2004
 *   **[Krishna Cottage](https://www.imdb.com/title/tt0422090/)** (Hindi)
+
+### 2009
+*   **[13B: Fear Has a New Address](https://www.imdb.com/title/tt1385824/)** (Hindi)
+
+### 2010
+*   **[I Saw the Devil](https://www.imdb.com/title/tt1588170/)** (Korean)
 
 ### 2012
 *   **[Pizza](https://www.imdb.com/title/tt2347569/)** (Tamil)
@@ -91,6 +128,9 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 ### 2013
 *   **[The Conjuring](https://www.imdb.com/title/tt1457767/)** (English)
 *   **[6-5=2](https://www.imdb.com/title/tt2820666/)** (Kannada)
+*   **[Drishyam](https://www.imdb.com/title/tt3105742/)** (Malayalam)
+*   **[Go Goa Gone](https://www.imdb.com/title/tt2222197/)** (Hindi)
+*   **[Memories](https://www.imdb.com/title/tt2991052/)** (Malayalam)
 
 ### 2014
 *   **[Annabelle](https://www.imdb.com/title/tt3322940/)** (English)
@@ -105,19 +145,25 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 ### 2017
 *   **[Annabelle: Creation](https://www.imdb.com/title/tt5140878/)** (English)
 *   **[Satan's Slave](https://www.imdb.com/title/tt6204906/)** (Indonesian)
+*   **[Vikram Vedha](https://www.imdb.com/title/tt6148156/)** (Tamil)
 *   ✓ **[The House Next Door](titles/the_house_next_door.md)** (Tamil) **WATCHED**
 
 ### 2018
 *   **[Tumbbad](https://www.imdb.com/title/tt8239946/)** (Hindi)
+*   **[Andhadhun](https://www.imdb.com/title/tt8108198/)** (Hindi)
 *   **[Ratsasan](https://www.imdb.com/title/tt7060344/)** (Tamil)
 *   **[Stree](https://www.imdb.com/title/tt8108192/)** (Hindi)
-*   ✓ **[Bhaagamathie](titles/bhaagamathie.md)** (Telugu) **WATCHED**
+*   **[Bhaagamathie](titles/bhaagamathie.md)** (Telugu)
+*   **[Hereditary](https://www.imdb.com/title/tt7784604/)** (English)
 *   **[Pari](https://www.imdb.com/title/tt5927164/)** (Hindi)
 *   **[The Nun](https://www.imdb.com/title/tt5814060/)** (English)
 
 ### 2019
 *   **[Annabelle Comes Home](https://www.imdb.com/title/tt8350360/)** (English)
+*   **[Impetigore](https://www.imdb.com/title/tt10340986/)** (Indonesian)
+*   **[Parasite](https://www.imdb.com/title/tt6751668/)** (Korean)
 *   **[The Curse of La Llorona](https://www.imdb.com/title/tt6803022/)** (English)
+*   **[The Queen of Black Magic](https://www.imdb.com/title/tt10729792/)** (Indonesian)
 
 ### 2020
 *   **[Bulbbul](https://www.imdb.com/title/tt12451520/)** (Hindi)
@@ -125,16 +171,26 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 ### 2021
 *   **[The Conjuring: The Devil Made Me Do It](https://www.imdb.com/title/tt7069210/)** (English)
 *   **[Chhorii](https://www.imdb.com/title/tt13314558/)** (Hindi)
+*   **[Drishyam 2](https://www.imdb.com/title/tt13054174/)** (Malayalam)
+*   **[The Medium](https://www.imdb.com/title/tt13435076/)** (Thai)
 
 ### 2022
 *   **[Kantara](https://www.imdb.com/title/tt15327088/)** (Kannada)
+*   **[Bhoothakalam](https://www.imdb.com/title/tt16744312/)** (Malayalam)
+*   **[Incantation](https://www.imdb.com/title/tt18968540/)** (Taiwanese)
 *   **[Satan's Slaves: Communion](https://www.imdb.com/title/tt9735176/)** (Indonesian)
 *   **[Qodrat](https://www.imdb.com/title/tt23049214/)** (Indonesian)
+*   **[Smile](https://www.imdb.com/title/tt15474916/)** (English)
 
 ### 2023
 *   **[The Nun II](https://www.imdb.com/title/tt10160976/)** (English)
 *   **[Talk To Me](https://www.imdb.com/title/tt10638522/)** (Australian)
+*   **[Asvins](https://www.imdb.com/title/tt27914099/)** (Tamil)
 *   **[Khanzab](https://www.imdb.com/title/tt23049232/)** (Indonesian)
+*   **[Kill](https://www.imdb.com/title/tt28259207/)** (Hindi)
+*   **[Late Night with the Devil](https://www.imdb.com/title/tt14966898/)** (English)
+*   **[Por Thozhil](https://www.imdb.com/title/tt27546709/)** (Tamil)
+*   **[Romancham](https://www.imdb.com/title/tt22339384/)** (Malayalam)
 *   **[Sewu Dino](https://www.imdb.com/title/tt22488830/)** (Indonesian)
 *   **[Siksa Neraka](https://www.imdb.com/title/tt22488820/)** (Indonesian)
 *   **[Waktu Maghrib](https://www.imdb.com/title/tt22488824/)** (Indonesian)
@@ -143,11 +199,16 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 
 ### 2024
 *   **[Stree 2](https://www.imdb.com/title/tt27512982/)** (Hindi)
+*   **[Bramayugam](https://www.imdb.com/title/tt28659553/)** (Malayalam)
 *   **[Demonte Colony 2](https://www.imdb.com/title/tt28538878/)** (Tamil)
+*   **[Exhuma](https://www.imdb.com/title/tt27503758/)** (Korean)
 *   **[Lembayung](https://www.imdb.com/title/tt29362934/)** (Indonesian)
+*   **[Maharaja](https://www.imdb.com/title/tt26540248/)** (Tamil)
+*   **[Manjummel Boys](https://www.imdb.com/title/tt26057062/)** (Malayalam)
 *   **[Munkar](https://www.imdb.com/title/tt29362932/)** (Indonesian)
 *   **[Sakaratul Maut](https://www.imdb.com/title/tt29362930/)** (Indonesian)
 *   **[Siksa Kubur](https://www.imdb.com/title/tt29362936/)** (Indonesian)
+*   **[Smile 2](https://www.imdb.com/title/tt29623480/)** (English)
 *   ✓ **[Pechi](titles/pechi.md)** (Tamil) **WATCHED**
 
 ### 2025
@@ -160,9 +221,13 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 ## 🏭 By Industry
 
 ### 🇮🇳 Bollywood (Hindi Cinema)
+*   **[13B](https://www.imdb.com/title/tt1385824/)** (2009) - *Tech Horror*
 *   **[Tumbbad](https://www.imdb.com/title/tt8239946/)** (2018) - *Atmospheric Masterpiece*
+*   **[Andhadhun](https://www.imdb.com/title/tt8108198/)** (2018) - *Thriller Masterpiece*
 *   **[Bulbbul](https://www.imdb.com/title/tt12451520/)** (2020) - *Gothic Folklore*
-*   **[Krishna Cottage](https://www.imdb.com/title/tt0422090/)** (2004) - *Cult Classic Supernatural*
+*   **[Go Goa Gone](https://www.imdb.com/title/tt2222197/)** (2013) - *Zombie Comedy*
+*   **[Kill](https://www.imdb.com/title/tt28259207/)** (2023) - *Action Thriller*
+*   **[Krishna Cottage](https://www.imdb.com/title/tt0422090/)** (2004) - *Cult Supernatural*
 *   **[Pari](https://www.imdb.com/title/tt5927164/)** (2018) - *Dark Supernatural*
 *   **Stree Series:**
     *   [Stree](https://www.imdb.com/title/tt8108192/) (2018) - *Horror Comedy*
@@ -174,6 +239,10 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 ### 🇮🇳 Kollywood (Tamil Cinema)
 *   **[Ratsasan](https://www.imdb.com/title/tt7060344/)** (2018) - *Psychological Thriller*
 *   **[Pizza](https://www.imdb.com/title/tt2347569/)** (2012) - *Cult Horror Classic*
+*   **[Vikram Vedha](https://www.imdb.com/title/tt6148156/)** (2017) - *Noir Thriller*
+*   **[Maharaja](https://www.imdb.com/title/tt26540248/)** (2024) - *Revenge Thriller*
+*   **[Por Thozhil](https://www.imdb.com/title/tt27546709/)** (2023) - *Crime Thriller*
+*   **[Asvins](https://www.imdb.com/title/tt27914099/)** (2023) - *Psychological Horror*
 *   ✓ **[Aseq](titles/aseq.md)** (2023) - *Ashiq Jinn Horror* **WATCHED**
 *   ✓ **[Pechi](titles/pechi.md)** (2024) - *Witch Folklore* **WATCHED**
 *   ✓ **[The House Next Door](titles/the_house_next_door.md)** (2017) - *Black Magic Curse* **WATCHED**
@@ -191,9 +260,17 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[6-5=2](https://www.imdb.com/title/tt2820666/)** (2013) - *Supernatural Mystery*
 
 ### 🇮🇳 Mollywood (Malayalam Cinema)
+*   **[Bramayugam](https://www.imdb.com/title/tt28659553/)** (2024) - *Folk Horror Masterpiece*
+*   **[Bhoothakalam](https://www.imdb.com/title/tt16744312/)** (2022) - *Psychological Horror*
+*   **[Drishyam](https://www.imdb.com/title/tt3105742/)** (2013) - *Thriller Classic*
+*   **[Manjummel Boys](https://www.imdb.com/title/tt26057062/)** (2024) - *Survival Thriller*
+*   **[Memories](https://www.imdb.com/title/tt2991052/)** (2013) - *Mystery Thriller*
+*   **[Romancham](https://www.imdb.com/title/tt22339384/)** (2023) - *Horror Comedy*
 *   ✓ **[Vadakkan](titles/vadakkan.md)** (2025) - *Theyyam Possession* **WATCHED**
 
 ### 🇮🇩 Indonesian Horror
+*   **[Impetigore](https://www.imdb.com/title/tt10340986/)** (2019) - *Folk Horror*
+*   **[The Queen of Black Magic](https://www.imdb.com/title/tt10729792/)** (2019) - *Body Horror*
 *   **Satan's Slave Series:**
     *   [Satan's Slave](https://www.imdb.com/title/tt6204906/) (2017) - *Modern Classic*
     *   [Satan's Slaves: Communion](https://www.imdb.com/title/tt9735176/) (2022) - *Terrifying Sequel*
@@ -209,12 +286,25 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
     *   [Lembayung](https://www.imdb.com/title/tt29362934/) (2024) - *Dusk Horror*
 
 ### 🇰🇷 Korean Cinema
+*   **[Exhuma](https://www.imdb.com/title/tt27503758/)** (2024) - *Occult Thriller*
 *   **[The Wailing](https://www.imdb.com/title/tt5215952/)** (2016) - *Horror Thriller*
+*   **[Parasite](https://www.imdb.com/title/tt6751668/)** (2019) - *Social Thriller*
+*   **[I Saw the Devil](https://www.imdb.com/title/tt1588170/)** (2010) - *Revenge Thriller*
+*   **[Oldboy](https://www.imdb.com/title/tt0364569/)** (2003) - *Vengeance Classic*
+
+### 🇹🇼 Taiwanese Cinema
+*   **[Incantation](https://www.imdb.com/title/tt18968540/)** (2022) - *Found Footage*
+
+### 🇹🇭 Thai Cinema
+*   **[The Medium](https://www.imdb.com/title/tt13435076/)** (2021) - *Shamanism*
 
 ### 🇦🇺 Australian Cinema
 *   **[Talk To Me](https://www.imdb.com/title/tt10638522/)** (2023) - *A24 Record-Breaker*
 
-### 🇺🇸 Hollywood
+### 🇺🇸 Hollywood & Western
+*   **[Hereditary](https://www.imdb.com/title/tt7784604/)** (2018) - *Trauma Horror*
+*   **[Late Night with the Devil](https://www.imdb.com/title/tt14966898/)** (2023) - *Possession*
+*   **[Smile](https://www.imdb.com/title/tt15474916/)** (2022) - *Psychological*
 
 **Conjuring Universe** *(Complete 9-film series)*
    - [The Conjuring](https://www.imdb.com/title/tt1457767/) (2013)
