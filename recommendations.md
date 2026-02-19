@@ -16,41 +16,50 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[6-5=2](https://www.imdb.com/title/tt2820666/)** (2013) - *Kannada supernatural mystery.*
 *   **[Asvins](https://www.imdb.com/title/tt27914099/)** (2023) - *Psychological horror with dual realities.*
 *   ✓ **[Aseq](titles/aseq.md)** (2023) - *Tamil Ashiq Jinn obsession horror.* **WATCHED**
-*   **[Bhaagamathie](titles/bhaagamathie.md)** (2018) - *Gripping revenge-horror.* **WATCHED**
+*   ✓ **[Bhaagamathie](titles/bhaagamathie.md)** (2018) - *Gripping revenge-horror.* **WATCHED**
 *   **[Bhoothakalam](https://www.imdb.com/title/tt16744312/)** (2022) - *Masterpiece of psychological horror.*
 *   **[Bramayugam](https://www.imdb.com/title/tt28659553/)** (2024) - *Black & white folk horror masterpiece.*
 *   **[Bulbbul](https://www.imdb.com/title/tt12451520/)** (2020) - *Gothic horror with feminist undertones.*
+*   **[Cure](https://www.imdb.com/title/tt0118909/)** (1997) - *Japanese hypnotic psychological horror.*
+*   **[Dark Water](https://www.imdb.com/title/tt0308379/)** (2002) - *Atmospheric Japanese ghost story.*
 *   **[Exhuma](https://www.imdb.com/title/tt27503758/)** (2024) - *Korean shamanistic occult thriller.*
+*   **[Gonjiam: Haunted Asylum](https://www.imdb.com/title/tt8119752/)** (2018) - *Terrifying Korean found footage.*
 *   **[Hereditary](https://www.imdb.com/title/tt7784604/)** (2018) - *Modern classic of family trauma horror.*
 *   ✓ **[Kishkindhapuri](titles/kishkindhapuri.md)** (2025) - *Cursed radio station spirit.* **WATCHED**
 *   **[Impetigore](https://www.imdb.com/title/tt10340986/)** (2019) - *Skin-crawling Indonesian folk horror.*
 *   **[Incantation](https://www.imdb.com/title/tt18968540/)** (2022) - *Taiwanese found footage curse.*
+*   **[Kairo (Pulse)](https://www.imdb.com/title/tt0286751/)** (2001) - *Depressive internet ghost story.*
 *   **[Khanzab](https://www.imdb.com/title/tt23049232/)** (2023) - *Indonesian prayer disturbance horror.*
 *   **[Late Night with the Devil](https://www.imdb.com/title/tt14966898/)** (2023) - *Live TV possession horror.*
 *   **[Krishna Cottage](https://www.imdb.com/title/tt0422090/)** (2004) - *Cursed book and vengeful spirits.*
 *   **[Lembayung](https://www.imdb.com/title/tt29362934/)** (2024) - *Indonesian dusk horror.*
 *   **[Munkar](https://www.imdb.com/title/tt29362932/)** (2024) - *Grave interrogation terror.*
+*   **[Noroi: The Curse](https://www.imdb.com/title/tt0930083/)** (2005) - *Complex Japanese found footage documentary.*
 *   **[Pari](https://www.imdb.com/title/tt5927164/)** (2018) - *Dark supernatural horror from Anushka Sharma.*
 *   ✓ **[Pechi](titles/pechi.md)** (2024) - *Tamil witch immortality quest.* **WATCHED**
 *   **[Pizza](https://www.imdb.com/title/tt2347569/)** (2012) - *Tamil psychological horror cult classic.*
 *   **[Pishachini](https://www.imdb.com/title/tt14589028/)** (N/A) - *Recommended for swift narrative.*
 *   **[Qodrat](https://www.imdb.com/title/tt23049214/)** (2022) - *Indonesian supernatural chiller.*
+*   **[Ring (Ringu)](https://www.imdb.com/title/tt0178868/)** (1998) - *The film that started the J-Horror boom.*
 *   **[Romancham](https://www.imdb.com/title/tt22339384/)** (2023) - *Horror-comedy based on true events.*
 *   **[Sakaratul Maut](https://www.imdb.com/title/tt29362930/)** (2024) - *Death throes horror.*
 *   **[Sewu Dino](https://www.imdb.com/title/tt22488830/)** (2023) - *Indonesian folk curse.*
+*   **[Shutter](https://www.imdb.com/title/tt0440803/)** (2004) - *Thai ghost photography classic.*
 *   **[Siksa Kubur](https://www.imdb.com/title/tt29362936/)** (2024) - *Grave torture horror.*
 *   **[Smile](https://www.imdb.com/title/tt15474916/)** (2022) - *Psychological entity horror.*
 *   **[Smile 2](https://www.imdb.com/title/tt29623480/)** (2024) - *Pop star psychological horror.*
 *   **[Siksa Neraka](https://www.imdb.com/title/tt22488820/)** (2023) - *Hellish Indonesian nightmare.*
 *   **[Talk To Me](https://www.imdb.com/title/tt10638522/)** (2023) - *A24's highest-grossing horror.*
+*   **[Terrified (Aterrados)](https://www.imdb.com/title/tt7549892/)** (2017) - *Argentine supernatural neighborhood horror.*
+*   **[The House Next Door](titles/the_house_next_door.md)** (2017) - *Chinese black magic curse.* **WATCHED**
 *   **[The Medium](https://www.imdb.com/title/tt13435076/)** (2021) - *Thai shamanistic mockumentary.*
 *   **[The Queen of Black Magic](https://www.imdb.com/title/tt10729792/)** (2019) - *Visceral body horror and revenge.*
-*   ✓ **[The House Next Door](titles/the_house_next_door.md)** (2017) - *Chinese black magic curse.* **WATCHED**
 *   **[The Wailing](https://www.imdb.com/title/tt5215952/)** (2016) - *Unforgettable atmospheric dread.*
 *   **[Tumbbad](https://www.imdb.com/title/tt8239946/)** (2018) - *The gold standard of Indian folk horror.*
 *   ✓ **[Vadakkan](titles/vadakkan.md)** (2025) - *Theyyam folklore possession.* **WATCHED**
 *   ✓ **[Virupaksha](titles/virupaksha.md)** (2023) - *Telugu Pushkaram curse.* **WATCHED**
 *   **[Waktu Maghrib](https://www.imdb.com/title/tt22488824/)** (2023) - *Prayer time terror.*
+*   **[When Evil Lurks](https://www.imdb.com/title/tt26367018/)** (2023) - *Brutal Argentine possession horror.*
 
 #### Film Series
 
@@ -110,11 +119,27 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 ---
 
 ## 📅 By Year
+### 1997
+*   **[Cure](https://www.imdb.com/title/tt0118909/)** (Japanese)
+
+### 1998
+*   **[Ring (Ringu)](https://www.imdb.com/title/tt0178868/)** (Japanese)
+
+### 2001
+*   **[Kairo (Pulse)](https://www.imdb.com/title/tt0286751/)** (Japanese)
+
+### 2002
+*   **[Dark Water](https://www.imdb.com/title/tt0308379/)** (Japanese)
+
 ### 2003
 *   **[Oldboy](https://www.imdb.com/title/tt0364569/)** (Korean)
 
 ### 2004
 *   **[Krishna Cottage](https://www.imdb.com/title/tt0422090/)** (Hindi)
+*   **[Shutter](https://www.imdb.com/title/tt0440803/)** (Thai)
+
+### 2005
+*   **[Noroi: The Curse](https://www.imdb.com/title/tt0930083/)** (Japanese)
 
 ### 2009
 *   **[13B: Fear Has a New Address](https://www.imdb.com/title/tt1385824/)** (Hindi)
@@ -145,6 +170,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 ### 2017
 *   **[Annabelle: Creation](https://www.imdb.com/title/tt5140878/)** (English)
 *   **[Satan's Slave](https://www.imdb.com/title/tt6204906/)** (Indonesian)
+*   **[Terrified (Aterrados)](https://www.imdb.com/title/tt7549892/)** (Argentine)
 *   **[Vikram Vedha](https://www.imdb.com/title/tt6148156/)** (Tamil)
 *   ✓ **[The House Next Door](titles/the_house_next_door.md)** (Tamil) **WATCHED**
 
@@ -153,7 +179,8 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Andhadhun](https://www.imdb.com/title/tt8108198/)** (Hindi)
 *   **[Ratsasan](https://www.imdb.com/title/tt7060344/)** (Tamil)
 *   **[Stree](https://www.imdb.com/title/tt8108192/)** (Hindi)
-*   **[Bhaagamathie](titles/bhaagamathie.md)** (Telugu)
+*   ✓ **[Bhaagamathie](titles/bhaagamathie.md)** (Telugu) **WATCHED**
+*   **[Gonjiam: Haunted Asylum](https://www.imdb.com/title/tt8119752/)** (Korean)
 *   **[Hereditary](https://www.imdb.com/title/tt7784604/)** (English)
 *   **[Pari](https://www.imdb.com/title/tt5927164/)** (Hindi)
 *   **[The Nun](https://www.imdb.com/title/tt5814060/)** (English)
@@ -194,6 +221,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Sewu Dino](https://www.imdb.com/title/tt22488830/)** (Indonesian)
 *   **[Siksa Neraka](https://www.imdb.com/title/tt22488820/)** (Indonesian)
 *   **[Waktu Maghrib](https://www.imdb.com/title/tt22488824/)** (Indonesian)
+*   **[When Evil Lurks](https://www.imdb.com/title/tt26367018/)** (Argentine)
 *   ✓ **[Aseq](titles/aseq.md)** (Tamil) **WATCHED**
 *   ✓ **[Virupaksha](titles/virupaksha.md)** (Telugu) **WATCHED**
 
@@ -289,14 +317,27 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Exhuma](https://www.imdb.com/title/tt27503758/)** (2024) - *Occult Thriller*
 *   **[The Wailing](https://www.imdb.com/title/tt5215952/)** (2016) - *Horror Thriller*
 *   **[Parasite](https://www.imdb.com/title/tt6751668/)** (2019) - *Social Thriller*
+*   **[Gonjiam: Haunted Asylum](https://www.imdb.com/title/tt8119752/)** (2018) - *Found Footage*
 *   **[I Saw the Devil](https://www.imdb.com/title/tt1588170/)** (2010) - *Revenge Thriller*
 *   **[Oldboy](https://www.imdb.com/title/tt0364569/)** (2003) - *Vengeance Classic*
 
-### 🇹🇼 Taiwanese Cinema
+### �🇵 Japanese Cinema
+*   **[Cure](https://www.imdb.com/title/tt0118909/)** (1997) - *Psychological Horror*
+*   **[Ring (Ringu)](https://www.imdb.com/title/tt0178868/)** (1998) - *J-Horror Classic*
+*   **[Kairo (Pulse)](https://www.imdb.com/title/tt0286751/)** (2001) - *Tech Horror*
+*   **[Dark Water](https://www.imdb.com/title/tt0308379/)** (2002) - *Atmospheric Ghost Story*
+*   **[Noroi: The Curse](https://www.imdb.com/title/tt0930083/)** (2005) - *Found Footage Masterpiece*
+
+### �🇹🇼 Taiwanese Cinema
 *   **[Incantation](https://www.imdb.com/title/tt18968540/)** (2022) - *Found Footage*
 
 ### 🇹🇭 Thai Cinema
+*   **[Shutter](https://www.imdb.com/title/tt0440803/)** (2004) - *Ghost Photography*
 *   **[The Medium](https://www.imdb.com/title/tt13435076/)** (2021) - *Shamanism*
+
+### 🇦🇷 Latin American Cinema
+*   **[Terrified (Aterrados)](https://www.imdb.com/title/tt7549892/)** (2017) - *Supernatural Horror*
+*   **[When Evil Lurks](https://www.imdb.com/title/tt26367018/)** (2023) - *Possession Horror*
 
 ### 🇦🇺 Australian Cinema
 *   **[Talk To Me](https://www.imdb.com/title/tt10638522/)** (2023) - *A24 Record-Breaker*
