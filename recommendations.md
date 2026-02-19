@@ -51,7 +51,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Siksa Neraka](https://www.imdb.com/title/tt22488820/)** (2023) - *Hellish Indonesian nightmare.*
 *   **[Talk To Me](https://www.imdb.com/title/tt10638522/)** (2023) - *A24's highest-grossing horror.*
 *   **[Terrified (Aterrados)](https://www.imdb.com/title/tt7549892/)** (2017) - *Argentine supernatural neighborhood horror.*
-*   **[The House Next Door](titles/the_house_next_door.md)** (2017) - *Chinese black magic curse.* **WATCHED**
+*   ✓ **[The House Next Door](titles/the_house_next_door.md)** (2017) - *Chinese black magic curse.* **WATCHED**
 *   **[The Medium](https://www.imdb.com/title/tt13435076/)** (2021) - *Thai shamanistic mockumentary.*
 *   **[The Queen of Black Magic](https://www.imdb.com/title/tt10729792/)** (2019) - *Visceral body horror and revenge.*
 *   **[The Wailing](https://www.imdb.com/title/tt5215952/)** (2016) - *Unforgettable atmospheric dread.*
