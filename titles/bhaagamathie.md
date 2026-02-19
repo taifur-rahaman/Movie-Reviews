@@ -12,7 +12,7 @@
 | Watch Start Date   | 19th February 2026          |
 | Watch End Date     | 19th February 2026          |
 | Runtime            | 2h 15m                      |
-| Rating             | ★★☆☆☆                       |
+| Rating             | ★★★☆☆ (4.0/10)              |
 | Platform           | Home                        |
 | Language           | Telugu                      |
 | Country            | India                       |
@@ -69,14 +69,14 @@ My overall rating is 2/5 (★★☆☆☆).
 
 | Category | Score | Notes |
 |---|---|---|
-| **Cinematography** | **★★★☆☆** | Visually interesting at times, atmosphere tries hard. |
-| **Plot** | **★★☆☆☆** | Plays it too safe, confused about its identity. |
-| **Story** | **★★☆☆☆** | Wasted potential of the haunted mansion setting. |
-| **Character Development** | **★★☆☆☆** | Commendable performance by Anushka Shetty, but characters feel surface-level. |
-| **Scares/Horror** | **★☆☆☆☆** | Toothless, lacks tension or dread. |
-| **Enjoyment** | **★★☆☆☆** | Decent one-time watch, felt short-changed. |
-| **Overall** | **★★☆☆☆** | Neither scary enough nor thrilling enough. |
-| **Pace** | **★★☆☆☆** | Lacks the tension a good horror film should have. |
+| **Cinematography** | **6/10** | Visually interesting at times, atmosphere tries hard. |
+| **Plot** | **4/10** | Plays it too safe, confused about its identity. |
+| **Story** | **4/10** | Wasted potential of the haunted mansion setting. |
+| **Character Development** | **4/10** | Commendable performance by Anushka Shetty, but characters feel surface-level. |
+| **Scares/Horror** | **2/10** | Toothless, lacks tension or dread. |
+| **Enjoyment** | **4/10** | Decent one-time watch, felt short-changed. |
+| **Overall** | **4/10** | Neither scary enough nor thrilling enough. |
+| **Pace** | **4/10** | Lacks the tension a good horror film should have. |
 
 ---
 
@@ -97,5 +97,9 @@ My overall rating is 2/5 (★★☆☆☆).
 **Low.**
 
 Bhaagamathie is a decent one-time watch, primarily for Anushka Shetty's performance and the production values. However, the lack of genuine scares and the reliance on a specific narrative structure limit its replay value. Once the mystery is known, there is little in the way of atmosphere or deeper nuance to warrant a revisit.
+
+**Similar films:**
+- [Virupaksha](virupaksha.md) (Telugu horror with similar themes)
+- **Arundhati** (The benchmark for this genre)
 
 ---

@@ -122,7 +122,7 @@ This is one of those stories where I gladly side with the so-called villains. So
 - **Kantara** (2022) - Rural Indian supernatural thriller rooted in local traditions
 - **Bulbbul** (2020) - Revenge-driven supernatural story with feminist undertones
 - **Ratsasan** (2018) - Tamil thriller with dark psychological elements
-- **Bhaagamathie** (2018) - Telugu supernatural thriller with revenge themes
+- [Bhaagamathie](bhaagamathie.md) (2018) - Telugu supernatural thriller with revenge themes
 
 ---
 
