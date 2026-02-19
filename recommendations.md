@@ -14,7 +14,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 #### Standalone Films
 *   **[6-5=2](https://www.imdb.com/title/tt2820666/)** (2013) - *Kannada supernatural mystery.*
 *   ✓ **[Aseq](titles/aseq.md)** (2023) - *Tamil Ashiq Jinn obsession horror.* **WATCHED**
-*   **[Bhaagamathie](https://www.imdb.com/title/tt5848348/)** (2018) - *Gripping revenge-horror.*
+*   ✓ **[Bhaagamathie](titles/bhaagamathie.md)** (2018) - *Gripping revenge-horror.* **WATCHED**
 *   **[Bulbbul](https://www.imdb.com/title/tt12451520/)** (2020) - *Gothic horror with feminist undertones.*
 *   ✓ **[Kishkindhapuri](titles/kishkindhapuri.md)** (2025) - *Cursed radio station spirit.* **WATCHED**
 *   **[Khanzab](https://www.imdb.com/title/tt23049232/)** (2023) - *Indonesian prayer disturbance horror.*
@@ -111,7 +111,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Tumbbad](https://www.imdb.com/title/tt8239946/)** (Hindi)
 *   **[Ratsasan](https://www.imdb.com/title/tt7060344/)** (Tamil)
 *   **[Stree](https://www.imdb.com/title/tt8108192/)** (Hindi)
-*   **[Bhaagamathie](https://www.imdb.com/title/tt5848348/)** (Telugu)
+*   ✓ **[Bhaagamathie](titles/bhaagamathie.md)** (Telugu) **WATCHED**
 *   **[Pari](https://www.imdb.com/title/tt5927164/)** (Hindi)
 *   **[The Nun](https://www.imdb.com/title/tt5814060/)** (English)
 
@@ -182,7 +182,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
     *   [Demonte Colony 2](https://www.imdb.com/title/tt28538878/) (2024) - *Sequel/Prequel*
 
 ### 🇮🇳 Tollywood (Telugu Cinema)
-*   **[Bhaagamathie](https://www.imdb.com/title/tt5848348/)** (2018) - *Supernatural Thriller*
+*   ✓ **[Bhaagamathie](titles/bhaagamathie.md)** (2018) - *Supernatural Thriller* **WATCHED**
 *   ✓ **[Kishkindhapuri](titles/kishkindhapuri.md)** (2025) - *Radio Station Spirit* **WATCHED**
 *   ✓ **[Virupaksha](titles/virupaksha.md)** (2023) - *Pushkaram Curse* **WATCHED**
 
