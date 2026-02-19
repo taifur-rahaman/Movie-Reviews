@@ -11,10 +11,10 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Movies Logged** | 7 |
-| **Movies Completed** | 6 |
-| **Currently Watching** | 1 |
-| **Total Watch Time** | 12h 30m |
-| **Average Movie Length** | 2h 5m |
+| **Movies Completed** | 7 |
+| **Currently Watching** | 0 |
+| **Total Watch Time** | 14h 45m |
+| **Average Movie Length** | 2h 6m |
 | **Most Watched Year** | 2023, 2025 (Tie) |
 | **Most Watched Genre** | Horror |
 
@@ -25,7 +25,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Year** | **Movies Watched** | **Total Runtime** | **Films** |
 |:---:|:---:|:---:|:---|
 | 2017 | 1 | 2h 17m | [The House Next Door](../titles/the_house_next_door.md) |
-| 2018 | 1 | 2h 15m | [Bhaagamathie](../titles/bhaagamathie.md) *(Watching)* |
+| 2018 | 1 | 2h 15m | [Bhaagamathie](../titles/bhaagamathie.md) |
 | 2023 | 2 | 4h 13m | [Aseq](../titles/aseq.md), [Virupaksha](../titles/virupaksha.md) |
 | 2024 | 1 | 2h 3m | [Pechi](../titles/pechi.md) |
 | 2025 | 2 | 3h 57m | [Vadakkan](../titles/vadakkan.md), [Kishkindhapuri](../titles/kishkindhapuri.md) |
@@ -42,7 +42,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
 | Romance | 0 | 0h 0m | N/A |
-| Horror | 7 | 12h 30m | ★★★☆☆ (avg) |
+| Horror | 7 | 14h 45m | ★★⯪☆☆ (avg) |
 | Mystery & Crime | 0 | 0h 0m | N/A |
 
 ---
@@ -54,7 +54,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Month** | **Movies Watched** | **Total Runtime** |
 |:---|:---:|:---:|
 | January 2026 | 2 | 4h 20m |
-| February 2026 | 5 | 8h 10m |
+| February 2026 | 6 | 10h 25m |
 
 ---
 
@@ -67,7 +67,8 @@ This document tracks the temporal distribution of movies watched, organized by y
 | 3 | [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | Horror |
 | 4 | [Vadakkan](../titles/vadakkan.md) | 2025 | ★★⯪☆☆ | Horror |
 | 5 | [Kishkindhapuri](../titles/kishkindhapuri.md) | 2025 | ★★☆☆☆ | Horror |
-| 6 | [Aseq](../titles/aseq.md) | 2023 | ★⯪☆☆☆ | Horror |
+| 6 | [Bhaagamathie](../titles/bhaagamathie.md) | 2018 | ★★☆☆☆ | Horror |
+| 7 | [Aseq](../titles/aseq.md) | 2023 | ★⯪☆☆☆ | Horror |
 
 ---
 
@@ -81,7 +82,6 @@ This document tracks the temporal distribution of movies watched, organized by y
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Aseq](../titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Watched | Home |
-| [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Watched | Home |
 
 #### 🎬 Kollywood
 *Tamil Cinema*
@@ -103,13 +103,13 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Bhaagamathie](../titles/bhaagamathie.md) | 2018 | - | 2h 15m | Watching | Home |
+| [Bhaagamathie](../titles/bhaagamathie.md) | 2018 | ★★☆☆☆ | 2h 15m | Watched | Home |
 | [Kishkindhapuri](../titles/kishkindhapuri.md) | 2025 | ★★☆☆☆ | 2h 5m | Watched | Home |
 | [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ | 2h 26m | Watched | Home |
 
 ---
 
-## �📝 Notes
+## 📝 Notes
 
 - This document is automatically updated as new movies are logged
 - Runtime includes only the actual movie length, not including credits (unless noted)
