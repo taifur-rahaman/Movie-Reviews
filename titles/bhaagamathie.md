@@ -1,5 +1,8 @@
 # Bhaagamathie
 
+![Bhaagamathie Movie Cover](../utils/covers/bhaagamathie.jpg)
+
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 26th January 2018           |
