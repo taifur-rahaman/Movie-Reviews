@@ -9,8 +9,8 @@
 | Director           | David F. Sandberg           |
 | Genre              | Horror / Supernatural       |
 | Status             | Watched                     |
-| Watch Start Date   | Past Viewing                |
-| Watch End Date     | Past Viewing                |
+| Watch Start Date   | 22nd January 2026           |
+| Watch End Date     | 22nd January 2026           |
 | Runtime            | 1h 50m                      |
 | Rating             | ★★★⯪☆ (7.5/10)              |
 | Platform           | Home                        |

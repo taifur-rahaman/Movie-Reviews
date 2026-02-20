@@ -56,11 +56,33 @@ This document tracks the temporal distribution of movies watched, organized by y
 ## 📈 Viewing Timeline
 
 ### By Month (Current Year)
-
 | **Month** | **Movies Watched** | **Total Runtime** |
 |:---|:---:|:---:|
-| January 2026 | 2 | 4h 20m |
-| February 2026 | 8 | 14h 34m |
+| January 2026 | 6 | 11h 55m |
+| February 2026 | 12 | 23h 11m |
+
+### 🗓️ Detailed Viewing Log (2026)
+
+| 📅 **Date** | 📜 **Film** | 🌟 **Rating** | ⏳ **Runtime** |
+|:---:|:---|:---:|:---:|
+| **Jan 05** | [The Conjuring](../titles/the_conjuring.md) | ★★★★☆ | 1h 52m |
+| **Jan 10** | [Annabelle](../titles/annabelle.md) | ★★⯪☆☆ | 1h 39m |
+| **Jan 15** | [The Conjuring 2](../titles/the_conjuring_2.md) | ★★★★☆ | 2h 14m |
+| **Jan 22** | [Annabelle: Creation](../titles/annabelle_creation.md) | ★★★⯪☆ | 1h 50m |
+| **Jan 27** | [Pechi](../titles/pechi.md) | ★★★★☆ | 2h 3m |
+| **Jan 31** | [The House Next Door](../titles/the_house_next_door.md) | ★★⯪☆☆ | 2h 17m |
+| **Feb 02** | [The Nun](../titles/the_nun.md) | ★★⯪☆☆ | 1h 36m |
+| **Feb 03** | [Aseq](../titles/aseq.md) | ★⯪☆☆☆ | 1h 47m |
+| **Feb 05** | [The Curse of La Llorona](../titles/the_curse_of_la_llorona.md) | ★★☆☆☆ | 1h 33m |
+| **Feb 08** | [Annabelle Comes Home](../titles/annabelle_comes_home.md) | ★★★☆☆ | 1h 46m |
+| **Feb 11** | [Virupaksha](../titles/virupaksha.md) | ★★★⯪☆ | 2h 26m |
+| **Feb 12** | [Vadakkan](../titles/vadakkan.md) | ★★⯪☆☆ | 1h 52m |
+| **Feb 13** | [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) | ★★★☆☆ | 1h 52m |
+| **Feb 15** | [Kishkindhapuri](../titles/kishkindhapuri.md) | ★★☆☆☆ | 2h 5m |
+| **Feb 16** | [The Nun 2](../titles/the_nun_2.md) | ★★★☆☆ | 1h 50m |
+| **Feb 19** | [13B: Fear Has a New Address](../titles/13b.md) | ★★★⯪☆ | 2h 26m |
+| **Feb 19** | [Bhaagamathie](../titles/bhaagamathie.md) | ★★☆☆☆ | 2h 15m |
+| **Feb 20** | [6-5=2](../titles/6_5_2.md) | ★★★⯪☆ | 1h 43m |
 
 ---
 

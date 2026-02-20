@@ -9,8 +9,8 @@
 | Director           | James Wan                   |
 | Genre              | Horror / Supernatural       |
 | Status             | Watched                     |
-| Watch Start Date   | Past Viewing                |
-| Watch End Date     | Past Viewing                |
+| Watch Start Date   | 15th January 2026           |
+| Watch End Date     | 15th January 2026           |
 | Runtime            | 2h 14m                      |
 | Rating             | ★★★★☆ (8/10)                |
 | Platform           | Home                        |
