@@ -64,15 +64,15 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 #### Film Series
 
 **🔮 Conjuring Universe** *(9 films, 2013-2023)*
-   - [The Conjuring](https://www.imdb.com/title/tt1457767/) (2013)
-   - [The Conjuring 2](https://www.imdb.com/title/tt3065204/) (2016)
-   - [The Conjuring: The Devil Made Me Do It](https://www.imdb.com/title/tt7069210/) (2021)
-   - [Annabelle](https://www.imdb.com/title/tt3322940/) (2014)
-   - [Annabelle: Creation](https://www.imdb.com/title/tt5140878/) (2017)
-   - [Annabelle Comes Home](https://www.imdb.com/title/tt8350360/) (2019)
-   - [The Nun](https://www.imdb.com/title/tt5814060/) (2018)
-   - [The Nun II](https://www.imdb.com/title/tt10160976/) (2023)
-   - [The Curse of La Llorona](https://www.imdb.com/title/tt6803022/) (2019)
+   - ✓ [The Conjuring](titles/the_conjuring.md) (2013) **WATCHED**
+   - ✓ [The Conjuring 2](titles/the_conjuring_2.md) (2016) **WATCHED**
+   - ✓ [The Conjuring: The Devil Made Me Do It](titles/the_conjuring_the_devil_made_me_do_it.md) (2021) **WATCHED**
+   - ✓ [Annabelle](titles/annabelle.md) (2014) **WATCHED**
+   - ✓ [Annabelle: Creation](titles/annabelle_creation.md) (2017) **WATCHED**
+   - ✓ [Annabelle Comes Home](titles/annabelle_comes_home.md) (2019) **WATCHED**
+   - ✓ [The Nun](titles/the_nun.md) (2018) **WATCHED**
+   - ✓ [The Nun II](titles/the_nun_2.md) (2023) **WATCHED**
+   - ✓ [The Curse of La Llorona](titles/the_curse_of_la_llorona.md) (2019) **WATCHED**
 
 **👻 Maddock Horror Comedy Universe** *(Includes Stree series)*
    - [Stree](https://www.imdb.com/title/tt8108192/) (2018) - *Horror-comedy with social commentary*
@@ -151,13 +151,13 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Pizza](https://www.imdb.com/title/tt2347569/)** (Tamil)
 
 ### 2013
-*   **[The Conjuring](https://www.imdb.com/title/tt1457767/)** (English)
+*   ✓ **[The Conjuring](titles/the_conjuring.md)** (English) **WATCHED**
 *   **[Drishyam](https://www.imdb.com/title/tt3105742/)** (Malayalam)
 *   **[Go Goa Gone](https://www.imdb.com/title/tt2222197/)** (Hindi)
 *   **[Memories](https://www.imdb.com/title/tt2991052/)** (Malayalam)
 
 ### 2014
-*   **[Annabelle](https://www.imdb.com/title/tt3322940/)** (English)
+*   ✓ **[Annabelle](titles/annabelle.md)** (English) **WATCHED**
 *   ✓ **[6-5=2](titles/6_5_2.md)** (Hindi) **WATCHED**
 
 ### 2015
@@ -165,10 +165,10 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 
 ### 2016
 *   **[The Wailing](https://www.imdb.com/title/tt5215952/)** (Korean)
-*   **[The Conjuring 2](https://www.imdb.com/title/tt3065204/)** (English)
+*   ✓ **[The Conjuring 2](titles/the_conjuring_2.md)** (English) **WATCHED**
 
 ### 2017
-*   **[Annabelle: Creation](https://www.imdb.com/title/tt5140878/)** (English)
+*   ✓ **[Annabelle: Creation](titles/annabelle_creation.md)** (English) **WATCHED**
 *   **[Satan's Slave](https://www.imdb.com/title/tt6204906/)** (Indonesian)
 *   **[Terrified (Aterrados)](https://www.imdb.com/title/tt7549892/)** (Argentine)
 *   **[Vikram Vedha](https://www.imdb.com/title/tt6148156/)** (Tamil)
@@ -183,20 +183,20 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Gonjiam: Haunted Asylum](https://www.imdb.com/title/tt8119752/)** (Korean)
 *   **[Hereditary](https://www.imdb.com/title/tt7784604/)** (English)
 *   **[Pari](https://www.imdb.com/title/tt5927164/)** (Hindi)
-*   **[The Nun](https://www.imdb.com/title/tt5814060/)** (English)
+*   ✓ **[The Nun](titles/the_nun.md)** (English) **WATCHED**
 
 ### 2019
-*   **[Annabelle Comes Home](https://www.imdb.com/title/tt8350360/)** (English)
+*   ✓ **[Annabelle Comes Home](titles/annabelle_comes_home.md)** (English) **WATCHED**
 *   **[Impetigore](https://www.imdb.com/title/tt10340986/)** (Indonesian)
 *   **[Parasite](https://www.imdb.com/title/tt6751668/)** (Korean)
-*   **[The Curse of La Llorona](https://www.imdb.com/title/tt6803022/)** (English)
+*   ✓ **[The Curse of La Llorona](titles/the_curse_of_la_llorona.md)** (English) **WATCHED**
 *   **[The Queen of Black Magic](https://www.imdb.com/title/tt10729792/)** (Indonesian)
 
 ### 2020
 *   **[Bulbbul](https://www.imdb.com/title/tt12451520/)** (Hindi)
 
 ### 2021
-*   **[The Conjuring: The Devil Made Me Do It](https://www.imdb.com/title/tt7069210/)** (English)
+*   ✓ **[The Conjuring: The Devil Made Me Do It](titles/the_conjuring_the_devil_made_me_do_it.md)** (English) **WATCHED**
 *   **[Chhorii](https://www.imdb.com/title/tt13314558/)** (Hindi)
 *   **[Drishyam 2](https://www.imdb.com/title/tt13054174/)** (Malayalam)
 *   **[The Medium](https://www.imdb.com/title/tt13435076/)** (Thai)
@@ -210,7 +210,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Smile](https://www.imdb.com/title/tt15474916/)** (English)
 
 ### 2023
-*   **[The Nun II](https://www.imdb.com/title/tt10160976/)** (English)
+*   ✓ **[The Nun II](titles/the_nun_2.md)** (English) **WATCHED**
 *   **[Talk To Me](https://www.imdb.com/title/tt10638522/)** (Australian)
 *   **[Asvins](https://www.imdb.com/title/tt27914099/)** (Tamil)
 *   **[Khanzab](https://www.imdb.com/title/tt23049232/)** (Indonesian)
@@ -349,12 +349,12 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Smile](https://www.imdb.com/title/tt15474916/)** (2022) - *Psychological*
 
 **Conjuring Universe** *(Complete 9-film series)*
-   - [The Conjuring](https://www.imdb.com/title/tt1457767/) (2013)
-   - [The Conjuring 2](https://www.imdb.com/title/tt3065204/) (2016)
-   - [The Conjuring: The Devil Made Me Do It](https://www.imdb.com/title/tt7069210/) (2021)
-   - [Annabelle](https://www.imdb.com/title/tt3322940/) (2014)
-   - [Annabelle: Creation](https://www.imdb.com/title/tt5140878/) (2017)
-   - [Annabelle Comes Home](https://www.imdb.com/title/tt8350360/) (2019)
-   - [The Nun](https://www.imdb.com/title/tt5814060/) (2018)
-   - [The Nun II](https://www.imdb.com/title/tt10160976/) (2023)
-   - [The Curse of La Llorona](https://www.imdb.com/title/tt6803022/) (2019)
+   - ✓ [The Conjuring](titles/the_conjuring.md) (2013) **WATCHED**
+   - ✓ [The Conjuring 2](titles/the_conjuring_2.md) (2016) **WATCHED**
+   - ✓ [The Conjuring: The Devil Made Me Do It](titles/the_conjuring_the_devil_made_me_do_it.md) (2021) **WATCHED**
+   - ✓ [Annabelle](titles/annabelle.md) (2014) **WATCHED**
+   - ✓ [Annabelle: Creation](titles/annabelle_creation.md) (2017) **WATCHED**
+   - ✓ [Annabelle Comes Home](titles/annabelle_comes_home.md) (2019) **WATCHED**
+   - ✓ [The Nun](titles/the_nun.md) (2018) **WATCHED**
+   - ✓ [The Nun II](titles/the_nun_2.md) (2023) **WATCHED**
+   - ✓ [The Curse of La Llorona](titles/the_curse_of_la_llorona.md) (2019) **WATCHED**

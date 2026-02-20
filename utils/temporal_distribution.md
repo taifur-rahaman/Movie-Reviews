@@ -10,11 +10,11 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Movies Logged** | 9 |
-| **Movies Completed** | 9 |
+| **Total Movies Logged** | 18 |
+| **Movies Completed** | 18 |
 | **Currently Watching** | 0 |
-| **Total Watch Time** | 18h 54m |
-| **Average Movie Length** | 2h 9m |
+| **Total Watch Time** | 35h 06m |
+| **Average Movie Length** | 1h 57m |
 | **Most Watched Year** | 2023, 2025 (Tie) |
 | **Most Watched Genre** | Horror |
 
@@ -25,10 +25,15 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Year** | **Movies Watched** | **Total Runtime** | **Films** |
 |:---:|:---:|:---:|:---|
 | 2009 | 1 | 2h 26m | [13B: Fear Has a New Address](../titles/13b.md) |
-| 2014 | 2 | 3h 46m | [Pechi](../titles/pechi.md), [6-5=2](../titles/6_5_2.md) |
-| 2017 | 1 | 2h 17m | [The House Next Door](../titles/the_house_next_door.md) |
-| 2018 | 1 | 2h 15m | [Bhaagamathie](../titles/bhaagamathie.md) |
-| 2023 | 2 | 4h 13m | [Aseq](../titles/aseq.md), [Virupaksha](../titles/virupaksha.md) |
+| 2013 | 1 | 1h 52m | [The Conjuring](../titles/the_conjuring.md) |
+| 2014 | 2 | 3h 22m | [Annabelle](../titles/annabelle.md), [6-5=2](../titles/6_5_2.md) |
+| 2016 | 1 | 2h 14m | [The Conjuring 2](../titles/the_conjuring_2.md) |
+| 2017 | 2 | 4h 07m | [Annabelle: Creation](../titles/annabelle_creation.md), [The House Next Door](../titles/the_house_next_door.md) |
+| 2018 | 2 | 3h 51m | [The Nun](../titles/the_nun.md), [Bhaagamathie](../titles/bhaagamathie.md) |
+| 2019 | 2 | 3h 19m | [Annabelle Comes Home](../titles/annabelle_comes_home.md), [The Curse of La Llorona](../titles/the_curse_of_la_llorona.md) |
+| 2021 | 1 | 1h 52m | [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) |
+| 2023 | 3 | 6h 03m | [The Nun 2](../titles/the_nun_2.md), [Aseq](../titles/aseq.md), [Virupaksha](../titles/virupaksha.md) |
+| 2024 | 1 | 2h 03m | [Pechi](../titles/pechi.md) |
 
 | 2025 | 2 | 3h 57m | [Vadakkan](../titles/vadakkan.md), [Kishkindhapuri](../titles/kishkindhapuri.md) |
 
@@ -44,7 +49,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
 | Romance | 0 | 0h 0m | N/A |
-| Horror | 9 | 18h 54m | ★★★☆☆ (avg) |
+| Horror | 18 | 35h 06m | ★★★☆☆ (avg) |
 | Mystery & Crime | 0 | 0h 0m | N/A |
 
 ---
@@ -64,19 +69,36 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Rank** | **Film** | **Year** | **Rating** | **Genre** |
 |:---:|:---|:---:|:---:|:---|
-| 1 | [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ | Horror |
-| 2 | [13B: Fear Has a New Address](../titles/13b.md) | 2009 | ★★★⯪☆ | Horror |
-| 3 | [6-5=2](../titles/6_5_2.md) | 2014 | ★★★⯪☆ | Horror |
-| 4 | [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ | Horror |
-| 5 | [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | Horror |
-| 6 | [Vadakkan](../titles/vadakkan.md) | 2025 | ★★⯪☆☆ | Horror |
-| 7 | [Kishkindhapuri](../titles/kishkindhapuri.md) | 2025 | ★★☆☆☆ | Horror |
-| 8 | [Bhaagamathie](../titles/bhaagamathie.md) | 2018 | ★★☆☆☆ | Horror |
-| 9 | [Aseq](../titles/aseq.md) | 2023 | ★⯪☆☆☆ | Horror |
+| 1 | [The Conjuring](../titles/the_conjuring.md) | 2013 | ★★★★☆ (8.5) | Horror |
+| 2 | [The Conjuring 2](../titles/the_conjuring_2.md) | 2016 | ★★★★☆ (8.0) | Horror |
+| 3 | [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ | Horror |
+| 4 | [Annabelle: Creation](../titles/annabelle_creation.md) | 2017 | ★★★⯪☆ (7.5) | Horror |
+| 5 | [13B: Fear Has a New Address](../titles/13b.md) | 2009 | ★★★⯪☆ | Horror |
+| 6 | [6-5=2](../titles/6_5_2.md) | 2014 | ★★★⯪☆ | Horror |
+| 7 | [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ | Horror |
+| 8 | [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) | 2021 | ★★★☆☆ (6.5) | Horror |
+| 9 | [The Nun 2](../titles/the_nun_2.md) | 2023 | ★★★☆☆ (6.0) | Horror |
+| 10 | [Annabelle Comes Home](../titles/annabelle_comes_home.md) | 2019 | ★★★☆☆ (6.0) | Horror |
 
 ---
 
 ## 🗺️ Movie Reviews by Country
+
+### 🇺🇸 USA
+#### 🎬 Hollywood
+*American Cinema*
+
+| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [Annabelle](../titles/annabelle.md) | 2014 | ★★⯪☆☆ | 1h 39m | Watched | Home |
+| [Annabelle Comes Home](../titles/annabelle_comes_home.md) | 2019 | ★★★☆☆ | 1h 46m | Watched | Home |
+| [Annabelle: Creation](../titles/annabelle_creation.md) | 2017 | ★★★⯪☆ | 1h 50m | Watched | Home |
+| [The Conjuring](../titles/the_conjuring.md) | 2013 | ★★★★☆ | 1h 52m | Watched | Home |
+| [The Conjuring 2](../titles/the_conjuring_2.md) | 2016 | ★★★★☆ | 2h 14m | Watched | Home |
+| [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) | 2021 | ★★★☆☆ | 1h 52m | Watched | Home |
+| [The Curse of La Llorona](../titles/the_curse_of_la_llorona.md) | 2019 | ★★☆☆☆ | 1h 33m | Watched | Home |
+| [The Nun](../titles/the_nun.md) | 2018 | ★★⯪☆☆ | 1h 36m | Watched | Home |
+| [The Nun 2](../titles/the_nun_2.md) | 2023 | ★★★☆☆ | 1h 50m | Watched | Home |
 
 ### 🇮🇳 India
 

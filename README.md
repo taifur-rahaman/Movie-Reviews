@@ -26,9 +26,9 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Films Logged** | **9 Films** | *Stories Documented* |
-| **⏳ Hours Watched** | **18h 54m** | *Total Watch Time* |
-| **🎬 Films Completed** | **9 Films** | *Journeys Finished* |
+| **📜 Films Logged** | **18 Films** | *Stories Documented* |
+| **⏳ Hours Watched** | **35h 06m** | *Total Watch Time* |
+| **🎬 Films Completed** | **18 Films** | *Journeys Finished* |
 | **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
 
 ---
@@ -128,11 +128,20 @@
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [13B: Fear Has a New Address](titles/13b.md) | 2009 | ★★★⯪☆ | 2h 26m | Watched | Home |
 | [6-5=2](titles/6_5_2.md) | 2014 | ★★★⯪☆ | 1h 43m | Watched | Home |
+| [Annabelle](titles/annabelle.md) | 2014 | ★★⯪☆☆ | 1h 39m | Watched | Home |
+| [Annabelle Comes Home](titles/annabelle_comes_home.md) | 2019 | ★★★☆☆ | 1h 46m | Watched | Home |
+| [Annabelle: Creation](titles/annabelle_creation.md) | 2017 | ★★★⯪☆ | 1h 50m | Watched | Home |
 | [Aseq](titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Watched | Home |
 | [Bhaagamathie](titles/bhaagamathie.md) | 2018 | ★★☆☆☆ | 2h 15m | Watched | Home |
 | [Kishkindhapuri](titles/kishkindhapuri.md) | 2025 | ★★☆☆☆ | 2h 5m | Watched | Home |
 | [Pechi](titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
+| [The Conjuring](titles/the_conjuring.md) | 2013 | ★★★★☆ | 1h 52m | Watched | Home |
+| [The Conjuring 2](titles/the_conjuring_2.md) | 2016 | ★★★★☆ | 2h 14m | Watched | Home |
+| [The Conjuring: The Devil Made Me Do It](titles/the_conjuring_the_devil_made_me_do_it.md) | 2021 | ★★★☆☆ | 1h 52m | Watched | Home |
+| [The Curse of La Llorona](titles/the_curse_of_la_llorona.md) | 2019 | ★★☆☆☆ | 1h 33m | Watched | Home |
 | [The House Next Door](titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Watched | Home |
+| [The Nun](titles/the_nun.md) | 2018 | ★★⯪☆☆ | 1h 36m | Watched | Home |
+| [The Nun 2](titles/the_nun_2.md) | 2023 | ★★★☆☆ | 1h 50m | Watched | Home |
 | [Vadakkan](titles/vadakkan.md) | 2025 | ★★⯪☆☆ | 1h 52m | Watched | Home |
 | [Virupaksha](titles/virupaksha.md) | 2023 | ★★★⯪☆ | 2h 26m | Watched | Home |
 
