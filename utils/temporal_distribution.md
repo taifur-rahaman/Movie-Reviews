@@ -34,7 +34,6 @@ This document tracks the temporal distribution of movies watched, organized by y
 | 2021 | 1 | 1h 52m | [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) |
 | 2023 | 3 | 6h 03m | [The Nun 2](../titles/the_nun_2.md), [Aseq](../titles/aseq.md), [Virupaksha](../titles/virupaksha.md) |
 | 2024 | 1 | 2h 03m | [Pechi](../titles/pechi.md) |
-
 | 2025 | 2 | 3h 57m | [Vadakkan](../titles/vadakkan.md), [Kishkindhapuri](../titles/kishkindhapuri.md) |
 
 ---
