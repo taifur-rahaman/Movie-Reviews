@@ -26,10 +26,10 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Films Logged** | **18 Films** | *Stories Documented* |
-| **⏳ Hours Watched** | **35h 06m** | *Total Watch Time* |
+| **📜 Films Logged** | **19 Films** | *Stories Documented* |
+| **⏳ Hours Watched** | **37h 02m** | *Total Watch Time* |
 | **🎬 Films Completed** | **18 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
 ---
 
@@ -40,7 +40,7 @@
 
 | 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| *No active viewings.* | - | - | - | - | - |
+| [Demonte Colony](titles/demonte_colony.md) | 2015 | 1h 56m | Horror / Thriller | Home | 20th Feb 2026 |
 
 ---
 
@@ -133,6 +133,7 @@
 | [Annabelle: Creation](titles/annabelle_creation.md) | 2017 | ★★★⯪☆ | 1h 50m | Watched | Home |
 | [Aseq](titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Watched | Home |
 | [Bhaagamathie](titles/bhaagamathie.md) | 2018 | ★★☆☆☆ | 2h 15m | Watched | Home |
+| [Demonte Colony](titles/demonte_colony.md) | 2015 | TBD | 1h 56m | Watching | Home |
 | [Kishkindhapuri](titles/kishkindhapuri.md) | 2025 | ★★☆☆☆ | 2h 5m | Watched | Home |
 | [Pechi](titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
 | [The Conjuring](titles/the_conjuring.md) | 2013 | ★★★★☆ | 1h 52m | Watched | Home |

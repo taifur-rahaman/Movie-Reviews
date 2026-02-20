@@ -10,10 +10,10 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Movies Logged** | 18 |
+| **Total Movies Logged** | 19 |
 | **Movies Completed** | 18 |
-| **Currently Watching** | 0 |
-| **Total Watch Time** | 35h 06m |
+| **Currently Watching** | 1 |
+| **Total Watch Time** | 37h 02m |
 | **Average Movie Length** | 1h 57m |
 | **Most Watched Year** | 2023, 2025 (Tie) |
 | **Most Watched Genre** | Horror |
@@ -27,6 +27,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | 2009 | 1 | 2h 26m | [13B: Fear Has a New Address](../titles/13b.md) |
 | 2013 | 1 | 1h 52m | [The Conjuring](../titles/the_conjuring.md) |
 | 2014 | 2 | 3h 22m | [Annabelle](../titles/annabelle.md), [6-5=2](../titles/6_5_2.md) |
+| 2015 | 1 | 1h 56m | [Demonte Colony](../titles/demonte_colony.md) |
 | 2016 | 1 | 2h 14m | [The Conjuring 2](../titles/the_conjuring_2.md) |
 | 2017 | 2 | 4h 07m | [Annabelle: Creation](../titles/annabelle_creation.md), [The House Next Door](../titles/the_house_next_door.md) |
 | 2018 | 2 | 3h 51m | [The Nun](../titles/the_nun.md), [Bhaagamathie](../titles/bhaagamathie.md) |
@@ -48,7 +49,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
 | Romance | 0 | 0h 0m | N/A |
-| Horror | 18 | 35h 06m | ★★★☆☆ (avg) |
+| Horror | 19 | 37h 02m | ★★★☆☆ (avg) |
 | Mystery & Crime | 0 | 0h 0m | N/A |
 
 ---
@@ -59,7 +60,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Month** | **Movies Watched** | **Total Runtime** |
 |:---|:---:|:---:|
 | January 2026 | 6 | 11h 55m |
-| February 2026 | 12 | 23h 11m |
+| February 2026 | 13 | 25h 07m |
 
 ### 🗓️ Detailed Viewing Log (2026)
 
@@ -83,6 +84,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Feb 19** | [13B: Fear Has a New Address](../titles/13b.md) | ★★★⯪☆ | 2h 26m |
 | **Feb 19** | [Bhaagamathie](../titles/bhaagamathie.md) | ★★☆☆☆ | 2h 15m |
 | **Feb 20** | [6-5=2](../titles/6_5_2.md) | ★★★⯪☆ | 1h 43m |
+| **Feb 20** | [Demonte Colony](../titles/demonte_colony.md) | TBD | 1h 56m |
 
 ---
 
@@ -137,6 +139,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
+| [Demonte Colony](../titles/demonte_colony.md) | 2015 | TBD | 1h 56m | Watching | Home |
 | [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
 | [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Watched | Home |
 
