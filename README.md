@@ -26,9 +26,9 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Films Logged** | **8 Films** | *Stories Documented* |
-| **⏳ Hours Watched** | **17h 11m** | *Total Watch Time* |
-| **🎬 Films Completed** | **8 Films** | *Journeys Finished* |
+| **📜 Films Logged** | **9 Films** | *Stories Documented* |
+| **⏳ Hours Watched** | **18h 54m** | *Total Watch Time* |
+| **🎬 Films Completed** | **9 Films** | *Journeys Finished* |
 | **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
 
 ---
@@ -127,6 +127,7 @@
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [13B: Fear Has a New Address](titles/13b.md) | 2009 | ★★★⯪☆ | 2h 26m | Watched | Home |
+| [6-5=2](titles/6_5_2.md) | 2014 | ★★★⯪☆ | 1h 43m | Watched | Home |
 | [Aseq](titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Watched | Home |
 | [Bhaagamathie](titles/bhaagamathie.md) | 2018 | ★★☆☆☆ | 2h 15m | Watched | Home |
 | [Kishkindhapuri](titles/kishkindhapuri.md) | 2025 | ★★☆☆☆ | 2h 5m | Watched | Home |
@@ -151,6 +152,6 @@
 
 
 *The Cinematic Archives*  
-*Last Updated: 19th February 2026*
+*Last Updated: 20th February 2026*
 
 </div>

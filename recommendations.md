@@ -13,7 +13,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 
 #### Standalone Films
 *   ✓ **[13B: Fear Has a New Address](titles/13b.md)** (2009) - *Cult classic chills via TV set.* **WATCHED**
-*   **[6-5=2](https://www.imdb.com/title/tt2820666/)** (2013) - *Kannada supernatural mystery.*
+*   ✓ **[6-5=2](titles/6_5_2.md)** (2014) - *Hindi found footage horror.* **WATCHED**
 *   **[Asvins](https://www.imdb.com/title/tt27914099/)** (2023) - *Psychological horror with dual realities.*
 *   ✓ **[Aseq](titles/aseq.md)** (2023) - *Tamil Ashiq Jinn obsession horror.* **WATCHED**
 *   ✓ **[Bhaagamathie](titles/bhaagamathie.md)** (2018) - *Gripping revenge-horror.* **WATCHED**
@@ -152,13 +152,13 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 
 ### 2013
 *   **[The Conjuring](https://www.imdb.com/title/tt1457767/)** (English)
-*   **[6-5=2](https://www.imdb.com/title/tt2820666/)** (Kannada)
 *   **[Drishyam](https://www.imdb.com/title/tt3105742/)** (Malayalam)
 *   **[Go Goa Gone](https://www.imdb.com/title/tt2222197/)** (Hindi)
 *   **[Memories](https://www.imdb.com/title/tt2991052/)** (Malayalam)
 
 ### 2014
 *   **[Annabelle](https://www.imdb.com/title/tt3322940/)** (English)
+*   ✓ **[6-5=2](titles/6_5_2.md)** (Hindi) **WATCHED**
 
 ### 2015
 *   **[Demonte Colony](https://www.imdb.com/title/tt4429372/)** (Tamil)
@@ -250,6 +250,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 
 ### 🇮🇳 Bollywood (Hindi Cinema)
 *   ✓ **[13B](titles/13b.md)** (2009) - *Tech Horror* **WATCHED**
+*   ✓ **[6-5=2](titles/6_5_2.md)** (2014) - *Found Footage Horror* **WATCHED**
 *   **[Tumbbad](https://www.imdb.com/title/tt8239946/)** (2018) - *Atmospheric Masterpiece*
 *   **[Andhadhun](https://www.imdb.com/title/tt8108198/)** (2018) - *Thriller Masterpiece*
 *   **[Bulbbul](https://www.imdb.com/title/tt12451520/)** (2020) - *Gothic Folklore*
@@ -285,7 +286,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 
 ### 🇮🇳 Sandalwood (Kannada Cinema)
 *   **[Kantara](https://www.imdb.com/title/tt15327088/)** (2022) - *Folklore Action*
-*   **[6-5=2](https://www.imdb.com/title/tt2820666/)** (2013) - *Supernatural Mystery*
+
 
 ### 🇮🇳 Mollywood (Malayalam Cinema)
 *   **[Bramayugam](https://www.imdb.com/title/tt28659553/)** (2024) - *Folk Horror Masterpiece*
