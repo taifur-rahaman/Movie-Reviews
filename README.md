@@ -29,7 +29,7 @@
 | **📜 Films Logged** | **19 Films** | *Stories Documented* |
 | **⏳ Hours Watched** | **37h 02m** | *Total Watch Time* |
 | **🎬 Films Completed** | **19 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **2 Active** | *Stories Unfolding* |
 
 ---
 
@@ -40,6 +40,7 @@
 
 | 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
 |:---|:---:|:---:|:---:|:---:|:---:|
+| [Blue Streak](titles/blue_streak.md) | 1999 | 1h 33m | Action / Comedy | Home | 21st Feb 2026 |
 | [Demonte Colony 2](titles/demonte_colony_2.md) | 2024 | 2h 21m | Horror / Thriller | Home | 21st Feb 2026 |
 
 ---
