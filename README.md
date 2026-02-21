@@ -27,7 +27,7 @@
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
 | **📜 Films Logged** | **21 Films** | *Stories Documented* |
-| **⏳ Hours Watched** | **40h 56m** | *Total Watch Time* |
+| **⏳ Hours Watched** | **37h 02m** | *Total Watch Time* |
 | **🎬 Films Completed** | **19 Films** | *Journeys Finished* |
 | **📺 Currently Watching** | **2 Active** | *Stories Unfolding* |
 
@@ -55,7 +55,7 @@
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 
-| [Blue Streak](titles/blue_streak.md) | 1999 | TBD | 1h 33m | Watching | Home |
+*No films logged yet. Add your first action movie!*
 
 ---
 
@@ -79,7 +79,7 @@
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 
-| [Blue Streak](titles/blue_streak.md) | 1999 | TBD | 1h 33m | Watching | Home |
+*No films logged yet. Add your first comedy!*
 
 ---
 
@@ -135,7 +135,6 @@
 | [Aseq](titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Watched | Home |
 | [Bhaagamathie](titles/bhaagamathie.md) | 2018 | ★★☆☆☆ | 2h 15m | Watched | Home |
 | [Demonte Colony](titles/demonte_colony.md) | 2015 | ★★★★☆ | 1h 56m | Watched | Home |
-| [Demonte Colony 2](titles/demonte_colony_2.md) | 2024 | TBD | 2h 21m | Watching | Home |
 | [Kishkindhapuri](titles/kishkindhapuri.md) | 2025 | ★★☆☆☆ | 2h 5m | Watched | Home |
 | [Pechi](titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
 | [The Conjuring](titles/the_conjuring.md) | 2013 | ★★★★☆ | 1h 52m | Watched | Home |
