@@ -83,7 +83,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
    - [Chhorii 2](https://www.imdb.com/title/tt23049228/) (2025) - *Seven years later sequel*
 
 **🏚️ Demonte Colony Series** *(2 films, 2015-2024)*
-   - [Demonte Colony](https://www.imdb.com/title/tt4429372/) (2015) - *Tamil haunted house terror*
+   - ✓ [Demonte Colony](titles/demonte_colony.md) (2015) - *Tamil haunted house terror* **WATCHED**
    - [Demonte Colony 2](https://www.imdb.com/title/tt28538878/) (2024) - *Sequel & prequel*
 
 **😈 Satan's Slave Series** *(Indonesian horror, 2017-2022)*
@@ -161,7 +161,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   ✓ **[6-5=2](titles/6_5_2.md)** (Hindi) **WATCHED**
 
 ### 2015
-*   **[Demonte Colony](https://www.imdb.com/title/tt4429372/)** (Tamil)
+*   ✓ **[Demonte Colony](titles/demonte_colony.md)** (Tamil) **WATCHED**
 
 ### 2016
 *   **[The Wailing](https://www.imdb.com/title/tt5215952/)** (Korean)
@@ -276,7 +276,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   ✓ **[Pechi](titles/pechi.md)** (2024) - *Witch Folklore* **WATCHED**
 *   ✓ **[The House Next Door](titles/the_house_next_door.md)** (2017) - *Black Magic Curse* **WATCHED**
 *   **Demonte Colony Series:**
-    *   [Demonte Colony](https://www.imdb.com/title/tt4429372/) (2015) - *Haunted Horror*
+    *   ✓ [Demonte Colony](titles/demonte_colony.md) (2015) - *Haunted Horror* **WATCHED**
     *   [Demonte Colony 2](https://www.imdb.com/title/tt28538878/) (2024) - *Sequel/Prequel*
 
 ### 🇮🇳 Tollywood (Telugu Cinema)
