@@ -12,7 +12,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 |:---|:---:|
 | **Total Movies Logged** | 19 |
 | **Movies Completed** | 19 |
-| **Currently Watching** | 0 |
+| **Currently Watching** | 1 |
 | **Total Watch Time** | 37h 02m |
 | **Average Movie Length** | 1h 57m |
 | **Most Watched Year** | 2023, 2025 (Tie) |
@@ -85,6 +85,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Feb 19** | [Bhaagamathie](../titles/bhaagamathie.md) | ★★☆☆☆ | 2h 15m |
 | **Feb 20** | [6-5=2](../titles/6_5_2.md) | ★★★⯪☆ | 1h 43m |
 | **Feb 21** | [Demonte Colony](../titles/demonte_colony.md) | ★★★★☆ | 1h 56m |
+| **Feb 21** | [Demonte Colony 2](../titles/demonte_colony_2.md) | TBD | 2h 21m |
 
 ---
 

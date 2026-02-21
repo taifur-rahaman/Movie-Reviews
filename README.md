@@ -29,7 +29,7 @@
 | **📜 Films Logged** | **19 Films** | *Stories Documented* |
 | **⏳ Hours Watched** | **37h 02m** | *Total Watch Time* |
 | **🎬 Films Completed** | **19 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
 ---
 
@@ -40,7 +40,7 @@
 
 | 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| *No active viewings at the moment.* | - | - | - | - | - |
+| [Demonte Colony 2](titles/demonte_colony_2.md) | 2024 | 2h 21m | Horror / Thriller | Home | 21st Feb 2026 |
 
 ---
 

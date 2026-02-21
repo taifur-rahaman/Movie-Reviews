@@ -84,7 +84,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 
 **🏚️ Demonte Colony Series** *(2 films, 2015-2024)*
    - ✓ [Demonte Colony](titles/demonte_colony.md) (2015) - *Tamil haunted house terror* **WATCHED**
-   - [Demonte Colony 2](https://www.imdb.com/title/tt28538878/) (2024) - *Sequel & prequel*
+   - [Demonte Colony 2](titles/demonte_colony_2.md) (2024) - *Sequel & prequel* **WATCHING**
 
 **😈 Satan's Slave Series** *(Indonesian horror, 2017-2022)*
    - [Satan's Slave](https://www.imdb.com/title/tt6204906/) (2017) - *Modern classic*
@@ -228,7 +228,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 ### 2024
 *   **[Stree 2](https://www.imdb.com/title/tt27512982/)** (Hindi)
 *   **[Bramayugam](https://www.imdb.com/title/tt28659553/)** (Malayalam)
-*   **[Demonte Colony 2](https://www.imdb.com/title/tt28538878/)** (Tamil)
+*   **[Demonte Colony 2](titles/demonte_colony_2.md)** (Tamil)
 *   **[Exhuma](https://www.imdb.com/title/tt27503758/)** (Korean)
 *   **[Lembayung](https://www.imdb.com/title/tt29362934/)** (Indonesian)
 *   **[Maharaja](https://www.imdb.com/title/tt26540248/)** (Tamil)
@@ -277,7 +277,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   ✓ **[The House Next Door](titles/the_house_next_door.md)** (2017) - *Black Magic Curse* **WATCHED**
 *   **Demonte Colony Series:**
     *   ✓ [Demonte Colony](titles/demonte_colony.md) (2015) - *Haunted Horror* **WATCHED**
-    *   [Demonte Colony 2](https://www.imdb.com/title/tt28538878/) (2024) - *Sequel/Prequel*
+    *   [Demonte Colony 2](titles/demonte_colony_2.md) (2024) - *Sequel/Prequel* **WATCHING**
 
 ### 🇮🇳 Tollywood (Telugu Cinema)
 *   ✓ **[Bhaagamathie](titles/bhaagamathie.md)** (2018) - *Supernatural Thriller* **WATCHED**
