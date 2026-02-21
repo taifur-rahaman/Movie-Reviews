@@ -11,10 +11,10 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Movies Logged** | 21 |
-| **Movies Completed** | 19 |
-| **Currently Watching** | 2 |
-| **Total Watch Time** | 37h 02m |
-| **Average Movie Length** | 1h 57m |
+| **Movies Completed** | 20 |
+| **Currently Watching** | 1 |
+| **Total Watch Time** | 38h 35m |
+| **Average Movie Length** | 1h 56m |
 | **Most Watched Year** | 2023, 2025 (Tie) |
 | **Most Watched Genre** | Horror |
 
@@ -24,6 +24,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Year** | **Movies Watched** | **Total Runtime** | **Films** |
 |:---:|:---:|:---:|:---|
+| 1999 | 1 | 1h 33m | [Blue Streak](../titles/blue_streak.md) |
 | 2009 | 1 | 2h 26m | [13B: Fear Has a New Address](../titles/13b.md) |
 | 2013 | 1 | 1h 52m | [The Conjuring](../titles/the_conjuring.md) |
 | 2014 | 2 | 3h 22m | [Annabelle](../titles/annabelle.md), [6-5=2](../titles/6_5_2.md) |
@@ -43,7 +44,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Genre** | **Movies Watched** | **Total Runtime** | **Average Rating** |
 |:---|:---:|:---:|:---:|
-| Action & Adventure | 0 | 0h 0m | N/A |
+| Action & Adventure | 1 | 1h 33m | ★★⯪☆☆ |
 | Drama | 0 | 0h 0m | N/A |
 | Comedy | 0 | 0h 0m | N/A |
 | Thriller & Suspense | 0 | 0h 0m | N/A |
@@ -85,7 +86,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Feb 19** | [Bhaagamathie](../titles/bhaagamathie.md) | ★★☆☆☆ | 2h 15m |
 | **Feb 20** | [6-5=2](../titles/6_5_2.md) | ★★★⯪☆ | 1h 43m |
 | **Feb 21** | [Demonte Colony](../titles/demonte_colony.md) | ★★★★☆ | 1h 56m |
-| **Feb 21** | [Blue Streak](../titles/blue_streak.md) | TBD | 1h 33m |
+| **Feb 21** | [Blue Streak](../titles/blue_streak.md) | ★★⯪☆☆ | 1h 33m |
 | **Feb 21** | [Demonte Colony 2](../titles/demonte_colony_2.md) | TBD | 2h 21m |
 
 ---
@@ -118,6 +119,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | [Annabelle](../titles/annabelle.md) | 2014 | ★★⯪☆☆ | 1h 39m | Watched | Home |
 | [Annabelle Comes Home](../titles/annabelle_comes_home.md) | 2019 | ★★★☆☆ | 1h 46m | Watched | Home |
 | [Annabelle: Creation](../titles/annabelle_creation.md) | 2017 | ★★★⯪☆ | 1h 50m | Watched | Home |
+| [Blue Streak](../titles/blue_streak.md) | 1999 | ★★⯪☆☆ | 1h 33m | Watched | Home |
 | [The Conjuring](../titles/the_conjuring.md) | 2013 | ★★★★☆ | 1h 52m | Watched | Home |
 | [The Conjuring 2](../titles/the_conjuring_2.md) | 2016 | ★★★★☆ | 2h 14m | Watched | Home |
 | [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) | 2021 | ★★★☆☆ | 1h 52m | Watched | Home |

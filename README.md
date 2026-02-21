@@ -27,9 +27,9 @@
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
 | **📜 Films Logged** | **21 Films** | *Stories Documented* |
-| **⏳ Hours Watched** | **37h 02m** | *Total Watch Time* |
-| **🎬 Films Completed** | **19 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **2 Active** | *Stories Unfolding* |
+| **⏳ Hours Watched** | **38h 35m** | *Total Watch Time* |
+| **🎬 Films Completed** | **20 Films** | *Journeys Finished* |
+| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
 ---
 
@@ -40,7 +40,6 @@
 
 | 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Blue Streak](titles/blue_streak.md) | 1999 | 1h 33m | Action / Comedy | Home | 21st Feb 2026 |
 | [Demonte Colony 2](titles/demonte_colony_2.md) | 2024 | 2h 21m | Horror / Thriller | Home | 21st Feb 2026 |
 
 ---
@@ -55,7 +54,7 @@
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 
-*No films logged yet. Add your first action movie!*
+| [Blue Streak](titles/blue_streak.md) | 1999 | ★★⯪☆☆ | 1h 33m | Watched | Home |
 
 ---
 
@@ -79,7 +78,7 @@
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 
-*No films logged yet. Add your first comedy!*
+| [Blue Streak](titles/blue_streak.md) | 1999 | ★★⯪☆☆ | 1h 33m | Watched | Home |
 
 ---
 

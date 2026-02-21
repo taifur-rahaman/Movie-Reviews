@@ -8,11 +8,11 @@
 | Release Date       | 17th September 1999         |
 | Director           | Les Mayfield                |
 | Genre              | Action / Comedy             |
-| Status             | Watching                    |
+| Status             | Watched                     |
 | Watch Start Date   | 21st February 2026          |
-| Watch End Date     | TBD                         |
+| Watch End Date     | 21st February 2026          |
 | Runtime            | 1h 33m                      |
-| Rating             | TBD                         |
+| Rating             | ★★⯪☆☆ (5.5/10)             |
 | Platform           | Home                        |
 | Language           | English                     |
 | Country            | USA                         |
@@ -26,21 +26,21 @@ After serving two years in prison, a jewel thief poses as a detective to retriev
 
 ## Story & Atmosphere
 
-[Detailed thoughts on the plot, pacing, comedic timing, action sequences, and overall tone]
+At its core, *Blue Streak* is your standard, paint-by-numbers late-90s action comedy. The plot essentially revolves around Martin Lawrence constantly almost blowing his cover while accidentally doing good police work along the way to finding his stolen diamond. The pacing is quick enough that you don't really have time to think too hard about how absurd the whole setup is. It doesn't take itself seriously at all, opting for a light, breezy atmosphere filled with goofy misunderstandings and classic physical comedy. 
 
 ## Performances & Direction
 
-[Analysis of Martin Lawrence's performance, the supporting cast, and Les Mayfield's direction]
+This is really just "The Martin Lawrence Show." He completely carries the film with his frantic energy and charismatic delivery. His physical comedy and ability to switch between being a "hardened criminal" and a "rookie cop" are the biggest highlights. Luke Wilson provides a decent foil as the straight-laced, naive Detective Carlson, though his character is pretty one-dimensional. Dave Chappelle also pops up in a glorious, unhinged cameo that steals the very few scenes he’s in. Director Les Mayfield keeps things moving quickly, staging decent-enough action sequences that service the jokes rather than trying to be legitimately thrilling. 
 
 ## Themes & Impact
 
-[Discussion of any underlying themes, buddy cop dynamics, and its place in 90s action-comedy cinema]
+There aren't really any deep themes here outside of standard buddy-cop tropes—the criminal who acts like a better cop than the actual cops, and the straight man learning to loosen up. It sits comfortably alongside other 90s action-comedies like *Rush Hour* or *Bad Boys*, though it definitely lacks the iconic, lasting cultural footprint of those titans. It's Friday night popcorn entertainment at its purest.
 
 ## Verdict
 
-**Rating: TBD**
+**Rating: 5.5/10**
 
-[Final thoughts and overall assessment]
+*Blue Streak* is a perfectly watchable, moderately funny slice of 90s nostalgia. It doesn’t reinvent the wheel, and the actual "action" part of the action-comedy formula is a bit underwhelming. However, Martin Lawrence is undeniably fun to watch here, and the breezy runtime ensures it never overstays its welcome. It's a completely middle-of-the-road comedy that you'll laugh at once and probably forget about by the next morning. 
 
 ---
 
@@ -48,14 +48,14 @@ After serving two years in prison, a jewel thief poses as a detective to retriev
 
 | Category | Score | Notes |
 |---|---|---|
-| **Cinematography** | **TBD** | [Brief note on visual quality and action shots] |
-| **Plot** | **TBD** | [Brief note on the comedic premise and execution] |
-| **Story** | **TBD** | [Brief note on narrative flow and character arcs] |
-| **Character Development** | **TBD** | [Brief note on characters and performances] |
-| **Action/Comedy** | **TBD** | [Effectiveness of the humor and action scenes] |
-| **Enjoyment** | **TBD** | [Overall entertainment value] |
-| **Overall** | **TBD** | **[Classification]** ([brief summary]) |
-| **Pace** | **[Descriptor]** | [Brief note on pacing] |
+| **Cinematography** | **5.0/10** | Very standard, flat 90s studio comedy lighting and framing. |
+| **Plot** | **6.0/10** | A fun, ridiculous setup that leads to some good situational comedy. |
+| **Story** | **5.0/10** | Very predictable; you know exactly how it's going to end from the 15-minute mark. |
+| **Character Development** | **5.0/10** | Basically zero, but you don't really watch this for character arcs. |
+| **Action/Comedy** | **6.5/10** | Lawrence's physical comedy hits the mark, even if the action scenes are forgettable. |
+| **Enjoyment** | **6.0/10** | A breezy, easy watch that asks nothing of you. |
+| **Overall** | **5.5/10** | **Average** (A serviceable, mildly entertaining star-vehicle.) |
+| **Pace** | **Brisk** | It moves fast and wraps up before the joke gets too stale. |
 
 ---
 
@@ -64,18 +64,20 @@ After serving two years in prison, a jewel thief poses as a detective to retriev
 *(Raw thoughts, memorable quotes, scenes that stood out, or any additional context)*
 
 - Started watching: 21st February 2026
+- Finished watching: 21st February 2026
 
 ### Memorable Moments
 
-- TBD
+- Dave Chappelle’s hyperactive, paranoid cameos as Tulour.
+- The sheer confidence Miles has when bluffing his way through intense police standoffs by just acting "crazy."
 
 ---
 
 ## Rewatch Value
 
-**Would I watch again?** TBD
+**Would I watch again?** Probably not intentionally, but if it came on TV I wouldn't instantly change the channel.
 
-**Best watched:** [Recommended viewing context]
+**Best watched:** On a lazy Sunday afternoon when you want something completely mindless.
 
 **Similar films:** 
 - **Rush Hour** (1998)
