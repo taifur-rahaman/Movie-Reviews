@@ -95,13 +95,13 @@ This document tracks the temporal distribution of movies watched, organized by y
 | 1 | [The Conjuring](../titles/the_conjuring.md) | 2013 | ★★★★☆ (8.5) | Horror |
 | 2 | [Demonte Colony](../titles/demonte_colony.md) | 2015 | ★★★★☆ (8.3) | Horror |
 | 3 | [The Conjuring 2](../titles/the_conjuring_2.md) | 2016 | ★★★★☆ (8.0) | Horror |
-| 4 | [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ | Horror |
-| 5 | [Annabelle: Creation](../titles/annabelle_creation.md) | 2017 | ★★★⯪☆ (7.5) | Horror |
-| 6 | [13B: Fear Has a New Address](../titles/13b.md) | 2009 | ★★★⯪☆ | Horror |
-| 7 | [6-5=2](../titles/6_5_2.md) | 2014 | ★★★⯪☆ | Horror |
-| 8 | [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ | Horror |
+| 4 | [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ (8.0) | Horror |
+| 5 | [13B: Fear Has a New Address](../titles/13b.md) | 2009 | ★★★⯪☆ (7.5) | Horror |
+| 6 | [Annabelle: Creation](../titles/annabelle_creation.md) | 2017 | ★★★⯪☆ (7.5) | Horror |
+| 7 | [6-5=2](../titles/6_5_2.md) | 2014 | ★★★⯪☆ (7.0) | Horror |
+| 8 | [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ (7.0) | Horror |
 | 9 | [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) | 2021 | ★★★☆☆ (6.5) | Horror |
-| 10 | [The Nun 2](../titles/the_nun_2.md) | 2023 | ★★★☆☆ (6.0) | Horror |
+| 10 | [Annabelle Comes Home](../titles/annabelle_comes_home.md) | 2019 | ★★★☆☆ (6.0) | Horror |
 
 ---
 
