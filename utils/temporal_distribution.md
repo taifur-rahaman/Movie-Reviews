@@ -10,11 +10,11 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Movies Logged** | 19 |
+| **Total Movies Logged** | 21 |
 | **Movies Completed** | 19 |
 | **Currently Watching** | 2 |
-| **Total Watch Time** | 37h 02m |
-| **Average Movie Length** | 1h 57m |
+| **Total Watch Time** | 40h 56m |
+| **Average Movie Length** | 1h 56m |
 | **Most Watched Year** | 2023, 2025 (Tie) |
 | **Most Watched Genre** | Horror |
 
@@ -24,6 +24,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Year** | **Movies Watched** | **Total Runtime** | **Films** |
 |:---:|:---:|:---:|:---|
+| 1999 | 1 | 1h 33m | [Blue Streak](../titles/blue_streak.md) |
 | 2009 | 1 | 2h 26m | [13B: Fear Has a New Address](../titles/13b.md) |
 | 2013 | 1 | 1h 52m | [The Conjuring](../titles/the_conjuring.md) |
 | 2014 | 2 | 3h 22m | [Annabelle](../titles/annabelle.md), [6-5=2](../titles/6_5_2.md) |
@@ -34,7 +35,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | 2019 | 2 | 3h 19m | [Annabelle Comes Home](../titles/annabelle_comes_home.md), [The Curse of La Llorona](../titles/the_curse_of_la_llorona.md) |
 | 2021 | 1 | 1h 52m | [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) |
 | 2023 | 3 | 6h 03m | [The Nun 2](../titles/the_nun_2.md), [Aseq](../titles/aseq.md), [Virupaksha](../titles/virupaksha.md) |
-| 2024 | 1 | 2h 03m | [Pechi](../titles/pechi.md) |
+| 2024 | 2 | 4h 24m | [Pechi](../titles/pechi.md), [Demonte Colony 2](../titles/demonte_colony_2.md) |
 | 2025 | 2 | 3h 57m | [Vadakkan](../titles/vadakkan.md), [Kishkindhapuri](../titles/kishkindhapuri.md) |
 
 ---
@@ -43,13 +44,13 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Genre** | **Movies Watched** | **Total Runtime** | **Average Rating** |
 |:---|:---:|:---:|:---:|
-| Action & Adventure | 0 | 0h 0m | N/A |
+| Action & Adventure | 1 | 1h 33m | TBD |
 | Drama | 0 | 0h 0m | N/A |
 | Comedy | 0 | 0h 0m | N/A |
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
 | Romance | 0 | 0h 0m | N/A |
-| Horror | 19 | 37h 02m | ★★★☆☆ (avg) |
+| Horror | 20 | 39h 23m | ★★★☆☆ (avg) |
 | Mystery & Crime | 0 | 0h 0m | N/A |
 
 ---
@@ -118,6 +119,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | [Annabelle](../titles/annabelle.md) | 2014 | ★★⯪☆☆ | 1h 39m | Watched | Home |
 | [Annabelle Comes Home](../titles/annabelle_comes_home.md) | 2019 | ★★★☆☆ | 1h 46m | Watched | Home |
 | [Annabelle: Creation](../titles/annabelle_creation.md) | 2017 | ★★★⯪☆ | 1h 50m | Watched | Home |
+| [Blue Streak](../titles/blue_streak.md) | 1999 | TBD | 1h 33m | Watching | Home |
 | [The Conjuring](../titles/the_conjuring.md) | 2013 | ★★★★☆ | 1h 52m | Watched | Home |
 | [The Conjuring 2](../titles/the_conjuring_2.md) | 2016 | ★★★★☆ | 2h 14m | Watched | Home |
 | [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) | 2021 | ★★★☆☆ | 1h 52m | Watched | Home |
@@ -142,6 +144,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Demonte Colony](../titles/demonte_colony.md) | 2015 | ★★★★☆ | 1h 56m | Watched | Home |
+| [Demonte Colony 2](../titles/demonte_colony_2.md) | 2024 | TBD | 2h 21m | Watching | Home |
 | [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
 | [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Watched | Home |
 
