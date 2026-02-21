@@ -115,6 +115,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **Stree Series** - *See Horror & Supernatural section for full series*
 *   **[Romancham](https://www.imdb.com/title/tt22339384/)** (2023) - *Laugh-out-loud horror comedy.*
 *   **[Go Goa Gone](https://www.imdb.com/title/tt2222197/)** (2013) - *Zombie comedy cult classic.*
+*   ✓ **[Blue Streak](titles/blue_streak.md)** (1999) - *Action-comedy buddy cop classic.* **WATCHED**
 
 ---
 
@@ -124,6 +125,9 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 
 ### 1998
 *   **[Ring (Ringu)](https://www.imdb.com/title/tt0178868/)** (Japanese)
+
+### 1999
+*   ✓ **[Blue Streak](titles/blue_streak.md)** (English) **WATCHED**
 
 ### 2001
 *   **[Kairo (Pulse)](https://www.imdb.com/title/tt0286751/)** (Japanese)
@@ -228,7 +232,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 ### 2024
 *   **[Stree 2](https://www.imdb.com/title/tt27512982/)** (Hindi)
 *   **[Bramayugam](https://www.imdb.com/title/tt28659553/)** (Malayalam)
-*   **[Demonte Colony 2](titles/demonte_colony_2.md)** (Tamil)
+*   **[Demonte Colony 2](titles/demonte_colony_2.md)** (Tamil) **WATCHING**
 *   **[Exhuma](https://www.imdb.com/title/tt27503758/)** (Korean)
 *   **[Lembayung](https://www.imdb.com/title/tt29362934/)** (Indonesian)
 *   **[Maharaja](https://www.imdb.com/title/tt26540248/)** (Tamil)
@@ -347,6 +351,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Hereditary](https://www.imdb.com/title/tt7784604/)** (2018) - *Trauma Horror*
 *   **[Late Night with the Devil](https://www.imdb.com/title/tt14966898/)** (2023) - *Possession*
 *   **[Smile](https://www.imdb.com/title/tt15474916/)** (2022) - *Psychological*
+*   ✓ **[Blue Streak](titles/blue_streak.md)** (1999) - *Action Comedy* **WATCHED**
 
 **Conjuring Universe** *(Complete 9-film series)*
    - ✓ [The Conjuring](titles/the_conjuring.md) (2013) **WATCHED**
