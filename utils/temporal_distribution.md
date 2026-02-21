@@ -46,7 +46,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 |:---|:---:|:---:|:---:|
 | Action & Adventure | 1 | 1h 33m | ★★⯪☆☆ |
 | Drama | 0 | 0h 0m | N/A |
-| Comedy | 0 | 0h 0m | N/A |
+| Comedy | 1 | 1h 33m | ★★⯪☆☆ |
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
 | Romance | 0 | 0h 0m | N/A |
