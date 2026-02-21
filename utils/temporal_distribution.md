@@ -61,7 +61,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Month** | **Movies Watched** | **Total Runtime** |
 |:---|:---:|:---:|
 | January 2026 | 6 | 11h 55m |
-| February 2026 | 13 | 25h 07m |
+| February 2026 | 14 | 26h 40m |
 
 ### 🗓️ Detailed Viewing Log (2026)
 

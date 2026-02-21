@@ -53,7 +53,6 @@
 
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-
 | [Blue Streak](titles/blue_streak.md) | 1999 | ★★⯪☆☆ | 1h 33m | Watched | Home |
 
 ---
