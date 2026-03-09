@@ -26,9 +26,9 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Films Logged** | **21 Films** | *Stories Documented* |
-| **⏳ Hours Watched** | **38h 35m** | *Total Watch Time* |
-| **🎬 Films Completed** | **20 Films** | *Journeys Finished* |
+| **📜 Films Logged** | **22 Films** | *Stories Documented* |
+| **⏳ Hours Watched** | **40h 18m** | *Total Watch Time* |
+| **🎬 Films Completed** | **21 Films** | *Journeys Finished* |
 | **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
 ---
@@ -64,8 +64,7 @@
 
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-
-*No films logged yet. Add your first drama!*
+| [The Perks of Being a Wallflower](titles/the_perks_of_being_a_wallflower.md) | 2012 | ★★★⯪☆ | 1h 43m | Watched | Home |
 
 ---
 
@@ -161,6 +160,6 @@
 
 
 *The Cinematic Archives*  
-*Last Updated: 20th February 2026*
+*Last Updated: 9th March 2026*
 
 </div>

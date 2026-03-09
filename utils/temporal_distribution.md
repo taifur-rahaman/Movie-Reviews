@@ -1,6 +1,6 @@
 # Temporal Distribution - Movies
 
-> **Last Updated:** 20th February 2026
+> **Last Updated:** 9th March 2026
 
 This document tracks the temporal distribution of movies watched, organized by year of release and viewing time.
 
@@ -10,11 +10,11 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Movies Logged** | 21 |
-| **Movies Completed** | 20 |
+| **Total Movies Logged** | 22 |
+| **Movies Completed** | 21 |
 | **Currently Watching** | 1 |
-| **Total Watch Time** | 38h 35m |
-| **Average Movie Length** | 1h 56m |
+| **Total Watch Time** | 40h 18m |
+| **Average Movie Length** | 1h 50m |
 | **Most Watched Year** | 2023, 2025 (Tie) |
 | **Most Watched Genre** | Horror |
 
@@ -26,6 +26,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 |:---:|:---:|:---:|:---|
 | 1999 | 1 | 1h 33m | [Blue Streak](../titles/blue_streak.md) |
 | 2009 | 1 | 2h 26m | [13B: Fear Has a New Address](../titles/13b.md) |
+| 2012 | 1 | 1h 43m | [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) |
 | 2013 | 1 | 1h 52m | [The Conjuring](../titles/the_conjuring.md) |
 | 2014 | 2 | 3h 22m | [Annabelle](../titles/annabelle.md), [6-5=2](../titles/6_5_2.md) |
 | 2015 | 1 | 1h 56m | [Demonte Colony](../titles/demonte_colony.md) |
@@ -45,7 +46,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Genre** | **Movies Watched** | **Total Runtime** | **Average Rating** |
 |:---|:---:|:---:|:---:|
 | Action & Adventure | 1 | 1h 33m | ★★⯪☆☆ |
-| Drama | 0 | 0h 0m | N/A |
+| Drama | 1 | 1h 43m | ★★★⯪☆ |
 | Comedy | 1 | 1h 33m | ★★⯪☆☆ |
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
@@ -62,6 +63,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 |:---|:---:|:---:|
 | January 2026 | 6 | 11h 55m |
 | February 2026 | 14 | 26h 40m |
+| March 2026 | 1 | 1h 43m |
 
 ### 🗓️ Detailed Viewing Log (2026)
 
@@ -88,6 +90,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Feb 21** | [Demonte Colony](../titles/demonte_colony.md) | ★★★★☆ | 1h 56m |
 | **Feb 21** | [Blue Streak](../titles/blue_streak.md) | ★★⯪☆☆ | 1h 33m |
 | **Feb 21** | [Demonte Colony 2](../titles/demonte_colony_2.md) | TBD | 2h 21m |
+| **Mar 09** | [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | ★★★⯪☆ | 1h 43m |
 
 ---
 
@@ -101,10 +104,10 @@ This document tracks the temporal distribution of movies watched, organized by y
 | 4 | [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ (8.0) | Horror |
 | 5 | [13B: Fear Has a New Address](../titles/13b.md) | 2009 | ★★★⯪☆ (7.5) | Horror |
 | 6 | [Annabelle: Creation](../titles/annabelle_creation.md) | 2017 | ★★★⯪☆ (7.5) | Horror |
-| 7 | [6-5=2](../titles/6_5_2.md) | 2014 | ★★★⯪☆ (7.0) | Horror |
-| 8 | [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ (7.0) | Horror |
-| 9 | [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) | 2021 | ★★★☆☆ (6.5) | Horror |
-| 10 | [Annabelle Comes Home](../titles/annabelle_comes_home.md) | 2019 | ★★★☆☆ (6.0) | Horror |
+| 7 | [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | 2012 | ★★★⯪☆ (7.2) | Drama |
+| 8 | [6-5=2](../titles/6_5_2.md) | 2014 | ★★★⯪☆ (7.0) | Horror |
+| 9 | [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ (7.0) | Horror |
+| 10 | [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) | 2021 | ★★★☆☆ (6.5) | Horror |
 
 ---
 
@@ -126,6 +129,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | [The Curse of La Llorona](../titles/the_curse_of_la_llorona.md) | 2019 | ★★☆☆☆ | 1h 33m | Watched | Home |
 | [The Nun](../titles/the_nun.md) | 2018 | ★★⯪☆☆ | 1h 36m | Watched | Home |
 | [The Nun 2](../titles/the_nun_2.md) | 2023 | ★★★☆☆ | 1h 50m | Watched | Home |
+| [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | 2012 | ★★★⯪☆ | 1h 43m | Watched | Home |
 
 ### 🇮🇳 India
 

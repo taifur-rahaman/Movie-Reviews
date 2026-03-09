@@ -9,7 +9,8 @@
 | Director           | [Director Name]             |
 | Genre              | [Genre]                     |
 | Status             | [Watching/Watched]          |
-| Watch Date         | [Date]                      |
+| Watch Start Date   | [Date]                      |
+| Watch End Date     | [Date]                      |
 | Runtime            | [Runtime]                   |
 | Rating             | [★ Rating]                  |
 | Platform           | [Platform]                  |

@@ -117,6 +117,11 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Go Goa Gone](https://www.imdb.com/title/tt2222197/)** (2013) - *Zombie comedy cult classic.*
 *   ✓ **[Blue Streak](titles/blue_streak.md)** (1999) - *Action-comedy buddy cop classic.* **WATCHED**
 
+### 🎭 Drama
+*Powerful stories that move the soul.*
+
+*   ✓ **[The Perks of Being a Wallflower](titles/the_perks_of_being_a_wallflower.md)** (2012) - *Coming-of-age classic.* **WATCHED**
+
 ---
 
 ## 📅 By Year
@@ -152,6 +157,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[I Saw the Devil](https://www.imdb.com/title/tt1588170/)** (Korean)
 
 ### 2012
+*   ✓ **[The Perks of Being a Wallflower](titles/the_perks_of_being_a_wallflower.md)** (English) **WATCHED**
 *   **[Pizza](https://www.imdb.com/title/tt2347569/)** (Tamil)
 
 ### 2013
@@ -351,6 +357,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Hereditary](https://www.imdb.com/title/tt7784604/)** (2018) - *Trauma Horror*
 *   **[Late Night with the Devil](https://www.imdb.com/title/tt14966898/)** (2023) - *Possession*
 *   **[Smile](https://www.imdb.com/title/tt15474916/)** (2022) - *Psychological*
+*   ✓ **[The Perks of Being a Wallflower](titles/the_perks_of_being_a_wallflower.md)** (2012) - *Coming-of-age classic.* **WATCHED**
 *   ✓ **[Blue Streak](titles/blue_streak.md)** (1999) - *Action Comedy* **WATCHED**
 
 **Conjuring Universe** *(Complete 9-film series)*
