@@ -117,55 +117,55 @@ This document tracks the temporal distribution of movies watched, organized by y
 #### 🎬 Hollywood
 *American Cinema*
 
-| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| [Annabelle](../titles/annabelle.md) | 2014 | ★★⯪☆☆ | 1h 39m | Watched | Home |
-| [Annabelle Comes Home](../titles/annabelle_comes_home.md) | 2019 | ★★★☆☆ | 1h 46m | Watched | Home |
-| [Annabelle: Creation](../titles/annabelle_creation.md) | 2017 | ★★★⯪☆ | 1h 50m | Watched | Home |
-| [Blue Streak](../titles/blue_streak.md) | 1999 | ★★⯪☆☆ | 1h 33m | Watched | Home |
-| [The Conjuring](../titles/the_conjuring.md) | 2013 | ★★★★☆ | 1h 52m | Watched | Home |
-| [The Conjuring 2](../titles/the_conjuring_2.md) | 2016 | ★★★★☆ | 2h 14m | Watched | Home |
-| [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) | 2021 | ★★★☆☆ | 1h 52m | Watched | Home |
-| [The Curse of La Llorona](../titles/the_curse_of_la_llorona.md) | 2019 | ★★☆☆☆ | 1h 33m | Watched | Home |
-| [The Nun](../titles/the_nun.md) | 2018 | ★★⯪☆☆ | 1h 36m | Watched | Home |
-| [The Nun 2](../titles/the_nun_2.md) | 2023 | ★★★☆☆ | 1h 50m | Watched | Home |
-| [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | 2012 | ★★★⯪☆ | 1h 43m | Watched | Home |
+| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🎭 **Genre** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Annabelle](../titles/annabelle.md) | 2014 | ★★⯪☆☆ | 1h 39m | Horror | Watched | Home |
+| [Annabelle Comes Home](../titles/annabelle_comes_home.md) | 2019 | ★★★☆☆ | 1h 46m | Horror | Watched | Home |
+| [Annabelle: Creation](../titles/annabelle_creation.md) | 2017 | ★★★⯪☆ | 1h 50m | Horror | Watched | Home |
+| [Blue Streak](../titles/blue_streak.md) | 1999 | ★★⯪☆☆ | 1h 33m | Action / Comedy | Watched | Home |
+| [The Conjuring](../titles/the_conjuring.md) | 2013 | ★★★★☆ | 1h 52m | Horror | Watched | Home |
+| [The Conjuring 2](../titles/the_conjuring_2.md) | 2016 | ★★★★☆ | 2h 14m | Horror | Watched | Home |
+| [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) | 2021 | ★★★☆☆ | 1h 52m | Horror | Watched | Home |
+| [The Curse of La Llorona](../titles/the_curse_of_la_llorona.md) | 2019 | ★★☆☆☆ | 1h 33m | Horror | Watched | Home |
+| [The Nun](../titles/the_nun.md) | 2018 | ★★⯪☆☆ | 1h 36m | Horror | Watched | Home |
+| [The Nun 2](../titles/the_nun_2.md) | 2023 | ★★★☆☆ | 1h 50m | Horror | Watched | Home |
+| [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | 2012 | ★★★⯪☆ | 1h 43m | Drama | Watched | Home |
 
 ### 🇮🇳 India
 
 #### 🎬 Bollywood
 *Hindi Cinema*
 
-| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| [13B: Fear Has a New Address](../titles/13b.md) | 2009 | ★★★⯪☆ | 2h 26m | Watched | Home |
-| [6-5=2](../titles/6_5_2.md) | 2014 | ★★★⯪☆ | 1h 43m | Watched | Home |
-| [Aseq](../titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Watched | Home |
+| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🎭 **Genre** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [13B: Fear Has a New Address](../titles/13b.md) | 2009 | ★★★⯪☆ | 2h 26m | Horror | Watched | Home |
+| [6-5=2](../titles/6_5_2.md) | 2014 | ★★★⯪☆ | 1h 43m | Horror | Watched | Home |
+| [Aseq](../titles/aseq.md) | 2023 | ★⯪☆☆☆ | 1h 47m | Horror | Watched | Home |
 
 #### 🎬 Kollywood
 *Tamil Cinema*
 
-| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| [Demonte Colony](../titles/demonte_colony.md) | 2015 | ★★★★☆ | 1h 56m | Watched | Home |
-| [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
-| [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Watched | Home |
+| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🎭 **Genre** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Demonte Colony](../titles/demonte_colony.md) | 2015 | ★★★★☆ | 1h 56m | Horror / Thriller | Watched | Home |
+| [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Horror | Watched | Home |
+| [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Horror / Thriller | Watched | Home |
 
 #### 🎬 Mollywood
 *Malayalam Cinema*
 
-| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| [Vadakkan](../titles/vadakkan.md) | 2025 | ★★⯪☆☆ | 1h 52m | Watched | Home |
+| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🎭 **Genre** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Vadakkan](../titles/vadakkan.md) | 2025 | ★★⯪☆☆ | 1h 52m | Horror / Thriller | Watched | Home |
 
 #### 🎬 Tollywood
 *Telugu Cinema*
 
-| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| [Bhaagamathie](../titles/bhaagamathie.md) | 2018 | ★★☆☆☆ | 2h 15m | Watched | Home |
-| [Kishkindhapuri](../titles/kishkindhapuri.md) | 2025 | ★★☆☆☆ | 2h 5m | Watched | Home |
-| [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ | 2h 26m | Watched | Home |
+| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🎭 **Genre** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Bhaagamathie](../titles/bhaagamathie.md) | 2018 | ★★☆☆☆ | 2h 15m | Horror / Thriller | Watched | Home |
+| [Kishkindhapuri](../titles/kishkindhapuri.md) | 2025 | ★★☆☆☆ | 2h 5m | Horror / Thriller | Watched | Home |
+| [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ | 2h 26m | Horror / Thriller | Watched | Home |
 
 ---
 
