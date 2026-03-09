@@ -1,6 +1,6 @@
 # The Perks of Being a Wallflower
 
-![Movie Cover](../utils/covers/the_perks_of_being_a_wallflower.jpg)
+![Movie Cover](../utils/covers/the_perks_of_being_a_wallflower.png)
 
 
 | |                             |
