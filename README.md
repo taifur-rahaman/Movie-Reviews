@@ -16,6 +16,7 @@
 | └─ [😂 Comedy](#-comedy) | Laughter and lighthearted fun |
 | └─ [🔪 Thriller & Suspense](#-thriller--suspense) | Edge-of-your-seat tension |
 | └─ [🌌 Sci-Fi & Fantasy](#-sci-fi--fantasy) | Otherworldly adventures |
+| └─ [🎨 Animation](#-animation) | Animated tales and vibrant worlds |
 | └─ [❤️ Romance](#️-romance) | Love stories that touch the heart |
 | └─ [👻 Horror](#-horror) | Chills and supernatural scares |
 | └─ [🕵️ Mystery & Crime](#️-mystery--crime) | Whodunits and criminal masterminds |
@@ -26,9 +27,9 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Films Logged** | **22 Films** | *Stories Documented* |
-| **⏳ Hours Watched** | **40h 18m** | *Total Watch Time* |
-| **🎬 Films Completed** | **21 Films** | *Journeys Finished* |
+| **📜 Films Logged** | **23 Films** | *Stories Documented* |
+| **⏳ Hours Watched** | **41h 43m** | *Total Watch Time* |
+| **🎬 Films Completed** | **22 Films** | *Journeys Finished* |
 | **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
 ---
@@ -104,6 +105,17 @@
 
 ---
 
+### 🎨 Animation
+*Vibrant Worlds & Limitless Imagination*
+
+<p><em>Where creativity knows no bounds. Animation breathes life into characters and worlds that defy reality, offering emotional depth, stunning visuals, and stories that resonate across all ages.</em></p>
+
+| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [Haikyu!! The Dumpster Battle](titles/haikyu_the_dumpster_battle.md) | 2024 | ★★★⯪☆ | 1h 25m | Watched | Home |
+
+---
+
 ### ❤️ Romance
 *Love Stories That Touch the Heart*
 
@@ -160,6 +172,6 @@
 
 
 *The Cinematic Archives*  
-*Last Updated: 9th March 2026*
+*Last Updated: 22nd March 2026*
 
 </div>

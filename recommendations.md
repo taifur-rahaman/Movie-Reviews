@@ -122,6 +122,11 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 
 *   ✓ **[The Perks of Being a Wallflower](titles/the_perks_of_being_a_wallflower.md)** (2012) - *Coming-of-age classic.* **WATCHED**
 
+### 🎨 Animation
+*Vibrant Worlds & Limitless Imagination*
+
+*   ✓ **[Haikyu!! The Dumpster Battle](titles/haikyu_the_dumpster_battle.md)** (2024) - *Exhilarating volleyball rivalry conclusion.* **WATCHED**
+
 ---
 
 ## 📅 By Year
@@ -248,6 +253,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Siksa Kubur](https://www.imdb.com/title/tt29362936/)** (Indonesian)
 *   **[Smile 2](https://www.imdb.com/title/tt29623480/)** (English)
 *   ✓ **[Pechi](titles/pechi.md)** (Tamil) **WATCHED**
+*   ✓ **[Haikyu!! The Dumpster Battle](titles/haikyu_the_dumpster_battle.md)** (Japanese) **WATCHED**
 
 ### 2025
 *   **[Chhorii 2](https://www.imdb.com/title/tt23049228/)** (Hindi)
@@ -338,6 +344,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   **[Kairo (Pulse)](https://www.imdb.com/title/tt0286751/)** (2001) - *Tech Horror*
 *   **[Dark Water](https://www.imdb.com/title/tt0308379/)** (2002) - *Atmospheric Ghost Story*
 *   **[Noroi: The Curse](https://www.imdb.com/title/tt0930083/)** (2005) - *Found Footage Masterpiece*
+*   ✓ **[Haikyu!! The Dumpster Battle](titles/haikyu_the_dumpster_battle.md)** (2024) - *Sports Anime* **WATCHED**
 
 ### �🇹🇼 Taiwanese Cinema
 *   **[Incantation](https://www.imdb.com/title/tt18968540/)** (2022) - *Found Footage*
