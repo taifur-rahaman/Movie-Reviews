@@ -11,8 +11,8 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Movies Logged** | 23 |
-| **Movies Completed** | 22 |
-| **Currently Watching** | 1 |
+| **Movies Completed** | 23 |
+| **Currently Watching** | 0 |
 | **Total Watch Time** | 41h 43m |
 | **Average Movie Length** | 1h 49m |
 | **Most Watched Year** | 2023, 2025 (Tie) |
@@ -36,7 +36,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | 2019 | 2 | 3h 19m | [Annabelle Comes Home](../titles/annabelle_comes_home.md), [The Curse of La Llorona](../titles/the_curse_of_la_llorona.md) |
 | 2021 | 1 | 1h 52m | [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) |
 | 2023 | 3 | 6h 03m | [The Nun 2](../titles/the_nun_2.md), [Aseq](../titles/aseq.md), [Virupaksha](../titles/virupaksha.md) |
-| 2024 | 2 | 3h 28m | [Pechi](../titles/pechi.md), [Haikyu!! The Dumpster Battle](../titles/haikyu_the_dumpster_battle.md) |
+| 2024 | 3 | 5h 49m | [Pechi](../titles/pechi.md), [Haikyu!! The Dumpster Battle](../titles/haikyu_the_dumpster_battle.md), [Demonte Colony 2](../titles/demonte_colony_2.md) |
 | 2025 | 2 | 3h 57m | [Vadakkan](../titles/vadakkan.md), [Kishkindhapuri](../titles/kishkindhapuri.md) |
 
 ---
@@ -52,7 +52,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
 | Romance | 0 | 0h 0m | N/A |
-| Horror | 19 | 37h 02m | ★★★☆☆ (avg) |
+| Horror | 20 | 39h 23m | ★★★☆☆ (avg) |
 | Mystery & Crime | 0 | 0h 0m | N/A |
 
 ---
@@ -63,8 +63,8 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Month** | **Movies Watched** | **Total Runtime** |
 |:---|:---:|:---:|
 | January 2026 | 6 | 11h 55m |
-| February 2026 | 14 | 26h 40m |
-| March 2026 | 2 | 3h 08m |
+| February 2026 | 13 | 24h 19m |
+| March 2026 | 3 | 5h 29m |
 
 ### 🗓️ Detailed Viewing Log (2026)
 
@@ -90,9 +90,9 @@ This document tracks the temporal distribution of movies watched, organized by y
 | **Feb 20** | [6-5=2](../titles/6_5_2.md) | ★★★⯪☆ | 1h 43m |
 | **Feb 21** | [Demonte Colony](../titles/demonte_colony.md) | ★★★★☆ | 1h 56m |
 | **Feb 21** | [Blue Streak](../titles/blue_streak.md) | ★★⯪☆☆ | 1h 33m |
-| **Feb 21** | [Demonte Colony 2](../titles/demonte_colony_2.md) | TBD | 2h 21m |
 | **Mar 09** | [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | ★★★⯪☆ | 1h 43m |
 | **Mar 22** | [Haikyu!! The Dumpster Battle](../titles/haikyu_the_dumpster_battle.md) | ★★★⯪☆ | 1h 25m |
+| **Mar 22** | [Demonte Colony 2](../titles/demonte_colony_2.md) | ★★★★⯪ | 2h 21m |
 
 ---
 
@@ -100,16 +100,16 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Rank** | **Film** | **Year** | **Rating** | **Genre** |
 |:---:|:---|:---:|:---:|:---|
-| 1 | [The Conjuring](../titles/the_conjuring.md) | 2013 | ★★★★☆ (8.5) | Horror |
-| 2 | [Demonte Colony](../titles/demonte_colony.md) | 2015 | ★★★★☆ (8.3) | Horror |
-| 3 | [The Conjuring 2](../titles/the_conjuring_2.md) | 2016 | ★★★★☆ (8.0) | Horror |
-| 4 | [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ (8.0) | Horror |
-| 5 | [13B: Fear Has a New Address](../titles/13b.md) | 2009 | ★★★⯪☆ (7.5) | Horror |
-| 6 | [Annabelle: Creation](../titles/annabelle_creation.md) | 2017 | ★★★⯪☆ (7.5) | Horror |
-| 7 | [Haikyu!! The Dumpster Battle](../titles/haikyu_the_dumpster_battle.md) | 2024 | ★★★⯪☆ (7.5) | Animation / Sports |
-| 8 | [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | 2012 | ★★★⯪☆ (7.2) | Drama |
-| 9 | [6-5=2](../titles/6_5_2.md) | 2014 | ★★★⯪☆ (7.0) | Horror |
-| 10 | [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ (7.0) | Horror |
+| 1 | [Demonte Colony 2](../titles/demonte_colony_2.md) | 2024 | ★★★★⯪ (9.0) | Horror |
+| 2 | [The Conjuring](../titles/the_conjuring.md) | 2013 | ★★★★☆ (8.5) | Horror |
+| 3 | [Demonte Colony](../titles/demonte_colony.md) | 2015 | ★★★★☆ (8.3) | Horror |
+| 4 | [The Conjuring 2](../titles/the_conjuring_2.md) | 2016 | ★★★★☆ (8.0) | Horror |
+| 5 | [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ (8.0) | Horror |
+| 6 | [13B: Fear Has a New Address](../titles/13b.md) | 2009 | ★★★⯪☆ (7.5) | Horror |
+| 7 | [Annabelle: Creation](../titles/annabelle_creation.md) | 2017 | ★★★⯪☆ (7.5) | Horror |
+| 8 | [Haikyu!! The Dumpster Battle](../titles/haikyu_the_dumpster_battle.md) | 2024 | ★★★⯪☆ (7.5) | Animation / Sports |
+| 9 | [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | 2012 | ★★★⯪☆ (7.2) | Drama |
+| 10 | [6-5=2](../titles/6_5_2.md) | 2014 | ★★★⯪☆ (7.0) | Horror |
 
 ---
 
@@ -150,6 +150,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🎭 **Genre** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Demonte Colony](../titles/demonte_colony.md) | 2015 | ★★★★☆ | 1h 56m | Horror / Thriller | Watched | Home |
+| [Demonte Colony 2](../titles/demonte_colony_2.md) | 2024 | ★★★★⯪ | 2h 21m | Horror / Thriller | Watched | Home |
 | [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Horror | Watched | Home |
 | [The House Next Door](../titles/the_house_next_door.md) | 2017 | ★★⯪☆☆ | 2h 17m | Horror / Thriller | Watched | Home |
 
