@@ -9,6 +9,7 @@
 | 🔖 **Section** | 📝 **Description** |
 |:---|:---|
 | [📜 Statistics](#-statistics) | View total movies, hours watched, and active viewings |
+| [⏳ Series & Chronology](chronology.md) | View franchises and watch orders |
 | [🎬 Recommendations](recommendations.md) | View curated list of Must-Watch films |
 | [🗺️ Movie Reviews by Genre](#️-movie-reviews-by-genre) | Browse all movie reviews by genre |
 | └─ [🎬 Action & Adventure](#-action--adventure) | Explosive action and thrilling adventures |
@@ -34,7 +35,7 @@
 
 ---
 
-[⏳ View Detailed Temporal Distribution](utils/temporal_distribution.md) • [🎬 View Movie Recommendations](recommendations.md)
+[⏳ View Detailed Temporal Distribution](utils/temporal_distribution.md) • [🔗 View Series & Chronology](chronology.md) • [🎬 View Movie Recommendations](recommendations.md)
 
 
 ## 🎥 Currently Watching

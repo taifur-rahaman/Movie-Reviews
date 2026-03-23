@@ -20,6 +20,12 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 ---
 
+## ⏳ Franchises & Chronology
+*Interested in watching series in their optimal order?*
+Be sure to check out the **[Movie Franchises & Chronologies Guide](../chronology.md)** for detailed release and chronological watch orders for cinematic universes like *The Conjuring*, *Demonte Colony*, and more.
+
+---
+
 ## 📅 Time by Release Year
 
 | **Year** | **Movies Watched** | **Total Runtime** | **Films** |
