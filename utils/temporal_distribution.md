@@ -12,7 +12,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 |:---|:---:|
 | **Total Movies Logged** | 23 |
 | **Movies Completed** | 23 |
-| **Currently Watching** | 0 |
+| **Currently Watching** | 1 |
 | **Total Watch Time** | 41h 43m |
 | **Average Movie Length** | 1h 49m |
 | **Most Watched Year** | 2023, 2025 (Tie) |

@@ -31,7 +31,7 @@
 | **📜 Films Logged** | **23 Films** | *Stories Documented* |
 | **⏳ Hours Watched** | **41h 43m** | *Total Watch Time* |
 | **🎬 Films Completed** | **23 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
 ---
 
@@ -42,7 +42,7 @@
 
 | 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-*No films currently being watched.*
+| [Devil's Bride](titles/devils_bride.md) | 2025 | 1h 30m | Horror | Home | 24th Mar 2026 |
 
 ---
 
