@@ -1,6 +1,6 @@
 # Temporal Distribution - Movies
 
-> **Last Updated:** 22nd March 2026
+> **Last Updated:** 25th March 2026
 
 This document tracks the temporal distribution of movies watched, organized by year of release and viewing time.
 
@@ -10,11 +10,11 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Movies Logged** | 23 |
-| **Movies Completed** | 23 |
-| **Currently Watching** | 1 |
-| **Total Watch Time** | 41h 43m |
-| **Average Movie Length** | 1h 49m |
+| **Total Movies Logged** | 24 |
+| **Movies Completed** | 24 |
+| **Currently Watching** | 0 |
+| **Total Watch Time** | 43h 13m |
+| **Average Movie Length** | 1h 48m |
 | **Most Watched Year** | 2023, 2025 (Tie) |
 | **Most Watched Genre** | Horror |
 
@@ -43,7 +43,7 @@ Be sure to check out the **[Movie Franchises & Chronologies Guide](../chronology
 | 2021 | 1 | 1h 52m | [The Conjuring: The Devil Made Me Do It](../titles/the_conjuring_the_devil_made_me_do_it.md) |
 | 2023 | 3 | 6h 03m | [The Nun 2](../titles/the_nun_2.md), [Aseq](../titles/aseq.md), [Virupaksha](../titles/virupaksha.md) |
 | 2024 | 3 | 5h 49m | [Pechi](../titles/pechi.md), [Haikyu!! The Dumpster Battle](../titles/haikyu_the_dumpster_battle.md), [Demonte Colony 2](../titles/demonte_colony_2.md) |
-| 2025 | 2 | 3h 57m | [Vadakkan](../titles/vadakkan.md), [Kishkindhapuri](../titles/kishkindhapuri.md) |
+| 2025 | 3 | 5h 27m | [Vadakkan](../titles/vadakkan.md), [Kishkindhapuri](../titles/kishkindhapuri.md), [Devil's Bride](../titles/devils_bride.md) |
 
 ---
 
@@ -58,7 +58,7 @@ Be sure to check out the **[Movie Franchises & Chronologies Guide](../chronology
 | Thriller & Suspense | 0 | 0h 0m | N/A |
 | Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
 | Romance | 0 | 0h 0m | N/A |
-| Horror | 20 | 39h 23m | ★★★☆☆ (avg) |
+| Horror | 21 | 40h 53m | ★★★☆☆ (avg) |
 | Mystery & Crime | 0 | 0h 0m | N/A |
 
 ---
@@ -70,7 +70,7 @@ Be sure to check out the **[Movie Franchises & Chronologies Guide](../chronology
 |:---|:---:|:---:|
 | January 2026 | 6 | 11h 55m |
 | February 2026 | 13 | 24h 19m |
-| March 2026 | 3 | 5h 29m |
+| March 2026 | 4 | 6h 59m |
 
 ### 🗓️ Detailed Viewing Log (2026)
 
@@ -99,6 +99,7 @@ Be sure to check out the **[Movie Franchises & Chronologies Guide](../chronology
 | **Mar 09** | [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | ★★★⯪☆ | 1h 43m |
 | **Mar 22** | [Haikyu!! The Dumpster Battle](../titles/haikyu_the_dumpster_battle.md) | ★★★⯪☆ | 1h 25m |
 | **Mar 22** | [Demonte Colony 2](../titles/demonte_colony_2.md) | ★★★★⯪ | 2h 21m |
+| **Mar 25** | [Devil's Bride](../titles/devils_bride.md) | ★★☆☆☆ | 1h 30m |
 
 ---
 
@@ -175,6 +176,17 @@ Be sure to check out the **[Movie Franchises & Chronologies Guide](../chronology
 | [Bhaagamathie](../titles/bhaagamathie.md) | 2018 | ★★☆☆☆ | 2h 15m | Horror / Thriller | Watched | Home |
 | [Kishkindhapuri](../titles/kishkindhapuri.md) | 2025 | ★★☆☆☆ | 2h 5m | Horror / Thriller | Watched | Home |
 | [Virupaksha](../titles/virupaksha.md) | 2023 | ★★★⯪☆ | 2h 26m | Horror / Thriller | Watched | Home |
+
+---
+
+### 🇮🇩 Indonesia
+
+#### 🎬 Indonesian Cinema
+*Indonesian Horror*
+
+| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🎭 **Genre** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Devil's Bride](../titles/devils_bride.md) | 2025 | ★★☆☆☆ | 1h 30m | Horror / Thriller | Watched | Home |
 
 ---
 

@@ -28,10 +28,10 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Films Logged** | **23 Films** | *Stories Documented* |
-| **⏳ Hours Watched** | **41h 43m** | *Total Watch Time* |
-| **🎬 Films Completed** | **23 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
+| **📜 Films Logged** | **24 Films** | *Stories Documented* |
+| **⏳ Hours Watched** | **43h 13m** | *Total Watch Time* |
+| **🎬 Films Completed** | **24 Films** | *Journeys Finished* |
+| **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
 
 ---
 
@@ -42,7 +42,8 @@
 
 | 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Devil's Bride](titles/devils_bride.md) | 2025 | 1h 30m | Horror | Home | 24th Mar 2026 |
+
+*No films active.*
 
 ---
 
@@ -146,6 +147,7 @@
 | [Bhaagamathie](titles/bhaagamathie.md) | 2018 | ★★☆☆☆ | 2h 15m | Watched | Home |
 | [Demonte Colony](titles/demonte_colony.md) | 2015 | ★★★★☆ | 1h 56m | Watched | Home |
 | [Demonte Colony 2](titles/demonte_colony_2.md) | 2024 | ★★★★⯪ | 2h 21m | Watched | Home |
+| [Devil's Bride](titles/devils_bride.md) | 2025 | ★★☆☆☆ | 1h 30m | Watched | Home |
 | [Kishkindhapuri](titles/kishkindhapuri.md) | 2025 | ★★☆☆☆ | 2h 5m | Watched | Home |
 | [Pechi](titles/pechi.md) | 2024 | ★★★★☆ | 2h 3m | Watched | Home |
 | [The Conjuring](titles/the_conjuring.md) | 2013 | ★★★★☆ | 1h 52m | Watched | Home |
