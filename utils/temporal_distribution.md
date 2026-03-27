@@ -22,7 +22,7 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 ## ⏳ Franchises & Chronology
 *Interested in watching series in their optimal order?*
-Be sure to check out the **[Movie Franchises & Chronologies Guide](../chronology.md)** for detailed release and chronological watch orders for cinematic universes like *The Conjuring*, *Demonte Colony*, and more.
+Be sure to check out the **[Movie Franchises & Chronologies Guide](../chronology.md)** for detailed release and chronological watch orders for cinematic universes like *[The Conjuring](titles/the_conjuring.md)*, *[Demonte Colony](titles/demonte_colony.md)*, and more.
 
 ---
 

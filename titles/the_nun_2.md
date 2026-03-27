@@ -22,13 +22,13 @@
 
 ## Overview
 
-**The Nun II** picks up four years after the events of the first film. Sister Irene is living in anonymity in a convent in Italy, but Valak has returned, cutting a bloody path across Europe in search of a holy relic. Irene must once again confront the demon face-to-face to save her friend Maurice.
+**[[The Nun](the_nun.md) II](the_nun_2.md)** picks up four years after the events of the first film. Sister Irene is living in anonymity in a convent in Italy, but Valak has returned, cutting a bloody path across Europe in search of a holy relic. Irene must once again confront the demon face-to-face to save her friend Maurice.
 
 ## Story & Atmosphere
 
 This sequel is a significant improvement over the first *Nun* film. The setting—a boarding school in France—provides plenty of spooky corridors and hidden rooms. The story is more coherent, focusing on a mystery involving the eyes of Saint Lucy.
 
-Director Michael Chaves brings a sharper visual style here than he did in *The Conjuring 3*. The scares are more creative (the magazine stand scene is a standout visual). However, the third act descends into a CGI-heavy battle that feels more like a superhero movie than a horror film.
+Director Michael Chaves brings a sharper visual style here than he did in *[The Conjuring](the_conjuring.md) 3*. The scares are more creative (the magazine stand scene is a standout visual). However, the third act descends into a CGI-heavy battle that feels more like a superhero movie than a horror film.
 
 ## Performances & Direction
 
@@ -51,7 +51,7 @@ The film deepens the tragedy of Maurice (Frenchie). We know from the first *Conj
 
 ## Verdict
 
-**The Nun II** is a decent horror sequel that fixes many (but not all) of the first film's problems. It has great set pieces and a solid mystery, but it strains under the weight of its own lore and CGI finale. It’s fun, spooky, and forgettable.
+**[[The Nun](the_nun.md) II](the_nun_2.md)** is a decent horror sequel that fixes many (but not all) of the first film's problems. It has great set pieces and a solid mystery, but it strains under the weight of its own lore and CGI finale. It’s fun, spooky, and forgettable.
 
 **Rating: ★★★☆☆ (6/10)**
 
@@ -81,7 +81,7 @@ The film deepens the tragedy of Maurice (Frenchie). We know from the first *Conj
 
 **Completed (Past Viewing):**
 -   A solid entry that doesn't reinvent the wheel but keeps the franchise alive.
--   Firmly establishes the timeline leading into The Conjuring.
+-   Firmly establishes the timeline leading into [The Conjuring](the_conjuring.md).
 
 ---
 

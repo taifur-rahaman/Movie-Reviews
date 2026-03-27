@@ -22,7 +22,7 @@
 
 ## Overview
 
-**Annabelle Comes Home** is essentially "Night at the Museum" but with excessive demonic activity. It takes place entirely within the Warrens' house over the course of one night, where their daughter Judy, her babysitter, and a curious friend accidentally unleash the spirits trapped in the artifact room.
+**[[Annabelle](annabelle.md) Comes Home](annabelle_comes_home.md)** is essentially "Night at the Museum" but with excessive demonic activity. It takes place entirely within the Warrens' house over the course of one night, where their daughter Judy, her babysitter, and a curious friend accidentally unleash the spirits trapped in the artifact room.
 
 ## Story & Atmosphere
 
@@ -44,14 +44,14 @@ The atmosphere is lighter than the main *Conjuring* films, feeling almost like a
 This room is the centerpiece of the Warrens' lore. In reality, they did keep a museum in their basement filled with cursed objects. The film emphasizes that these objects aren't "evil" themselves, but are used by spirits as anchors to the physical world.
 
 ### The Beacon
-The film clarifies Annabelle's true nature: she isn't just a possessed doll; she is a "beacon" for other spirits. Her presence amplifies paranormal activity, which is why she is kept in a case made of chapel glass and blessed weekly.
+The film clarifies [Annabelle](annabelle.md)'s true nature: she isn't just a possessed doll; she is a "beacon" for other spirits. Her presence amplifies paranormal activity, which is why she is kept in a case made of chapel glass and blessed weekly.
 
 ### The Ferryman
 One of the standout new entities is the Ferryman (Charon from Greek mythology), who requires coins placed on the eyes of the dead to transport souls. The film twists this into a terrifying entity that collects souls.
 
 ## Verdict
 
-**Annabelle Comes Home** is a fun, spooky entry that doesn't take itself too seriously. It’s a great showcase for the wider lore of the Warrens' cases without needing a complex plot. It’s distinctly "cozy horror"—scary, but safe.
+**[[Annabelle](annabelle.md) Comes Home](annabelle_comes_home.md)** is a fun, spooky entry that doesn't take itself too seriously. It’s a great showcase for the wider lore of the Warrens' cases without needing a complex plot. It’s distinctly "cozy horror"—scary, but safe.
 
 **Rating: ★★★☆☆ (6/10)**
 

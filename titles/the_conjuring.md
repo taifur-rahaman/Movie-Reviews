@@ -22,7 +22,7 @@
 
 ## Overview
 
-**The Conjuring** is the film that launched a massive modern horror universe. Based on the real-life case files of demonologists Ed and Lorraine Warren, it tells the story of the Perron family, who move into a secluded farmhouse in Rhode Island only to find themselves terrorized by a dark presence. It’s a return to classic, atmospheric horror that relies on dread rather than gore.
+**[The Conjuring](the_conjuring.md)** is the film that launched a massive modern horror universe. Based on the real-life case files of demonologists Ed and Lorraine Warren, it tells the story of the Perron family, who move into a secluded farmhouse in Rhode Island only to find themselves terrorized by a dark presence. It’s a return to classic, atmospheric horror that relies on dread rather than gore.
 
 ## Story & Atmosphere
 
@@ -58,7 +58,7 @@ This structure gives the film a logical progression and raises the stakes.
 
 ## Verdict
 
-**The Conjuring** is a modern classic. It revitalized the haunted house genre by treating its characters with respect and focusing on pure, unadulterated tension. It’s scary, emotional, and incredibly well-crafted.
+**[The Conjuring](the_conjuring.md)** is a modern classic. It revitalized the haunted house genre by treating its characters with respect and focusing on pure, unadulterated tension. It’s scary, emotional, and incredibly well-crafted.
 
 **Rating: ★★★★☆ (8.5/10)**
 
@@ -82,7 +82,7 @@ This structure gives the film a logical progression and raises the stakes.
 ## Personal Notes & Observations
 
 -   **The Warrens**: Establishing them as the core makes the universe work.
--   **Annabelle**: The opening with the doll is a masterclass in setting up a side villain (who gets her own franchise).
+-   **[Annabelle](annabelle.md)**: The opening with the doll is a masterclass in setting up a side villain (who gets her own franchise).
 -   **Practical Effects**: The lack of CGI monsters makes it age very well.
 
 ### Viewing Progress

@@ -26,7 +26,7 @@ After serving two years in prison, a jewel thief poses as a detective to retriev
 
 ## Story & Atmosphere
 
-At its core, *Blue Streak* is your standard, paint-by-numbers late-90s action comedy. The plot essentially revolves around Martin Lawrence constantly almost blowing his cover while accidentally doing good police work along the way to finding his stolen diamond. The pacing is quick enough that you don't really have time to think too hard about how absurd the whole setup is. It doesn't take itself seriously at all, opting for a light, breezy atmosphere filled with goofy misunderstandings and classic physical comedy. 
+At its core, *[Blue Streak](blue_streak.md)* is your standard, paint-by-numbers late-90s action comedy. The plot essentially revolves around Martin Lawrence constantly almost blowing his cover while accidentally doing good police work along the way to finding his stolen diamond. The pacing is quick enough that you don't really have time to think too hard about how absurd the whole setup is. It doesn't take itself seriously at all, opting for a light, breezy atmosphere filled with goofy misunderstandings and classic physical comedy. 
 
 ## Performances & Direction
 
@@ -40,7 +40,7 @@ There aren't really any deep themes here outside of standard buddy-cop tropes—
 
 **Rating: 5.5/10**
 
-*Blue Streak* is a perfectly watchable, moderately funny slice of 90s nostalgia. It doesn’t reinvent the wheel, and the actual "action" part of the action-comedy formula is a bit underwhelming. However, Martin Lawrence is undeniably fun to watch here, and the breezy runtime ensures it never overstays its welcome. It's a completely middle-of-the-road comedy that you'll laugh at once and probably forget about by the next morning. 
+*[Blue Streak](blue_streak.md)* is a perfectly watchable, moderately funny slice of 90s nostalgia. It doesn’t reinvent the wheel, and the actual "action" part of the action-comedy formula is a bit underwhelming. However, Martin Lawrence is undeniably fun to watch here, and the breezy runtime ensures it never overstays its welcome. It's a completely middle-of-the-road comedy that you'll laugh at once and probably forget about by the next morning. 
 
 ---
 

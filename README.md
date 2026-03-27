@@ -28,10 +28,10 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Films Logged** | **24 Films** | *Stories Documented* |
+| **📜 Films Logged** | **25 Films** | *Stories Documented* |
 | **⏳ Hours Watched** | **43h 13m** | *Total Watch Time* |
 | **🎬 Films Completed** | **24 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **0 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
 ---
 
@@ -42,8 +42,7 @@
 
 | 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-
-*No films active.*
+| [Dasim](titles/dasim.md) | 2025 | 1h 39m | Horror | Home | 27th March 2026 |
 
 ---
 

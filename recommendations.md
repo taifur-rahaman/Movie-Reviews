@@ -82,7 +82,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
    - [Chhorii](https://www.imdb.com/title/tt13314558/) (2021) - *Atmospheric rural horror*
    - [Chhorii 2](https://www.imdb.com/title/tt23049228/) (2025) - *Seven years later sequel*
 
-**🏚️ Demonte Colony Series** *(2 films, 2015-2024)*
+**🏚️ [Demonte Colony](titles/demonte_colony.md) Series** *(2 films, 2015-2024)*
    - ✓ [Demonte Colony](titles/demonte_colony.md) (2015) - *Tamil haunted house terror* **WATCHED**
    - ✓ [Demonte Colony 2](titles/demonte_colony_2.md) (2024) - *Sequel & prequel* **WATCHED**
 
@@ -291,7 +291,7 @@ This list is categorized by **Genre**, **Year**, and **Industry** to help you fi
 *   ✓ **[Aseq](titles/aseq.md)** (2023) - *Ashiq Jinn Horror* **WATCHED**
 *   ✓ **[Pechi](titles/pechi.md)** (2024) - *Witch Folklore* **WATCHED**
 *   ✓ **[The House Next Door](titles/the_house_next_door.md)** (2017) - *Black Magic Curse* **WATCHED**
-*   **Demonte Colony Series:**
+*   **[Demonte Colony](titles/demonte_colony.md) Series:**
     *   ✓ [Demonte Colony](titles/demonte_colony.md) (2015) - *Haunted Horror* **WATCHED**
     *   ✓ [Demonte Colony 2](titles/demonte_colony_2.md) (2024) - *Sequel/Prequel* **WATCHED**
 

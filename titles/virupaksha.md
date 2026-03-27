@@ -22,7 +22,7 @@
 
 ## Overview
 
-Virupaksha is a Telugu horror thriller that blends mystical elements with mystery. Set in a remote village, the film explores supernatural occurrences tied to ancient folklore and dark secrets.
+[Virupaksha](virupaksha.md) is a Telugu horror thriller that blends mystical elements with mystery. Set in a remote village, the film explores supernatural occurrences tied to ancient folklore and dark secrets.
 
 ## Story & Atmosphere
 
@@ -148,13 +148,13 @@ The village's annual carnival honors **Modamamba**, a Hindu deity. The film weav
 
 ### Meaning of "Virupaksha"
 
-The word **'Virupaksha'** is a combination of the Sanskrit words "virup" (formless/deformed) and "aksha" (eyes), meaning **"eyes without a form"**, often used to refer to Lord Shiva.
+The word **'[Virupaksha](virupaksha.md)'** is a combination of the Sanskrit words "virup" (formless/deformed) and "aksha" (eyes), meaning **"eyes without a form"**, often used to refer to Lord Shiva.
 
 According to Hindu mythology, Lord Shiva possesses a special **third eye** representing cosmic power and enlightenment. In the film, this title refers to the protagonist's ability to **perceive formless evil** and see beyond surface appearances—to understand the supernatural forces at work that others cannot see.
 
 ### Real-Life Inspiration
 
-The director's concept originated from a disturbing true event in 2016-17 when he read about a **Gujarati woman accused of practicing black magic and stoned to death by villagers**. The director imagined a scenario where the accused actually possessed magical powers, leading to the question: *What if the person killed for witchcraft could actually curse the village?* This became the foundation for Virupaksha's narrative.
+The director's concept originated from a disturbing true event in 2016-17 when he read about a **Gujarati woman accused of practicing black magic and stoned to death by villagers**. The director imagined a scenario where the accused actually possessed magical powers, leading to the question: *What if the person killed for witchcraft could actually curse the village?* This became the foundation for [Virupaksha](virupaksha.md)'s narrative.
 
 ---
 

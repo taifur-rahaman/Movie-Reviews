@@ -22,7 +22,7 @@
 
 ## Overview
 
-**The Nun** takes the franchise back to 1952 Romania to explore the origins of Valak, the demon introduced in *The Conjuring 2*. A priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun at a cloistered abbey.
+**[The Nun](the_nun.md)** takes the franchise back to 1952 Romania to explore the origins of Valak, the demon introduced in *[[The Conjuring](the_conjuring.md) 2](the_conjuring_2.md)*. A priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun at a cloistered abbey.
 
 ## Story & Atmosphere
 
@@ -50,11 +50,11 @@ The nuns in the abbey practice "Perpetual Adoration"—praying in shifts 24/7 to
 The film introduces a "Holy Grail" style artifact—the actual Blood of Christ—as a weapon against the demon. It leans heavily into Christian mythology/fantasy here, moving away from the grounded "true story" vibe of the main films.
 
 ### The Frenchie Connection
-The ending reveals that "Frenchie" (Maurice) is the person Ed and Lorraine Warren show a video of being exorcised in the first *The Conjuring* movie. This ties the timeline together neatly, showing how Valak eventually reached the Warrens.
+The ending reveals that "Frenchie" (Maurice) is the person Ed and Lorraine Warren show a video of being exorcised in the first *[The Conjuring](the_conjuring.md)* movie. This ties the timeline together neatly, showing how Valak eventually reached the Warrens.
 
 ## Verdict
 
-**The Nun** is a visual treat but a narrative disappointment. It’s great for gothic mood and jump scares, but it lacks the smart writing and dread of the best films in the universe. It’s popcorn horror—fun in the moment, but silly if you think about it too much.
+**[The Nun](the_nun.md)** is a visual treat but a narrative disappointment. It’s great for gothic mood and jump scares, but it lacks the smart writing and dread of the best films in the universe. It’s popcorn horror—fun in the moment, but silly if you think about it too much.
 
 **Rating: ★★⯪☆☆ (5.5/10)**
 

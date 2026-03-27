@@ -21,7 +21,7 @@
 
 ## Overview
 
-Aseq is a Hindi horror film centered around the concept of Jinn—supernatural entities from Islamic mythology. The film follows a group of characters who encounter these malevolent spirits, leading to a series of terrifying events.
+[Aseq](aseq.md) is a Hindi horror film centered around the concept of Jinn—supernatural entities from Islamic mythology. The film follows a group of characters who encounter these malevolent spirits, leading to a series of terrifying events.
 
 ## Story & Atmosphere
 
@@ -43,7 +43,7 @@ The cast includes Vardhan Puri, Sonnalli Seygall, and Siddhanth Kapoor. Performa
 
 The film tries to tap into Islamic mythology and the concept of Jinn as a source of horror. The problem is it treats the audience like we need a full educational documentary before we can be scared. 
 
-There's potential here—Jinn mythology is genuinely creepy and underexplored in mainstream horror. But you have to trust your audience and let the horror speak for itself. Less lecture, more terror. Unfortunately, Aseq chose the wrong path and ended up being neither scary nor particularly educational—just boring.
+There's potential here—Jinn mythology is genuinely creepy and underexplored in mainstream horror. But you have to trust your audience and let the horror speak for itself. Less lecture, more terror. Unfortunately, [Aseq](aseq.md) chose the wrong path and ended up being neither scary nor particularly educational—just boring.
 
 ## Verdict
 
@@ -51,7 +51,7 @@ There's potential here—Jinn mythology is genuinely creepy and underexplored in
 
 Boring as hell. No scary moments whatsoever. The story is interesting, but the execution is horrible.
 
-Aseq had all the ingredients for a compelling horror film—underutilized Jinn mythology, decent production values, and a capable cast. But it squanders all of it with glacial pacing, excessive exposition, and a complete failure to deliver any actual scares. 
+[Aseq](aseq.md) had all the ingredients for a compelling horror film—underutilized Jinn mythology, decent production values, and a capable cast. But it squanders all of it with glacial pacing, excessive exposition, and a complete failure to deliver any actual scares. 
 
 A horror movie without horror is just a slow, tedious drama with supernatural elements. The film doesn't trust its audience or its own mythology enough to let the horror unfold naturally. Instead, it opts to explain everything in excruciating detail, killing any tension before it can build.
 
@@ -124,13 +124,13 @@ Finished it. Wish I hadn't.
 
 ### The Aseq/Ashiq Jinn Folklore
 
-The **Aseq jinn** (also spelled "Ashiq") is a specific type of jinn from Islamic folklore and Middle Eastern traditions that falls in love with a particular human and becomes obsessively attached to them. Unlike other jinns, the Aseq refuses to leave once fixated on their target.
+The **[Aseq](aseq.md) jinn** (also spelled "Ashiq") is a specific type of jinn from Islamic folklore and Middle Eastern traditions that falls in love with a particular human and becomes obsessively attached to them. Unlike other jinns, the [Aseq](aseq.md) refuses to leave once fixated on their target.
 
-In Islamic mythology, jinns are supernatural beings made of smokeless fire. The Aseq/Ashiq jinn represents a particularly dangerous category because of their obsessive nature and refusal to be separated from their victim.
+In Islamic mythology, jinns are supernatural beings made of smokeless fire. The [Aseq](aseq.md)/Ashiq jinn represents a particularly dangerous category because of their obsessive nature and refusal to be separated from their victim.
 
 ### Types of Aseq Jinns
 
-According to the folklore explored in the film, there are different categories of Aseq jinns based on how they exploit their victims:
+According to the folklore explored in the film, there are different categories of [Aseq](aseq.md) jinns based on how they exploit their victims:
 
 *   **Physical Attraction:** Some are attracted to the victim's entire physical body
 *   **Partial Fixation:** Others fixate on particular body parts
@@ -139,9 +139,9 @@ According to the folklore explored in the film, there are different categories o
 
 ### The Movie's Interpretation
 
-In *Aseq*, the story follows Ronnie, who after breaking up with his girlfriend Priyanka, falls in love with a woman named Lail. However, he begins experiencing strange supernatural events and initially suspects Priyanka of using black magic against him.
+In *[Aseq](aseq.md)*, the story follows Ronnie, who after breaking up with his girlfriend Priyanka, falls in love with a woman named Lail. However, he begins experiencing strange supernatural events and initially suspects Priyanka of using black magic against him.
 
-The film explores the jinn's obsessive attachment—once an Aseq/Ashiq jinn becomes fixated on a person, it proves exceedingly difficult to shake off, leading to terrifying events. The movie attempts to blend themes of obsessive love, possession, and the darker aspects of supernatural attachment with horror elements.
+The film explores the jinn's obsessive attachment—once an [Aseq](aseq.md)/Ashiq jinn becomes fixated on a person, it proves exceedingly difficult to shake off, leading to terrifying events. The movie attempts to blend themes of obsessive love, possession, and the darker aspects of supernatural attachment with horror elements.
 
 **The Problem:** While this folklore is genuinely fascinating and underutilized in horror, the film's fatal flaw is spending too much time explaining it through exposition dumps instead of showing it through atmospheric horror and storytelling.
 

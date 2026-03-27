@@ -22,7 +22,7 @@
 
 ## Overview
 
-**The Curse of La Llorona** brings the legendary Mexican figure of "The Weeping Woman" into the Conjuring Universe (tangentially). Set in 1973 Los Angeles, a social worker trying to protect two children from what she thinks is parental abuse discovers that a supernatural entity is actually hunting them.
+**[The Curse of La Llorona](the_curse_of_la_llorona.md)** brings the legendary Mexican figure of "The Weeping Woman" into the Conjuring Universe (tangentially). Set in 1973 Los Angeles, a social worker trying to protect two children from what she thinks is parental abuse discovers that a supernatural entity is actually hunting them.
 
 ## Story & Atmosphere
 
@@ -36,7 +36,7 @@ The scares are loud and frequent but rarely scary. It relies on the "quiet... qu
 
 **Raymond Cruz** plays a *curandero* (folk healer), bringing some much-needed personality and humor to the film. His unconventional methods (using eggs to detect evil) are the most interesting parts of the lore.
 
-**Michael Chaves** (who later directed *The Conjuring 3* and *The Nun 2*) directs this one. It feels very safe and studio-mandated, lacking a unique voice.
+**Michael Chaves** (who later directed *[The Conjuring](the_conjuring.md) 3* and *[[The Nun](the_nun.md) 2](the_nun_2.md)*) directs this one. It feels very safe and studio-mandated, lacking a unique voice.
 
 ## Folklore & Mythology
 
@@ -47,11 +47,11 @@ La Llorona is one of the most famous figures in Mexican folklore. The story goes
 The film introduces an intermediary who is not a Catholic priest but a *curandero*—a traditional folk healer. He uses a mix of Catholic syncretism and indigenous practices (shamanism, herbalism) to fight the spirit. This was a refreshing change from the usual Latin-speaking priests of the franchise.
 
 ### The Connection to Conjuring
-The only real connection is **Father Perez** (Tony Amendola), who appeared in the first *Annabelle* movie. He mentions his experience with the doll, confirming this takes place in the same universe. Otherwise, it feels like a standalone movie.
+The only real connection is **Father Perez** (Tony Amendola), who appeared in the first *[Annabelle](annabelle.md)* movie. He mentions his experience with the doll, confirming this takes place in the same universe. Otherwise, it feels like a standalone movie.
 
 ## Verdict
 
-**The Curse of La Llorona** is the weakest entry in the universe. It wastes a terrifying piece of authentic folklore on a generic jump-scare fest. It’s watchable thanks to Linda Cardellini, but it’s completely inessential to the wider storyline.
+**[The Curse of La Llorona](the_curse_of_la_llorona.md)** is the weakest entry in the universe. It wastes a terrifying piece of authentic folklore on a generic jump-scare fest. It’s watchable thanks to Linda Cardellini, but it’s completely inessential to the wider storyline.
 
 **Rating: ★★☆☆☆ (4.5/10)**
 
@@ -81,7 +81,7 @@ The only real connection is **Father Perez** (Tony Amendola), who appeared in th
 
 **Completed (Past Viewing):**
 -   Feels like a missed opportunity to make a truly scary movie about this legend.
--   Michael Chaves improved significantly with *The Nun 2*.
+-   Michael Chaves improved significantly with *[[The Nun](the_nun.md) 2](the_nun_2.md)*.
 
 ---
 

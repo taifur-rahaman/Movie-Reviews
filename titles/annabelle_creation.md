@@ -22,11 +22,11 @@
 
 ## Overview
 
-**Annabelle: Creation** is the prequel that reveals the tragic origin of the cursed doll. Directed by David F. Sandberg (*Lights Out*), it tells the story of a dollmaker and his wife who, years after the tragic death of their little girl, welcome a nun and several girls from a shuttered orphanage into their home. They soon become the target of the dollmaker's possessed creation, Annabelle.
+**[[Annabelle](annabelle.md): Creation](annabelle_creation.md)** is the prequel that reveals the tragic origin of the cursed doll. Directed by David F. Sandberg (*Lights Out*), it tells the story of a dollmaker and his wife who, years after the tragic death of their little girl, welcome a nun and several girls from a shuttered orphanage into their home. They soon become the target of the dollmaker's possessed creation, [Annabelle](annabelle.md).
 
 ## Story & Atmosphere
 
-This film is a massive improvement over the first *Annabelle*. It takes place in a large, creaky farmhouse in the middle of nowhere—essentially the perfect setting for a gothic horror story. The atmosphere is dusty, sun-bleached, and dread-filled.
+This film is a massive improvement over the first *[Annabelle](annabelle.md)*. It takes place in a large, creaky farmhouse in the middle of nowhere—essentially the perfect setting for a gothic horror story. The atmosphere is dusty, sun-bleached, and dread-filled.
 
 Sandberg uses silence incredibly well. The scares are creative and often terrifying (the "sheet ghost" scene, the scarecrow in the barn). The story explores grief and desperation, showing how good intentions can open the door to pure evil. It effectively bridges the gap between the doll's creation and the events of the first film.
 
@@ -47,11 +47,11 @@ The film centers on a core rule of demonic folklore: demons prey on grief and vu
 The film establishes that the demon wants a human soul, specifically Janice's (who is polio-stricken and seen as the "weakest" spiritually). This aligns with the idea that demons target those who are physically or emotionally vulnerable to break them down for possession.
 
 ### The Ending Connection
-The ending brilliantly ties directly into the opening of the 2014 *Annabelle* film, explaining who the "Disciples of the Ram" cultist (Annabelle Higgins) actually was. It’s one of the smoothest continuity connections in the franchise.
+The ending brilliantly ties directly into the opening of the 2014 *[Annabelle](annabelle.md)* film, explaining who the "Disciples of the Ram" cultist ([Annabelle](annabelle.md) Higgins) actually was. It’s one of the smoothest continuity connections in the franchise.
 
 ## Verdict
 
-**Annabelle: Creation** is arguably the best spin-off in the Conjuring Universe. It’s scary, well-acted, and tells a compelling story about grief gone wrong. It takes a silly concept (evil doll origin) and makes it legitimately terrifying.
+**[[Annabelle](annabelle.md): Creation](annabelle_creation.md)** is arguably the best spin-off in the Conjuring Universe. It’s scary, well-acted, and tells a compelling story about grief gone wrong. It takes a silly concept (evil doll origin) and makes it legitimately terrifying.
 
 **Rating: ★★★⯪☆ (7.5/10)**
 
@@ -81,7 +81,7 @@ The ending brilliantly ties directly into the opening of the 2014 *Annabelle* fi
 ### Viewing Progress
 
 **Completed (Past Viewing):**
--   Redeems the Annabelle character after the lackluster first film.
+-   Redeems the [Annabelle](annabelle.md) character after the lackluster first film.
 -   The "You are not my daughter" realization is chilling.
 
 ---
@@ -89,7 +89,7 @@ The ending brilliantly ties directly into the opening of the 2014 *Annabelle* fi
 ## Rewatch Value
 
 **Moderate.**
-Good for a scare, especially paired with *The Conjuring*.
+Good for a scare, especially paired with *[The Conjuring](the_conjuring.md)*.
 
 **Similar films:**
 -   [The Woman in Black](https://www.imdb.com/title/tt1596365/) (2012) - *Gothic horror involving children.*

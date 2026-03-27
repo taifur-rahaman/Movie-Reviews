@@ -21,15 +21,15 @@
 
 ## Overview
 
-Pechi is a Tamil horror flick about a group of friends who stumble into some seriously creepy supernatural stuff in a remote village. It's basically "friends go to spooky place, bad things happen," but with a solid dose of Tamil folklore that makes it way more interesting than your average jump-scare fest.
+[Pechi](pechi.md) is a Tamil horror flick about a group of friends who stumble into some seriously creepy supernatural stuff in a remote village. It's basically "friends go to spooky place, bad things happen," but with a solid dose of Tamil folklore that makes it way more interesting than your average jump-scare fest.
 
 ## Story & Atmosphere
 
-Okay, so Pechi isn't reinventing the wheel here—it's the classic "friends go somewhere they shouldn't and regret it immediately" setup. But here's the thing: it actually works because the movie doesn't mess around. No 30-minute exposition dump, no unnecessary backstory. You're thrown into this creepy rural Tamil Nadu village, and the vibe is just *off* from the start.
+Okay, so [Pechi](pechi.md) isn't reinventing the wheel here—it's the classic "friends go somewhere they shouldn't and regret it immediately" setup. But here's the thing: it actually works because the movie doesn't mess around. No 30-minute exposition dump, no unnecessary backstory. You're thrown into this creepy rural Tamil Nadu village, and the vibe is just *off* from the start.
 
 The setting does a lot of heavy lifting. Dense forests, old crumbling houses, that isolated village feel where you know cell service is a joke and help is nowhere nearby. The director really milks the atmosphere—lots of shadows, darkness, and that constant feeling that something's watching from just outside the frame.
 
-What I really appreciated is that Pechi takes its time building tension. This isn't a jump-scare-every-five-minutes kind of horror. The first act actually lets you get to know the characters, and they feel like actual people with real friendships, not just cannon fodder. So when things start going sideways, you actually care.
+What I really appreciated is that [Pechi](pechi.md) takes its time building tension. This isn't a jump-scare-every-five-minutes kind of horror. The first act actually lets you get to know the characters, and they feel like actual people with real friendships, not just cannon fodder. So when things start going sideways, you actually care.
 
 The "pechi" itself (a vengeful female spirit from Tamil folklore) is the real MVP here. It's not just some random ghost—it's got specific rules, motivations, and backstory rooted in actual Tamil mythology. The film respects that folklore instead of just using it as window dressing. When you learn why the pechi is doing what she's doing, it adds this whole layer of tragedy and social commentary that makes the horror hit different.
 
@@ -51,7 +51,7 @@ The score deserves a shoutout. Traditional Tamil instruments mixed with modern h
 
 ## Themes & Impact
 
-Here's where Pechi gets interesting beyond just the scares. The pechi isn't evil for the sake of being evil—she's a victim seeking justice. The film doesn't spell it out with a PowerPoint presentation, but there's real moral complexity here. The characters have to deal with not just a ghost, but the ugly truth about what their community did and how they're complicit in it.
+Here's where [Pechi](pechi.md) gets interesting beyond just the scares. The pechi isn't evil for the sake of being evil—she's a victim seeking justice. The film doesn't spell it out with a PowerPoint presentation, but there's real moral complexity here. The characters have to deal with not just a ghost, but the ugly truth about what their community did and how they're complicit in it.
 
 There's also some pointed commentary about gender violence and how women's voices get silenced, especially in traditional rural settings. The pechi was wronged and ignored in life. In death? She's making damn sure everyone listens. It's horror as social commentary, and it doesn't feel preachy—it's baked into the story.
 
@@ -59,7 +59,7 @@ This isn't a "fun" horror movie you watch with friends and forget about. It stic
 
 ## Verdict
 
-Pechi proves you don't need a Hollywood budget or jump scares every 30 seconds to make effective horror. You need atmosphere, respect for your source material, solid acting, and a director who gets that what you *don't* show is often scarier than what you do.
+[Pechi](pechi.md) proves you don't need a Hollywood budget or jump scares every 30 seconds to make effective horror. You need atmosphere, respect for your source material, solid acting, and a director who gets that what you *don't* show is often scarier than what you do.
 
 The film's biggest win is how committed it is to being specifically Tamil. This isn't some generic ghost story you could drop anywhere—it's rooted in Tamil folklore and culture, and that makes it work. The mythology feels real because it's treated seriously. The village feels authentic because it is. The characters feel human because they're actually written like people.
 
@@ -67,9 +67,9 @@ Is it flawless? Nah. The middle drags, some plot threads could've been developed
 
 The atmosphere was solid even watching from home. But man, I can only imagine what this would've been like in a theater with that sound design. Still, even on a smaller screen, it did its job.
 
-Bottom line: If you like atmospheric horror that builds dread instead of just throwing jump scares at you, if you appreciate films that respect their cultural roots, and if you want horror with actual emotional depth, Pechi delivers. If you need constant action and scares every five minutes, you'll probably find it slow. But if you're down for horror that makes you think and leaves you unsettled? Absolutely worth it.
+Bottom line: If you like atmospheric horror that builds dread instead of just throwing jump scares at you, if you appreciate films that respect their cultural roots, and if you want horror with actual emotional depth, [Pechi](pechi.md) delivers. If you need constant action and scares every five minutes, you'll probably find it slow. But if you're down for horror that makes you think and leaves you unsettled? Absolutely worth it.
 
-**Final Thought:** Some spirits don't haunt because they're evil—they haunt because they were wronged and nobody listened. Pechi makes you listen.
+**Final Thought:** Some spirits don't haunt because they're evil—they haunt because they were wronged and nobody listened. [Pechi](pechi.md) makes you listen.
 
 **Rating: ★★★★☆ (Great Film)** - Atmospheric Tamil horror that earns its scares through tension and cultural authenticity instead of cheap tricks. Genuinely unsettling.
 
@@ -134,28 +134,28 @@ Bottom line: If you like atmospheric horror that builds dread instead of just th
 
 ### Origin Story
 
-The film centers around the legend of **Pechi**, a witch from ancient times with roots in dark magic practices. According to the movie's backstory, Pechi was a woman from a prestigious family who learned black magic in Kerala and returned to the forest, where she performed satanic rituals and human sacrifices to appease her demonic gods.
+The film centers around the legend of **[Pechi](pechi.md)**, a witch from ancient times with roots in dark magic practices. According to the movie's backstory, [Pechi](pechi.md) was a woman from a prestigious family who learned black magic in Kerala and returned to the forest, where she performed satanic rituals and human sacrifices to appease her demonic gods.
 
 She became increasingly powerful by serving demonic goddesses, performing strange and dark rituals deep in the forest with her family. Her practices were rooted in ancient occult traditions that demanded blood and suffering.
 
 ### Quest for Immortality
 
-Pechi's ultimate goal was to achieve **immortality through human sacrifice**. She would target villagers and demand they sacrifice themselves to her dark gods, threatening to kill them with her black magic if they refused. This reign of terror made her both feared and hated by the local communities.
+[Pechi](pechi.md)'s ultimate goal was to achieve **immortality through human sacrifice**. She would target villagers and demand they sacrifice themselves to her dark gods, threatening to kill them with her black magic if they refused. This reign of terror made her both feared and hated by the local communities.
 
 ### Defeat and Containment
 
-The villagers eventually discovered a critical weakness: **they had to avoid looking directly into her eyes** to defeat her, as eye contact would allow her to use her magic destructively. A saint informed them that Pechi had already achieved a form of immortality and couldn't be destroyed through conventional means—only trapped through invocation and ritual.
+The villagers eventually discovered a critical weakness: **they had to avoid looking directly into her eyes** to defeat her, as eye contact would allow her to use her magic destructively. A saint informed them that [Pechi](pechi.md) had already achieved a form of immortality and couldn't be destroyed through conventional means—only trapped through invocation and ritual.
 
 With the saint's guidance, the villagers:
 1. **Killed her physical body** in a coordinated attack while avoiding eye contact
 2. **Trapped her soul** in a wooden witchcraft poppet (voodoo doll)
 3. **Nailed the poppet to a tree** deep in the forest, binding her spirit to that location
 
-As long as the tree stood and the poppet remained intact, Pechi's spirit would remain imprisoned.
+As long as the tree stood and the poppet remained intact, [Pechi](pechi.md)'s spirit would remain imprisoned.
 
 ### The Movie's Plot
 
-The film follows a group of trekkers who accidentally release Pechi's spirit when they unknowingly **cut down the tree** containing her trapped soul. Once freed, the witch begins hunting them relentlessly, seeking to complete her quota of human sacrifices to achieve full immortality.
+The film follows a group of trekkers who accidentally release [Pechi](pechi.md)'s spirit when they unknowingly **cut down the tree** containing her trapped soul. Once freed, the witch begins hunting them relentlessly, seeking to complete her quota of human sacrifices to achieve full immortality.
 
 The horror unfolds as the group realizes they've unleashed an ancient evil that was deliberately imprisoned for centuries, and they must find a way to survive or stop her before she completes her dark ritual.
 

@@ -22,7 +22,7 @@
 
 ## Overview
 
-A direct continuation of the 2015 hit supernatural thriller, *Demonte Colony 2* brings horror back to its roots. The story centers around Debbie, a grieving widow who attempts to communicate with her late husband, inadvertently unearthing the cursed *Unsung King of a Fallen Kingdom* book and linking her fate with the estranged twin brothers Srini and Raghu. The film masterfully acts as both a prequel and a sequel, navigating a malevolent curse that strikes every six years.
+A direct continuation of the 2015 hit supernatural thriller, *[[Demonte Colony](demonte_colony.md) 2](demonte_colony_2.md)* brings horror back to its roots. The story centers around Debbie, a grieving widow who attempts to communicate with her late husband, inadvertently unearthing the cursed *Unsung King of a Fallen Kingdom* book and linking her fate with the estranged twin brothers Srini and Raghu. The film masterfully acts as both a prequel and a sequel, navigating a malevolent curse that strikes every six years.
 
 ## Story & Atmosphere
 
@@ -40,7 +40,7 @@ The film explores the catastrophic weight of grief and the dangerous lengths to 
 
 **Rating: ★★★★⯪ (9.0/10)**
 
-A remarkable and chilling sequel that enriches the lore of the original film. With its intricate storytelling, strong central performances, and a masterful handling of dread, *Demonte Colony 2* stands out as an excellent horror-thriller, successfully setting the stage for what's to come.
+A remarkable and chilling sequel that enriches the lore of the original film. With its intricate storytelling, strong central performances, and a masterful handling of dread, *[[Demonte Colony](demonte_colony.md) 2](demonte_colony_2.md)* stands out as an excellent horror-thriller, successfully setting the stage for what's to come.
 
 ---
 

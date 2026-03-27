@@ -22,7 +22,7 @@
 
 ## Overview
 
-Vadakkan is a Malayalam supernatural thriller that explores paranormal themes rooted in Kerala's cultural traditions. The story revolves around a paranormal investigator who flies from Helsinki to Kerala to investigate brutal deaths occurring during a reality TV show, uncovering an ancient entity tied to Theyyam rituals.
+[Vadakkan](vadakkan.md) is a Malayalam supernatural thriller that explores paranormal themes rooted in Kerala's cultural traditions. The story revolves around a paranormal investigator who flies from Helsinki to Kerala to investigate brutal deaths occurring during a reality TV show, uncovering an ancient entity tied to Theyyam rituals.
 
 ## Story & Atmosphere
 
@@ -59,7 +59,7 @@ The film attempts to dive into cultural horror rooted in Theyyam folklore, which
 
 ## Verdict
 
-Vadakkan is a missed opportunity. While the sound design and cinematography are commendable, and the cultural elements are intriguing, the film is let down by terrible CGI, a dragging pace, and a messy script. It works as a "one-time watch for the vibes and technical aspects," but if you're looking for genuine scares or tight storytelling, you'll likely be disappointed. Temper your expectations.
+[Vadakkan](vadakkan.md) is a missed opportunity. While the sound design and cinematography are commendable, and the cultural elements are intriguing, the film is let down by terrible CGI, a dragging pace, and a messy script. It works as a "one-time watch for the vibes and technical aspects," but if you're looking for genuine scares or tight storytelling, you'll likely be disappointed. Temper your expectations.
 
 ---
 

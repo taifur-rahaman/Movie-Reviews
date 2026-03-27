@@ -21,7 +21,7 @@
 
 ## Overview
 
-The House Next Door (known as "Aval" in Tamil and "Gruham" in Telugu) is a supernatural horror thriller that follows a neurosurgeon and his wife whose peaceful life in the Himalayas gets disrupted when a new family moves into the neighboring house. What starts as friendly neighborly interactions quickly spirals into terrifying paranormal events centered around the new family's teenage daughter, leading to questions about possession, revenge, and the dark history of the house next door.
+[The House Next Door](the_house_next_door.md) (known as "Aval" in Tamil and "Gruham" in Telugu) is a supernatural horror thriller that follows a neurosurgeon and his wife whose peaceful life in the Himalayas gets disrupted when a new family moves into the neighboring house. What starts as friendly neighborly interactions quickly spirals into terrifying paranormal events centered around the new family's teenage daughter, leading to questions about possession, revenge, and the dark history of the house next door.
 
 ## Story & Atmosphere
 
@@ -61,7 +61,7 @@ Unfortunately, these themes don't really land with much impact. The rushed endin
 
 ## Verdict
 
-The House Next Door (Aval) is a frustrating example of wasted potential. The film has all the ingredients for a solid horror experience—a beautiful Himalayan setting, strong production values, competent performances, and an interesting premise rooted in possession and past trauma. The setup is genuinely promising, with the isolated mountain location and the mysterious history of the house next door creating an atmosphere ripe for supernatural terror.
+[[The House Next Door](the_house_next_door.md) (Aval)](the_house_next_door.md) is a frustrating example of wasted potential. The film has all the ingredients for a solid horror experience—a beautiful Himalayan setting, strong production values, competent performances, and an interesting premise rooted in possession and past trauma. The setup is genuinely promising, with the isolated mountain location and the mysterious history of the house next door creating an atmosphere ripe for supernatural terror.
 
 But the execution falls flat where it matters most: the horror itself. For a film that's supposed to scare you, it's shockingly not scary. The jump scares are predictable and lame, lacking the tension and buildup needed to make them effective. The film never manages to create genuine dread or unease despite having all the right atmospheric elements in place.
 
@@ -112,7 +112,7 @@ The film tries to bridge Western possession horror conventions with Indian cultu
 
 **Similar films:** 
 - [Pechi](pechi.md) (Tamil horror with supernatural elements)
-- The Conjuring (Western possession horror)
+- [The Conjuring](the_conjuring.md) (Western possession horror)
 - Tumbbad (Indian horror with historical elements)
 - Stree (Indian horror-comedy with folklore)
 
@@ -150,7 +150,7 @@ The spirits of the murdered mother and daughter remained **trapped in the house 
 
 ## Additional Context: Background & Production
 
-"The House Next Door" was released simultaneously in three languages—Tamil (as "Aval"), Hindi (as "The House Next Door"), and Telugu (as "Gruham")—showing the filmmakers' ambition to reach audiences across India. 
+"[The House Next Door](the_house_next_door.md)" was released simultaneously in three languages—Tamil (as "Aval"), Hindi (as "[The House Next Door](the_house_next_door.md)"), and Telugu (as "Gruham")—showing the filmmakers' ambition to reach audiences across India. 
 
 The film was directed by Milind Rau and co-written by Rau and lead actor Siddharth, who also co-produced the project. This level of creative control from the lead actor suggests a passion project rather than just another commercial horror film.
 

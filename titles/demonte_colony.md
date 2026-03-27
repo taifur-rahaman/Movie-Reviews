@@ -26,7 +26,7 @@ Four friends completely drunk, decide to do something adventurous and visit a ha
 
 ## Story & Atmosphere
 
-Demonte Colony throws away the usual horror tropes. Instead of spending the whole runtime wandering around a creepy mansion, the characters return to their apartment early on—and that's when the real nightmare begins. It shifts from a haunted house story into a brilliant "locked-room" claustrophobic thriller. Once the four friends return from their drunken excursion to the cursed Demonte Colony, they realize they are trapped inside their own home.
+[Demonte Colony](demonte_colony.md) throws away the usual horror tropes. Instead of spending the whole runtime wandering around a creepy mansion, the characters return to their apartment early on—and that's when the real nightmare begins. It shifts from a haunted house story into a brilliant "locked-room" claustrophobic thriller. Once the four friends return from their drunken excursion to the cursed [Demonte Colony](demonte_colony.md), they realize they are trapped inside their own home.
 
 The script smartly utilizes simple, everyday elements—a TV, a power cut, rain, a sudden temperature drop, and a stolen cursed necklace—to build a sense of inescapable dread. The tension ramps up steadily rather than relying on cheap fake-outs. As the group starts unraveling the gruesome history of John Demonte, the realization sets in that the entity hasn't just followed them; it has completely sealed them off from the outside world.
 
@@ -46,7 +46,7 @@ It's a bleak, unforgiving horror movie that doesn't feel the need to give its pr
 
 **Rating: 8.3/10**
 
-A genuinely terrifying, claustrophobic experience that proves you don't need a massive budget to scare the audience. By trapping its characters in an everyday apartment and stripping away their hope piece by piece, *Demonte Colony* delivers one of the most effective Kollywood horror thrillers. It’s smart, gripping, unapologetic, and ruthless.
+A genuinely terrifying, claustrophobic experience that proves you don't need a massive budget to scare the audience. By trapping its characters in an everyday apartment and stripping away their hope piece by piece, *[Demonte Colony](demonte_colony.md)* delivers one of the most effective Kollywood horror thrillers. It’s smart, gripping, unapologetic, and ruthless.
 
 ---
 
@@ -106,13 +106,13 @@ The haunting rumors state that John de Monte, deeply embittered by his tragic li
 
 In the film, the horror truly begins when **Raghavan steals a cursed gold chain** from the Demonte mansion. The film plays with the idea that the spirit of demised entities clings to their worldly possessions, and taking them is an invitation for absolute terror.
 
-The movie also establishes a terrifying cosmic "dual bond" rule where if two destinies are linked, the fate of one directly affects the other, a concept further explored in the *Demonte Colony* expanded universe.
+The movie also establishes a terrifying cosmic "dual bond" rule where if two destinies are linked, the fate of one directly affects the other, a concept further explored in the *[Demonte Colony](demonte_colony.md)* expanded universe.
 
 ---
 
 ## Additional Context
 
-What makes *Demonte Colony* significantly stand out from typical supernatural flicks is its refusal to grant happy endings or use the traditional "holy intervention" trope to save the day. The protagonists aren't fighting a demon they can easily banish with a quick prayer; they are enduring the wrath of an inescapable curse that demands blood. It’s a grounded, terrifying study into paranoia, regret, and survival instinct when sealed in a room with a vengeful entity.
+What makes *[Demonte Colony](demonte_colony.md)* significantly stand out from typical supernatural flicks is its refusal to grant happy endings or use the traditional "holy intervention" trope to save the day. The protagonists aren't fighting a demon they can easily banish with a quick prayer; they are enduring the wrath of an inescapable curse that demands blood. It’s a grounded, terrifying study into paranoia, regret, and survival instinct when sealed in a room with a vengeful entity.
 
 ---
 

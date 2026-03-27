@@ -13,7 +13,7 @@
 1. ✓ **[The Nun](titles/the_nun.md)** (Set in 1952)
    - **Lore Context:** Explores the terrifying origins of the demonic nun, Valak, deep within a cloistered abbey in Romania. This is the chronological beginning of the known universe.
 2. ✓ **[Annabelle: Creation](titles/annabelle_creation.md)** (Set in 1955)
-   - **Lore Context:** Reveals how a tragic accident led a grieving dollmaker to unwittingly invite a demonic presence to possess the infamous Annabelle doll.
+   - **Lore Context:** Reveals how a tragic accident led a grieving dollmaker to unwittingly invite a demonic presence to possess the infamous [Annabelle](titles/annabelle.md) doll.
 3. ✓ **[The Nun II](titles/the_nun_2.md)** (Set in 1956)
    - **Lore Context:** Sister Irene faces Valak once again at a boarding school in France, expanding on Valak's reign of terror through Europe.
 4. ✓ **[Annabelle](titles/annabelle.md)** (Set in 1967)
@@ -21,9 +21,9 @@
 5. ✓ **[The Conjuring](titles/the_conjuring.md)** (Set in 1971)
    - **Lore Context:** The anchor of the universe. Ed and Lorraine Warren investigate the Perron family's harrowing farmhouse haunting in Harrisville, Rhode Island.
 6. ✓ **[Annabelle Comes Home](titles/annabelle_comes_home.md)** (Set in 1972)
-   - **Lore Context:** The Warrens bring the Annabelle doll to their artifact room, but it awakens other evil spirits to target their young daughter.
+   - **Lore Context:** The Warrens bring the [Annabelle](titles/annabelle.md) doll to their artifact room, but it awakens other evil spirits to target their young daughter.
 7. ✓ **[The Curse of La Llorona](titles/the_curse_of_la_llorona.md)** (Set in 1973)
-   - **Lore Context:** A tangential story set in Los Angeles involving the Mexican folklore of the Weeping Woman. Features a brief connection to the Annabelle doll via Father Perez.
+   - **Lore Context:** A tangential story set in Los Angeles involving the Mexican folklore of the Weeping Woman. Features a brief connection to the [Annabelle](titles/annabelle.md) doll via Father Perez.
 8. ✓ **[The Conjuring 2](titles/the_conjuring_2.md)** (Set in 1977)
    - **Lore Context:** The Warrens travel to London to help the Hodgson family with the Enfield Poltergeist, bringing them face-to-face with Valak once again.
 9. ✓ **[The Conjuring: The Devil Made Me Do It](titles/the_conjuring_the_devil_made_me_do_it.md)** (Set in 1981)
@@ -49,7 +49,7 @@
 ### 📅 Release & Chronological Order
 *The timeline of the films naturally progresses with their release order.*
 1. ✓ **[Demonte Colony](titles/demonte_colony.md)** (2015)
-   - **Lore Context:** Four friends decide to visit a haunted dilapidated mansion in Demonte Colony, stealing a cursed necklace that ruins their lives. Masterful use of a single location.
+   - **Lore Context:** Four friends decide to visit a haunted dilapidated mansion in [Demonte Colony](titles/demonte_colony.md), stealing a cursed necklace that ruins their lives. Masterful use of a single location.
 2. ✓ **[Demonte Colony 2](titles/demonte_colony_2.md)** (2024)
    - **Lore Context:** Set six years later, picking up exactly where the original left off to explore a prequel/sequel dynamic detailing the terrifying origins of John Demonte.
 

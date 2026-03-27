@@ -22,7 +22,7 @@
 
 ## Overview
 
-**The Conjuring: The Devil Made Me Do It** breaks the formula of the first two films. Instead of a haunted house story, it functions as a paranormal police procedural / courtroom drama. Investigating the real-life trial of Arne Cheyenne Johnson, who claimed demonic possession as a defense for murder, the Warrens uncover a sinister satanic curse.
+**[[The Conjuring](the_conjuring.md): The Devil Made Me Do It](the_conjuring_the_devil_made_me_do_it.md)** breaks the formula of the first two films. Instead of a haunted house story, it functions as a paranormal police procedural / courtroom drama. Investigating the real-life trial of Arne Cheyenne Johnson, who claimed demonic possession as a defense for murder, the Warrens uncover a sinister satanic curse.
 
 ## Story & Atmosphere
 
@@ -49,7 +49,7 @@ The villain is a fictional addition, but serves to show that humans can wield da
 
 ## Verdict
 
-**The Conjuring 3** is a solid thriller but a step down as a horror movie. It’s great to see the Warrens in a different setting, investigating a mystery, but the scare factor is significantly lower. It’s more of a supernatural detective story.
+**[The Conjuring](the_conjuring.md) 3** is a solid thriller but a step down as a horror movie. It’s great to see the Warrens in a different setting, investigating a mystery, but the scare factor is significantly lower. It’s more of a supernatural detective story.
 
 **Rating: ★★★☆☆ (6.5/10)**
 

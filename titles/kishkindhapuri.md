@@ -22,7 +22,7 @@
 
 ## Overview
 
-Kishkindhapuri is a 2025 Telugu horror film about ghost tour guides who accidentally awaken an angry spirit at an abandoned radio station. What promises to be a spooky supernatural thriller quickly devolves into unintentional comedy, with a cartoonish climax that feels more like a Cartoon Network special than genuine horror.
+[Kishkindhapuri](kishkindhapuri.md) is a 2025 Telugu horror film about ghost tour guides who accidentally awaken an angry spirit at an abandoned radio station. What promises to be a spooky supernatural thriller quickly devolves into unintentional comedy, with a cartoonish climax that feels more like a Cartoon Network special than genuine horror.
 
 ## Story & Atmosphere
 
@@ -53,7 +53,7 @@ The second half has some decent twists if you can get past the protagonist's sup
 
 ## Verdict
 
-Kishkindhapuri is a comedy disguised as a horror film, and nobody told the director. If you want a scary movie, skip this entirely. If you want to laugh at a movie that takes itself way too seriously while the protagonist has main character syndrome on steroids and the final boss fight looks like it was choreographed by someone who watched too much anime, then grab some popcorn.
+[Kishkindhapuri](kishkindhapuri.md) is a comedy disguised as a horror film, and nobody told the director. If you want a scary movie, skip this entirely. If you want to laugh at a movie that takes itself way too seriously while the protagonist has main character syndrome on steroids and the final boss fight looks like it was choreographed by someone who watched too much anime, then grab some popcorn.
 
 **Rating Breakdown:**  
 - As horror: 2/5  

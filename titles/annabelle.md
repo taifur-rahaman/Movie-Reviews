@@ -22,24 +22,24 @@
 
 ## Overview
 
-**Annabelle** is the first spin-off in the Conjuring Universe, diving into the backstory of the creepy doll introduced in the first film. It follows a young couple, Mia and John Form, who experience a terrifying home invasion by satanic cultists, an event that attaches a malevolent entity to a vintage doll.
+**[Annabelle](annabelle.md)** is the first spin-off in the Conjuring Universe, diving into the backstory of the creepy doll introduced in the first film. It follows a young couple, Mia and John Form, who experience a terrifying home invasion by satanic cultists, an event that attaches a malevolent entity to a vintage doll.
 
 ## Story & Atmosphere
 
 The film tries to capture the vintage 60s/70s horror vibe of *Rosemary’s Baby*, focusing on a pregnant woman identifying a threat that no one else sees. The opening home invasion scene is genuinely intense and violent, setting a grim tone.
 
-However, after that strong start, the movie meanders. It relies heavily on standard jump scares—doors slamming, popcorn popping (yes, really), and the doll moving. It lacks the masterful tension-building of *The Conjuring*. The atmosphere feels a bit generic, missing the unique visual identity that James Wan usually brings.
+However, after that strong start, the movie meanders. It relies heavily on standard jump scares—doors slamming, popcorn popping (yes, really), and the doll moving. It lacks the masterful tension-building of *[The Conjuring](the_conjuring.md)*. The atmosphere feels a bit generic, missing the unique visual identity that James Wan usually brings.
 
 ## Performances & Direction
 
-**Annabelle Wallis** does her best as Mia, but the character is largely written as a standard "damsel in distress." **Ward Horton** as the husband is somewhat forgettable. **Alfre Woodard** adds some gravitas as a mystic neighbor, but her character feels like a plot device to explain the supernatural elements.
+**[Annabelle](annabelle.md) Wallis** does her best as Mia, but the character is largely written as a standard "damsel in distress." **Ward Horton** as the husband is somewhat forgettable. **Alfre Woodard** adds some gravitas as a mystic neighbor, but her character feels like a plot device to explain the supernatural elements.
 
-**John R. Leonetti** (who was the cinematographer for *The Conjuring*) directs, but he struggles to replicate the scare factor. The visuals are competent but lack creativity.
+**John R. Leonetti** (who was the cinematographer for *[The Conjuring](the_conjuring.md)*) directs, but he struggles to replicate the scare factor. The visuals are competent but lack creativity.
 
 ## Folklore & Mythology
 
 ### The Real Annabelle Doll
-In reality, Annabelle is a Raggedy Ann doll, not the porcelain nightmare seen in the film. The Warrens claim it was a conduit for a demonic spirit that manipulated nursing students. The movie doll was redesigned to look inherently scary, which ironically makes it less scary—why would anyone buy that doll in the first place?
+In reality, [Annabelle](annabelle.md) is a Raggedy Ann doll, not the porcelain nightmare seen in the film. The Warrens claim it was a conduit for a demonic spirit that manipulated nursing students. The movie doll was redesigned to look inherently scary, which ironically makes it less scary—why would anyone buy that doll in the first place?
 
 ### Soul Conduit
 The film introduces the lore that demons cannot possess objects, only people. They use objects (like the doll) as a conduit or anchor to preserve their energy while they manipulate a human host to give up their soul.
@@ -49,7 +49,7 @@ Set in the late 60s, the film taps into the real-world fear caused by the Manson
 
 ## Verdict
 
-**Annabelle** is a functional but underwhelming horror movie. It capitalizes on the intriguing prop from *The Conjuring* but fails to give it a story worthy of its reputation. It has a few decent scares (the basement elevator scene stands out), but overall, it feels like a cash-grab compared to the main films.
+**[Annabelle](annabelle.md)** is a functional but underwhelming horror movie. It capitalizes on the intriguing prop from *[The Conjuring](the_conjuring.md)* but fails to give it a story worthy of its reputation. It has a few decent scares (the basement elevator scene stands out), but overall, it feels like a cash-grab compared to the main films.
 
 **Rating: ★★⯪☆☆ (5/10)**
 
@@ -80,7 +80,7 @@ Set in the late 60s, the film taps into the real-world fear caused by the Manson
 
 **Completed (Past Viewing):**
 -   Essential viewing only for completionists of the universe.
--   The sequel/prequel *Annabelle: Creation* is significantly better.
+-   The sequel/prequel *[[Annabelle](annabelle.md): Creation](annabelle_creation.md)* is significantly better.
 
 ---
 

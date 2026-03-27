@@ -22,11 +22,11 @@
 
 ## Overview
 
-**The Conjuring 2** sees Ed and Lorraine Warren travel to London to tackle one of the most documented paranormal cases in history: the Enfield Poltergeist. A single mother and her four children are besieged by a malicious spirit, but Lorraine fears a greater evil is pulling the strings—a demon nun that has been haunting her visions.
+**[[The Conjuring](the_conjuring.md) 2](the_conjuring_2.md)** sees Ed and Lorraine Warren travel to London to tackle one of the most documented paranormal cases in history: the Enfield Poltergeist. A single mother and her four children are besieged by a malicious spirit, but Lorraine fears a greater evil is pulling the strings—a demon nun that has been haunting her visions.
 
 ## Story & Atmosphere
 
-Sequels rarely live up to the original, but *The Conjuring 2* comes very close. It shifts the setting from a secluded farmhouse to a cramped, rainy council house in London, which changes the texture of the horror. It feels grittier and more claustrophobic.
+Sequels rarely live up to the original, but *[[The Conjuring](the_conjuring.md) 2](the_conjuring_2.md)* comes very close. It shifts the setting from a secluded farmhouse to a cramped, rainy council house in London, which changes the texture of the horror. It feels grittier and more claustrophobic.
 
 The film does a great job of balancing two threats: the spirit of the old man, Bill Wilkins, who haunts the family, and the shadowy demon Valak. The scene where Ed interviews "Bill" through the young girl, Janet, is a masterclass in tension. The "Crooked Man" sequence adds a touch of dark fairytale horror that divides audiences (some find it CGI-heavy, others find it unnerving), but it shows Wan's willingness to experiment.
 
@@ -54,7 +54,7 @@ The film emphasizes that demons often mock religious figures and relationships. 
 
 ## Verdict
 
-**The Conjuring 2** is a powerhouse sequel. It’s longer and louder than the first, but it retains the emotional core that makes these movies work. The villain (Valak) is terrifying, the setting is unique, and the bond between the Warrens is stronger than ever.
+**[[The Conjuring](the_conjuring.md) 2](the_conjuring_2.md)** is a powerhouse sequel. It’s longer and louder than the first, but it retains the emotional core that makes these movies work. The villain (Valak) is terrifying, the setting is unique, and the bond between the Warrens is stronger than ever.
 
 **Rating: ★★★★☆ (8/10)**
 

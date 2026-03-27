@@ -22,11 +22,11 @@
 
 ## Overview
 
-Echa, a frustrated housewife who, seeking solace from a strained marriage, finds herself entangled with a malicious spirit after having vivid dreams. The plot involves a malevolent genie, Jin Dasim, who becomes obsessed with Echa, turning her harmonious home into a nightmare of supernatural events.
+Echa, a frustrated housewife who, seeking solace from a strained marriage, finds herself entangled with a malicious spirit after having vivid dreams. The plot involves a malevolent genie, Jin [Dasim](dasim.md), who becomes obsessed with Echa, turning her harmonious home into a nightmare of supernatural events.
 
 ## Story & Atmosphere
 
-The film establishes a dreary, tense atmosphere early on, heavily relying on the claustrophobia of a strained marriage. The inclusion of the Jin Dasim mythology adds an interesting cultural flavor to the demonic possession subgenre. However, the story quickly devolves into repetitive jump scares and supernatural clichés. The pacing drags, making the 1 hour and 30 minutes feel significantly longer than it should. What could have been a deeply unsettling psychological horror ends up feeling like a melodramatic soap opera heavily punctuated by loud noises.
+The film establishes a dreary, tense atmosphere early on, heavily relying on the claustrophobia of a strained marriage. The inclusion of the Jin [Dasim](dasim.md) mythology adds an interesting cultural flavor to the demonic possession subgenre. However, the story quickly devolves into repetitive jump scares and supernatural clichés. The pacing drags, making the 1 hour and 30 minutes feel significantly longer than it should. What could have been a deeply unsettling psychological horror ends up feeling like a melodramatic soap opera heavily punctuated by loud noises.
 
 ## Performances & Direction
 
@@ -34,13 +34,13 @@ The direction by Fajar Aditya is serviceable but ultimately uninspired. While th
 
 ## Themes & Impact
 
-*Devil's Bride* attempts to weave themes of marital dissatisfaction, obsessive love, and spiritual vulnerability. The idea of a malevolent genie exploiting the cracks in a failing marriage is a strong thematic foundation. Unfortunately, the film touches upon these ideas only superficially. Rather than exploring the psychological toll of these issues, it uses them merely as cheap setups for the next supernatural encounter.
+*[Devil's Bride](devils_bride.md)* attempts to weave themes of marital dissatisfaction, obsessive love, and spiritual vulnerability. The idea of a malevolent genie exploiting the cracks in a failing marriage is a strong thematic foundation. Unfortunately, the film touches upon these ideas only superficially. Rather than exploring the psychological toll of these issues, it uses them merely as cheap setups for the next supernatural encounter.
 
 ## Verdict
 
 **Rating: ★★☆☆☆ (4.5/10)**
 
-*Devil's Bride* brings an interesting mythological concept to the table but squanders it with poor pacing, overreliance on clichés, and a lack of genuine scares. While it may offer a few mild thrills for die-hard fans of Indonesian supernatural cinema, it ultimately fails to leave a lasting impression. There are much stronger films in the genre that actually deliver on the dread this movie merely hints at.
+*[Devil's Bride](devils_bride.md)* brings an interesting mythological concept to the table but squanders it with poor pacing, overreliance on clichés, and a lack of genuine scares. While it may offer a few mild thrills for die-hard fans of Indonesian supernatural cinema, it ultimately fails to leave a lasting impression. There are much stronger films in the genre that actually deliver on the dread this movie merely hints at.
 
 ---
 
@@ -65,7 +65,7 @@ The direction by Fajar Aditya is serviceable but ultimately uninspired. While th
 
 - Completed on 25th March 2026.
 - Relies too much on loud noises rather than actual suspense.
-- The mythology of Jin Dasim was the only truly interesting part, wish they did more with it.
+- The mythology of Jin [Dasim](dasim.md) was the only truly interesting part, wish they did more with it.
 
 ### Memorable Moments
 
