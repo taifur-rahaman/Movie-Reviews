@@ -116,6 +116,15 @@
 
 ---
 
+## ⚡ Harry Potter Series 
+*A magical journey following the Boy Who Lived through his years at Hogwarts School of Witchcraft and Wizardry, battling the dark forces of Lord Voldemort.*
+
+### 📅 Release & Chronological Order
+1. **[Harry Potter and the Sorcerer's Stone](titles/harry_potter_and_the_sorcerers_stone.md)** (2001)
+   - **Lore Context:** Introduction to the wizarding world. Harry discovers his magical heritage and begins his first year at Hogwarts, uncovering the mystery of the Sorcerer's Stone.
+
+---
+
 <div align="center">
   <p><em>Check out the full list of <a href="recommendations.md">Recommendations</a> or return to the <a href="README.md">Main Archive</a>.</em></p>
 </div>

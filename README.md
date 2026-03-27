@@ -31,7 +31,7 @@
 | **📜 Films Logged** | **25 Films** | *Stories Documented* |
 | **⏳ Hours Watched** | **43h 13m** | *Total Watch Time* |
 | **🎬 Films Completed** | **24 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
+| **📺 Currently Watching** | **2 Active** | *Stories Unfolding* |
 
 ---
 
@@ -43,6 +43,7 @@
 | 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Dasim](titles/dasim.md) | 2025 | 1h 39m | Horror | Home | 27th March 2026 |
+| [Harry Potter and the Sorcerer's Stone](titles/harry_potter_and_the_sorcerers_stone.md) | 2001 | 2h 32m | Fantasy / Adventure | Home | 27th March 2026 |
 
 ---
 
