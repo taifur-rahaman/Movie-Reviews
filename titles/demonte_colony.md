@@ -8,7 +8,7 @@
 | Release Date       | 22nd May 2015               |
 | Director           | R. Ajay Gnanamuthu          |
 | Genre              | Horror / Thriller           |
-| Status             | Completed                   |
+| Status             | Watched                     |
 | Watch Start Date   | 20th February 2026          |
 | Watch End Date     | 21st February 2026          |
 | Runtime            | 1h 56m                      |

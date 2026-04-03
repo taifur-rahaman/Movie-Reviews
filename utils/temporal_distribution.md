@@ -10,11 +10,11 @@ This document tracks the temporal distribution of movies watched, organized by y
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Movies Logged** | 24 |
-| **Movies Completed** | 24 |
-| **Currently Watching** | 0 |
-| **Total Watch Time** | 43h 13m |
-| **Average Movie Length** | 1h 48m |
+| **Total Movies Logged** | 28 |
+| **Movies Completed** | 27 |
+| **Currently Watching** | 1 |
+| **Total Watch Time** | 54h 48m |
+| **Average Movie Length** | 1h 57m |
 | **Most Watched Year** | 2023, 2025 (Tie) |
 | **Most Watched Genre** | Horror |
 
@@ -31,6 +31,9 @@ Be sure to check out the **[Movie Franchises & Chronologies Guide](../chronology
 | **Year** | **Movies Watched** | **Total Runtime** | **Films** |
 |:---:|:---:|:---:|:---|
 | 1999 | 1 | 1h 33m | [Blue Streak](../titles/blue_streak.md) |
+| 2001 | 1 | 2h 32m | [Harry Potter and the Sorcerer's Stone](../titles/harry_potter_and_the_sorcerers_stone.md) |
+| 2002 | 1 | 2h 41m | [Harry Potter and the Chamber of Secrets](../titles/harry_potter_and_the_chamber_of_secrets.md) |
+| 2004 | 1 | 2h 22m | [Harry Potter and the Prisoner of Azkaban](../titles/harry_potter_and_the_prisoner_of_azkaban.md) |
 | 2009 | 1 | 2h 26m | [13B: Fear Has a New Address](../titles/13b.md) |
 | 2012 | 1 | 1h 43m | [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) |
 | 2013 | 1 | 1h 52m | [The Conjuring](../titles/the_conjuring.md) |
@@ -56,7 +59,7 @@ Be sure to check out the **[Movie Franchises & Chronologies Guide](../chronology
 | Animation | 1 | 1h 25m | ★★★⯪☆ |
 | Comedy | 1 | 1h 33m | ★★⯪☆☆ |
 | Thriller & Suspense | 0 | 0h 0m | N/A |
-| Sci-Fi & Fantasy | 0 | 0h 0m | N/A |
+| Sci-Fi & Fantasy | 3 | 7h 35m | ★★★★☆ (avg) |
 | Romance | 0 | 0h 0m | N/A |
 | Horror | 21 | 40h 53m | ★★★☆☆ (avg) |
 | Mystery & Crime | 0 | 0h 0m | N/A |
@@ -71,6 +74,7 @@ Be sure to check out the **[Movie Franchises & Chronologies Guide](../chronology
 | January 2026 | 6 | 11h 55m |
 | February 2026 | 13 | 24h 19m |
 | March 2026 | 4 | 6h 59m |
+| April 2026 | 3 | 7h 35m |
 
 ### 🗓️ Detailed Viewing Log (2026)
 
@@ -100,6 +104,9 @@ Be sure to check out the **[Movie Franchises & Chronologies Guide](../chronology
 | **Mar 22** | [Haikyu!! The Dumpster Battle](../titles/haikyu_the_dumpster_battle.md) | ★★★⯪☆ | 1h 25m |
 | **Mar 22** | [Demonte Colony 2](../titles/demonte_colony_2.md) | ★★★★⯪ | 2h 21m |
 | **Mar 25** | [Devil's Bride](../titles/devils_bride.md) | ★★☆☆☆ | 1h 30m |
+| **Apr 03** | [Harry Potter and the Sorcerer's Stone](../titles/harry_potter_and_the_sorcerers_stone.md) | ★★★★☆ | 2h 32m |
+| **Apr 03** | [Harry Potter and the Chamber of Secrets](../titles/harry_potter_and_the_chamber_of_secrets.md) | ★★★★☆ | 2h 41m |
+| **Apr 03** | [Harry Potter and the Prisoner of Azkaban](../titles/harry_potter_and_the_prisoner_of_azkaban.md) | ★★★★⯪ | 2h 22m |
 
 ---
 
@@ -108,8 +115,9 @@ Be sure to check out the **[Movie Franchises & Chronologies Guide](../chronology
 | **Rank** | **Film** | **Year** | **Rating** | **Genre** |
 |:---:|:---|:---:|:---:|:---|
 | 1 | [Demonte Colony 2](../titles/demonte_colony_2.md) | 2024 | ★★★★⯪ (9.0) | Horror |
-| 2 | [The Conjuring](../titles/the_conjuring.md) | 2013 | ★★★★☆ (8.5) | Horror |
-| 3 | [Demonte Colony](../titles/demonte_colony.md) | 2015 | ★★★★☆ (8.3) | Horror |
+| 2 | [Harry Potter and the Prisoner of Azkaban](../titles/harry_potter_and_the_prisoner_of_azkaban.md) | 2004 | ★★★★⯪ (9.0) | Fantasy |
+| 3 | [The Conjuring](../titles/the_conjuring.md) | 2013 | ★★★★☆ (8.5) | Horror |
+| 4 | [Demonte Colony](../titles/demonte_colony.md) | 2015 | ★★★★☆ (8.3) | Horror |
 | 4 | [The Conjuring 2](../titles/the_conjuring_2.md) | 2016 | ★★★★☆ (8.0) | Horror |
 | 5 | [Pechi](../titles/pechi.md) | 2024 | ★★★★☆ (8.0) | Horror |
 | 6 | [13B: Fear Has a New Address](../titles/13b.md) | 2009 | ★★★⯪☆ (7.5) | Horror |
@@ -121,6 +129,16 @@ Be sure to check out the **[Movie Franchises & Chronologies Guide](../chronology
 ---
 
 ## 🗺️ Movie Reviews by Country
+
+### 🇬🇧 United Kingdom
+#### 🎬 British Cinema
+*British Fantasy & Co-Productions*
+
+| 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🎭 **Genre** | 🛡️ **Status** | 📺 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Harry Potter and the Sorcerer's Stone](../titles/harry_potter_and_the_sorcerers_stone.md) | 2001 | ★★★★☆ | 2h 32m | Fantasy | Watched | Home |
+| [Harry Potter and the Chamber of Secrets](../titles/harry_potter_and_the_chamber_of_secrets.md) | 2002 | ★★★★☆ | 2h 41m | Fantasy | Watched | Home |
+| [Harry Potter and the Prisoner of Azkaban](../titles/harry_potter_and_the_prisoner_of_azkaban.md) | 2004 | ★★★★⯪ | 2h 22m | Fantasy | Watched | Home |
 
 ### 🇺🇸 USA
 #### 🎬 Hollywood

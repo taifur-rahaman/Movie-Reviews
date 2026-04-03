@@ -122,6 +122,10 @@
 ### 📅 Release & Chronological Order
 1. **[Harry Potter and the Sorcerer's Stone](titles/harry_potter_and_the_sorcerers_stone.md)** (2001)
    - **Lore Context:** Introduction to the wizarding world. Harry discovers his magical heritage and begins his first year at Hogwarts, uncovering the mystery of the Sorcerer's Stone.
+2. **[Harry Potter and the Chamber of Secrets](titles/harry_potter_and_the_chamber_of_secrets.md)** (2002)
+   - **Lore Context:** Harry's second year delves deeper into the dark history of Hogwarts and the legacy of Salazar Slytherin. Introduces the concept of Parseltongue and Tom Riddle's diary.
+3. **[Harry Potter and the Prisoner of Azkaban](titles/harry_potter_and_the_prisoner_of_azkaban.md)** (2004)
+   - **Lore Context:** Harry's third year takes a darker turn as escaped convict Sirius Black seemingly targets him, introducing Dementors and deep secrets about Harry's family.
 
 ---
 

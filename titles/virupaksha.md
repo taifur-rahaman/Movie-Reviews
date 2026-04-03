@@ -8,7 +8,7 @@
 | Release Date       | 21st April 2023             |
 | Director           | Karthik Varma Dandu         |
 | Genre              | Horror / Thriller / Mystery |
-| Status             | Completed                   |
+| Status             | Watched                     |
 | Watch Start Date   | 11th February 2026          |
 | Watch End Date     | 12th February 2026          |
 | Runtime            | 2h 26m                      |

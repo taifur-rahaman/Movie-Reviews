@@ -8,7 +8,7 @@
 | Release Date       | 3rd November 2017           |
 | Director           | Milind Rau                  |
 | Genre              | Horror / Thriller           |
-| Status             | Completed                   |
+| Status             | Watched                     |
 | Watch Date         | 31st January 2026           |
 | Runtime            | 2h 17m                      |
 | Rating             | ★★⯪☆☆ (4.8/10)             |

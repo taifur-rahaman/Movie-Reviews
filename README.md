@@ -28,10 +28,10 @@
 
 | **🗝️ Metric** | 💎 **Value** | 🔮 **Description** |
 | :--- | :---: | :--- |
-| **📜 Films Logged** | **25 Films** | *Stories Documented* |
-| **⏳ Hours Watched** | **43h 13m** | *Total Watch Time* |
-| **🎬 Films Completed** | **24 Films** | *Journeys Finished* |
-| **📺 Currently Watching** | **2 Active** | *Stories Unfolding* |
+| **📜 Films Logged** | **28 Films** | *Stories Documented* |
+| **⏳ Hours Watched** | **54h 48m** | *Total Watch Time* |
+| **🎬 Films Completed** | **27 Films** | *Journeys Finished* |
+| **📺 Currently Watching** | **1 Active** | *Stories Unfolding* |
 
 ---
 
@@ -43,7 +43,6 @@
 | 📜 **Film** | 📅 **Year** | ⏳ **Runtime** | 🎭 **Genre** | 📺 **Platform** | 🗓️ **Started** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Dasim](titles/dasim.md) | 2025 | 1h 39m | Horror | Home | 27th March 2026 |
-| [Harry Potter and the Sorcerer's Stone](titles/harry_potter_and_the_sorcerers_stone.md) | 2001 | 2h 32m | Fantasy / Adventure | Home | 27th March 2026 |
 
 ---
 
@@ -102,8 +101,9 @@
 
 | 📜 **Film** | 📅 **Year** | 🌟 **Rating** | ⏳ **Runtime** | 🛡️ **Status** | 📺 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-
-*No films logged yet. Add your first sci-fi or fantasy film!*
+| [Harry Potter and the Sorcerer's Stone](titles/harry_potter_and_the_sorcerers_stone.md) | 2001 | ★★★★☆ | 2h 32m | Watched | Home |
+| [Harry Potter and the Chamber of Secrets](titles/harry_potter_and_the_chamber_of_secrets.md) | 2002 | ★★★★☆ | 2h 41m | Watched | Home |
+| [Harry Potter and the Prisoner of Azkaban](titles/harry_potter_and_the_prisoner_of_azkaban.md) | 2004 | ★★★★⯪ | 2h 22m | Watched | Home |
 
 ---
 
@@ -176,6 +176,6 @@
 
 
 *The Cinematic Archives*  
-*Last Updated: 22nd March 2026*
+*Last Updated: 3rd April 2026*
 
 </div>
